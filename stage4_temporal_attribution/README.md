@@ -2,6 +2,16 @@
 
 研究对象是 WUR 公开五分钟温室岩棉体积含水量，主实验预测提前量为 60 分钟，辅助为 120 分钟。实验沿用阶段三的 LightGBM、划分、标签和特征定义。以传感器、历史区间及其交组为单位，比较完整输入、记录形态遮蔽、等预算随机遮蔽及四种连续遮蔽对照。 [第三阶段结果](../baseline_validation/FINAL_STAGE_DECISION.md) · [第二阶段研究依据](../dataset_scouting_round2/FINAL_RESEARCH_RECOMMENDATION.md)
 
+## 交付完整性
+
+[SHA256SUMS.txt](SHA256SUMS.txt) 按制表符记录相对路径、字节数和 SHA-256，覆盖正式报告、代码、模型、结果及图表。清单自身和 Python 缓存不参与计算。从项目根目录运行：
+
+```powershell
+python -B stage4_temporal_attribution/scripts/hash_manifest.py --check
+```
+
+在需要重新生成清单时，省略 `--check`。 [清单脚本](scripts/hash_manifest.py)
+
 ## 报告
 
 1. [实验设计与固定判据](XAI_METHOD_DESIGN.md)

@@ -1,0 +1,94 @@
+{
+  "seed": 20261108,
+  "primary_horizon_min": 60,
+  "horizons_min": [
+    30,
+    60,
+    120
+  ],
+  "history_lags_min": [
+    0,
+    30,
+    60,
+    90
+  ],
+  "feature_order": [
+    "wc_0m",
+    "soil_temp_0m",
+    "air_temp_0m",
+    "air_rh_0m",
+    "wc_30m",
+    "soil_temp_30m",
+    "air_temp_30m",
+    "air_rh_30m",
+    "wc_60m",
+    "soil_temp_60m",
+    "air_temp_60m",
+    "air_rh_60m",
+    "wc_90m",
+    "soil_temp_90m",
+    "air_temp_90m",
+    "air_rh_90m",
+    "wc_relative_30m",
+    "wc_relative_60m",
+    "wc_relative_90m"
+  ],
+  "channels": [
+    "处理2",
+    "处理5"
+  ],
+  "season_roles": {
+    "2023": "train",
+    "2024": "validation",
+    "2025": "test"
+  },
+  "choices": {
+    "30": {
+      "selected_learning_model": "LightGBM",
+      "models": {
+        "Ridge": {
+          "params": "alpha=0.1",
+          "validation_mae": 0.09507584382060615
+        },
+        "LightGBM": {
+          "params": "num_leaves=31",
+          "validation_mae": 0.0621190344716018
+        }
+      }
+    },
+    "60": {
+      "selected_learning_model": "LightGBM",
+      "models": {
+        "Ridge": {
+          "params": "alpha=0.1",
+          "validation_mae": 0.20409846644800833
+        },
+        "LightGBM": {
+          "params": "num_leaves=15",
+          "validation_mae": 0.09563758558333742
+        }
+      }
+    },
+    "120": {
+      "selected_learning_model": "LightGBM",
+      "models": {
+        "Ridge": {
+          "params": "alpha=0.1",
+          "validation_mae": 0.5068639554717509
+        },
+        "LightGBM": {
+          "params": "num_leaves=15",
+          "validation_mae": 0.17812899718093006
+        }
+      }
+    }
+  },
+  "test_gate": {
+    "min_test_weeks": 6,
+    "min_weeks_per_channel": 4,
+    "require_positive_skill": true,
+    "require_positive_ci_lower": true,
+    "require_rmse_le_persistence": true,
+    "require_both_channels_improved": true
+  }
+}

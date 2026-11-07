@@ -1,0 +1,16 @@
+﻿horizon_min,model,params,validation_mae
+30,Ridge,alpha=0.1,0.0950758438
+30,Ridge,alpha=1,0.097012928
+30,Ridge,alpha=10,0.104499493
+30,LightGBM,num_leaves=15,0.0628935726
+30,LightGBM,num_leaves=31,0.0621190345
+60,Ridge,alpha=0.1,0.204098466
+60,Ridge,alpha=1,0.208082014
+60,Ridge,alpha=10,0.223234232
+60,LightGBM,num_leaves=15,0.0956375856
+60,LightGBM,num_leaves=31,0.0983241611
+120,Ridge,alpha=0.1,0.506863955
+120,Ridge,alpha=1,0.512420613
+120,Ridge,alpha=10,0.533362544
+120,LightGBM,num_leaves=15,0.178128997
+120,LightGBM,num_leaves=31,0.195364979

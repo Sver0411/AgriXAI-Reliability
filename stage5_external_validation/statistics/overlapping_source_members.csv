@@ -1,0 +1,8 @@
+﻿year,family,channel,member_a,member_b,shared_slots,exact_times,wc_agree_0_01pp,wc_nonmissing_both,wc_abs_difference_median,all_six_agree_0_0001
+2023,2023_export,处理1,2023-2025 Tomato dataset/2023/202305/raw_data/sensor_data/2023-园艺所-tianhang-sensor-处理1.csv,2023-2025 Tomato dataset/2023/202307/raw_data/sensor_data/sensor1.xlsx,48,0,48,48,0,48
+2023,2023_export,处理2,2023-2025 Tomato dataset/2023/202305/raw_data/sensor_data/2023-园艺所-tianhang-sensor-处理2.csv,2023-2025 Tomato dataset/2023/202306/raw_data/sensor_data/2023-园艺所-tianhang-sensor-处理2.csv,2925,2925,2925,2925,0,2925
+2023,2023_export,处理2,2023-2025 Tomato dataset/2023/202305/raw_data/sensor_data/2023-园艺所-tianhang-sensor-处理2.csv,2023-2025 Tomato dataset/2023/202307/raw_data/sensor_data/sensor2.xlsx,48,0,48,48,0,48
+2023,2023_export,处理2,2023-2025 Tomato dataset/2023/202306/raw_data/sensor_data/2023-园艺所-tianhang-sensor-处理2.csv,2023-2025 Tomato dataset/2023/202307/raw_data/sensor_data/sensor2.xlsx,48,0,48,48,0,48
+2023,2023_export,处理5,2023-2025 Tomato dataset/2023/202305/raw_data/sensor_data/2023-园艺所-tianhang-sensor-处理5.csv,2023-2025 Tomato dataset/2023/202307/raw_data/sensor_data/sensor2.xlsx,48,0,48,48,0,48
+2023,2023_export,处理6,2023-2025 Tomato dataset/2023/202305/raw_data/sensor_data/2023-园艺所-tianhang-sensor-处理6.csv,2023-2025 Tomato dataset/2023/202307/raw_data/sensor_data/sensor1.xlsx,48,0,48,48,0,48
+2023,2023_export,处理7,2023-2025 Tomato dataset/2023/202305/raw_data/sensor_data/2023-园艺所-tianhang-sensor-处理7.csv,2023-2025 Tomato dataset/2023/202307/raw_data/sensor_data/sensor2.xlsx,48,0,48,48,0,48

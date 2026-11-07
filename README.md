@@ -8,8 +8,9 @@
 | 2 · 全球公开农业时序数据调查 | [候选数据、原件审查与研究方向](dataset_scouting_round2/README.md) |
 | 3 · 独立预测基线 | [实验报告](baseline_validation/BASELINE_EXPERIMENT_REPORT.md) · [预测任务决策](baseline_validation/FINAL_STAGE_DECISION.md) |
 | 4 · 时序归因稳定性与忠实性 | [交付索引、图表与复算](stage4_temporal_attribution/README.md) · [第四阶段决策](stage4_temporal_attribution/STAGE4_FINAL_DECISION.md) |
+| 5 · 外部验证 | [数据审查与复算](stage5_external_validation/README.md) · [第五阶段决策](stage5_external_validation/STAGE5_READINESS_DECISION.md) |
 
-阶段三的 WUR 60 分钟模型在两个留出隔间均优于 Persistence，合并 MAE 降低 14.45%。Parma 跨季预测未达到预定门槛。阶段四在 WUR 观察到小预测变化下的归因排名变动，以及忠实性评价对替换方式的敏感性。第五阶段判定为 **CONDITIONAL GO**，待独立设施或茬次验证。
+阶段三的 WUR 60 分钟模型在两个留出隔间均优于 Persistence，合并 MAE 降低 14.45%。Parma 跨季预测未达到预定门槛。阶段四在 WUR 观察到小预测变化下的归因排名变动，以及忠实性评价对替换方式的敏感性。第五阶段用 Horti-M3 做跨季验证。学习模型未通过预设预测门槛，当前候选判定为 **NO-GO**，外部归因实验保留为方案。
 
 ## 数据与复算
 
