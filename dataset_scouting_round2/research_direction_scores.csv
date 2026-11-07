@@ -1,0 +1,4 @@
+"direction","scope","data_0_2","labels_0_2","independent_test_0_2","lab_fit_0_2","method_distinction_0_2","two_year_feasibility_0_2","total_12","decision","data","gate"
+"A","根区水分短期预测的解释忠实性与传感扰动稳定性","2","2","2","2","2","2","12","CONDITIONAL GO","Evolving 2023–25 + WUR 独立域；Horti 可选","固定时钟/标签协议和持久性基线门槛，证明三季与外部组切分可用"
+"B","番茄植物水分胁迫估计的解释可靠性","1","1","1","1","1","1","6","CONDITIONAL GO（受控复现）／NO-GO（泛化）","Buss 电生理、Evolving 2025 器官代理、四株直接叶水势作机制对照","独立新批次和可同步校验的真实标签不足"
+"C","温室多模态生长时序的解释可靠性","2","1","1","1","1","1","7","CONDITIONAL GO（备选）","Horti 原始植株日和环境，UC Davis 生菜低频补充","解释主问题明确、先做纯标量；限制稀疏表型、已有 Horti 鲁棒研究和图像范围"

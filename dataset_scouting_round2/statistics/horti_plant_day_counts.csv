@@ -1,0 +1,4 @@
+﻿campaign,raw_rows,plant_ids,dates,first,last,plant_day_unique,茎粗_finite_plant_days,叶面积_finite_plant_days,株高_finite_plant_days,NDVI_finite_plant_days,LAI_finite_plant_days,LNC_finite_plant_days
+2023,1404,78,9,2023-05-07 00:00:00,2023-07-01 00:00:00,702,0,702,0,702,702,702
+2024,972,108,9,2024-09-21 00:00:00,2024-11-13 00:00:00,972,918,0,918,918,918,918
+2025,864,108,8,2025-04-19 00:00:00,2025-06-13 00:00:00,864,864,0,864,864,864,864

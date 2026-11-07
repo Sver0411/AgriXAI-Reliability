@@ -1,0 +1,880 @@
+﻿file,site,campaign_year,sheet,role,field,sensor,calendar_year,n_records,n_missing,missing_fraction,blanks,encoded_missing,encoded_values,longest_missing_run_rows,unique_nonmissing,zero_values,nonfinite_numeric,rh_outside_0_100,minimum_numeric,maximum_numeric,longest_flat_run_rows
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,Time,,all,77181,0,0.0,0,0,{},0,77181,0,0,,,,
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,Time,,2019,77181,0,0.0,0,0,{},0,77181,0,0,,,,
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,T,,all,77181,80,0.0010365245332400461,80,0,{},34,1900,0,0,,11.9,34.3,19.0
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,T,,2019,77181,80,0.0010365245332400461,80,0,{},34,1900,0,0,,11.9,34.3,19.0
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,RH,,all,77181,80,0.0010365245332400461,80,0,{},34,3825,0,0,0.0,36.0,100.0,71.0
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,RH,,2019,77181,80,0.0010365245332400461,80,0,{},34,3825,0,0,0.0,36.0,100.0,71.0
+Environment/2019/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Info,metadata,Entry,,not applicable,8,0,0.0,0,0,{},0,8,0,0,,,,
+Environment/2019/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Info,metadata,Description_or_Manufacturer,,not applicable,8,2,0.25,2,0,{},1,6,0,0,,,,
+Environment/2019/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Info,metadata,Unit_or_Type,,not applicable,8,2,0.25,2,0,{},1,6,0,0,,,,
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,Time,,all,6450,0,0.0,0,0,{},0,6450,0,0,,,,
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,Time,,2019,2,0,0.0,0,0,{},0,2,0,0,,,,
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,Time,,unknown,6448,0,0.0,0,0,{},0,6448,0,0,,,,
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,PYR,,all,6450,0,0.0,0,0,{},0,2990,1000,0,,0.0,724.057971,21.0
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,PYR,,2019,2,0,0.0,0,0,{},0,2,0,0,,0.434782609,0.666666667,1.0
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,PYR,,unknown,6448,0,0.0,0,0,{},0,2990,1000,0,,0.0,724.057971,21.0
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,Time,,all,59327,0,0.0,0,0,{},0,59327,0,0,,,,
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,Time,,2018,364,0,0.0,0,0,{},0,364,0,0,,,,
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,Time,,2019,58963,0,0.0,0,0,{},0,58963,0,0,,,,
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,G,,all,59327,0,0.0,0,0,{},0,1623,11570,0,,0.0,1126.1904761904761,444.0
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,G,,2018,364,0,0.0,0,0,{},0,74,0,0,,0.47619047619047616,64.76190476190476,152.0
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,G,,2019,58963,0,0.0,0,0,{},0,1623,11570,0,,0.0,1126.1904761904761,444.0
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,Time,,all,86530,0,0.0,0,0,{},0,86530,0,0,,,,
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,Time,,2020,86530,0,0.0,0,0,{},0,86530,0,0,,,,
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,T,,all,86530,168,0.001941523171154513,168,0,{},50,1935,0,0,,11.7,33.08,23.0
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,T,,2020,86530,168,0.001941523171154513,168,0,{},50,1935,0,0,,11.7,33.08,23.0
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,RH,,all,86530,168,0.001941523171154513,168,0,{},50,3961,0,0,0.0,37.0,100.0,167.0
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,RH,,2020,86530,168,0.001941523171154513,168,0,{},50,3961,0,0,0.0,37.0,100.0,167.0
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,29934,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,29934,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,all,29934,0,0.0,0,0,{},0,1469,0,0,,12.177,34.269,5.0
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,unknown,29934,0,0.0,0,0,{},0,1469,0,0,,12.177,34.269,5.0
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative humidity,,all,29934,0,0.0,0,0,{},0,16186,0,0,0.0,24.61,97.354,2.0
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative humidity,,unknown,29934,0,0.0,0,0,{},0,16186,0,0,0.0,24.61,97.354,2.0
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,52544,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,52544,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,all,52544,0,0.0,0,0,{},0,1592,0,0,,9.913,33.345,6.0
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,unknown,52544,0,0.0,0,0,{},0,1592,0,0,,9.913,33.345,6.0
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative humidity,,all,52544,0,0.0,0,0,{},0,19567,0,0,0.0,26.983,97.49,3.0
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative humidity,,unknown,52544,0,0.0,0,0,{},0,19567,0,0,0.0,26.983,97.49,3.0
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,30785,0,0.0,0,0,{},0,3598,0,0,,,,
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,30785,0,0.0,0,0,{},0,3598,0,0,,,,
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,all,30785,0,0.0,0,0,{},0,1681,0,0,,11.926,37.556,6.0
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,unknown,30785,0,0.0,0,0,{},0,1681,0,0,,11.926,37.556,6.0
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative humidity,,all,30785,0,0.0,0,0,{},0,16421,0,0,0.0,26.807,99.24,2.0
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative humidity,,unknown,30785,0,0.0,0,0,{},0,16421,0,0,0.0,26.807,99.24,2.0
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,20900,0,0.0,0,0,{},0,3585,0,0,,,,
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,20900,0,0.0,0,0,{},0,3585,0,0,,,,
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,all,20900,0,0.0,0,0,{},0,1360,0,0,,12.193,32.178,4.0
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,unknown,20900,0,0.0,0,0,{},0,1360,0,0,,12.193,32.178,4.0
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative humidity,,all,20900,0,0.0,0,0,{},0,12439,0,0,0.0,27.192,97.009,2.0
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative humidity,,unknown,20900,0,0.0,0,0,{},0,12439,0,0,0.0,27.192,97.009,2.0
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,52065,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,52065,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,all,52065,0,0.0,0,0,{},0,1481,0,0,,12.487,35.764,7.0
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,unknown,52065,0,0.0,0,0,{},0,1481,0,0,,12.487,35.764,7.0
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative Humidity,,all,52065,0,0.0,0,0,{},0,19982,0,0,0.0,25.371,97.006,3.0
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative Humidity,,unknown,52065,0,0.0,0,0,{},0,19982,0,0,0.0,25.371,97.006,3.0
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,56033,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,56033,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,all,56033,0,0.0,0,0,{},0,1588,0,0,,11.379,34.824,7.0
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,unknown,56033,0,0.0,0,0,{},0,1588,0,0,,11.379,34.824,7.0
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative Humidity,,all,56033,0,0.0,0,0,{},0,20619,0,0,0.0,25.806,99.51,3.0
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative Humidity,,unknown,56033,0,0.0,0,0,{},0,20619,0,0,0.0,25.806,99.51,3.0
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,51647,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,51647,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,all,51647,0,0.0,0,0,{},0,1643,0,0,,10.129,34.829,8.0
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,unknown,51647,0,0.0,0,0,{},0,1643,0,0,,10.129,34.829,8.0
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative Humidity,,all,51647,0,0.0,0,0,{},0,19645,0,0,0.0,25.357,100.0,9.0
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative Humidity,,unknown,51647,0,0.0,0,0,{},0,19645,0,0,0.0,25.357,100.0,9.0
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,24336,0,0.0,0,0,{},0,3598,0,0,,,,
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,24336,0,0.0,0,0,{},0,3598,0,0,,,,
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,all,24336,0,0.0,0,0,{},0,1325,0,0,,12.941,33.032,5.0
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Temperature,,unknown,24336,0,0.0,0,0,{},0,1325,0,0,,12.941,33.032,5.0
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative Humidity,,all,24336,0,0.0,0,0,{},0,13750,0,0,0.0,25.504,96.361,2.0
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Relative Humidity,,unknown,24336,0,0.0,0,0,{},0,13750,0,0,0.0,25.504,96.361,2.0
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,Entry,,not applicable,9,0,0.0,0,0,{},0,9,0,0,,,,
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,Description_or_Manufacturer,,not applicable,9,2,0.2222222222222222,2,0,{},1,6,0,0,,,,
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,Unit_or_Type,,not applicable,9,2,0.2222222222222222,2,0,{},1,7,0,0,,,,
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,ID_sensor,,not applicable,15,0,0.0,0,0,{},0,15,0,0,,,,
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,Row,,not applicable,15,0,0.0,0,0,{},0,7,0,0,,4.0,30.0,
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,Column,,not applicable,15,0,0.0,0,0,{},0,4,0,0,,7.0,20.0,
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,Static,,not applicable,15,14,0.9333333333333333,14,0,{},14,1,0,0,,1.0,1.0,
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,Zone,,not applicable,15,0,0.0,0,0,{},0,3,0,0,,1.0,2.0,
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,Time,,all,6575,0,0.0,0,0,{},0,6575,0,0,,,,
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,Time,,2020,6575,0,0.0,0,0,{},0,6575,0,0,,,,
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,temp,,all,6575,0,0.0,0,0,{},0,369,5,0,,-3.3,35.3,4.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,temp,,2020,6575,0,0.0,0,0,{},0,369,5,0,,-3.3,35.3,4.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,humidity_relative,,all,6575,0,0.0,0,0,{},0,735,0,0,0.0,23.8,99.9,80.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,humidity_relative,,2020,6575,0,0.0,0,0,{},0,735,0,0,0.0,23.8,99.9,80.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,pressure,,all,6575,0,0.0,0,0,{},0,538,0,0,,985.3,1049.7,5.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,pressure,,2020,6575,0,0.0,0,0,{},0,538,0,0,,985.3,1049.7,5.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,sun_duration_24hours,,all,6575,6301,0.9583269961977187,6301,0,{},23,214,24,0,,0.0,867.0,1.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,sun_duration_24hours,,2020,6575,6301,0.9583269961977187,6301,0,{},23,214,24,0,,0.0,867.0,1.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,short_wave_from_sky_24hours,,all,6575,6301,0.9583269961977187,6301,0,{},23,273,0,0,,475300.0,30024800.0,1.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,short_wave_from_sky_24hours,,2020,6575,6301,0.9583269961977187,6301,0,{},23,273,0,0,,475300.0,30024800.0,1.0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,Entry,,not applicable,3,0,0.0,0,0,{},0,3,0,0,,,,
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,Value,,not applicable,3,0,0.0,0,0,{},0,3,0,0,,6464.0,6464.0,
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,66741,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,66741,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,all,66741,45,0.0006742482132422349,45,0,{},43,343,0,0,,12.6,50.5,54.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,unknown,66741,45,0.0006742482132422349,45,0,{},43,343,0,0,,12.6,50.5,54.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,all,66741,45,0.0006742482132422349,45,0,{},43,73,0,0,0.0,25.0,97.0,62.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,unknown,66741,45,0.0006742482132422349,45,0,{},43,73,0,0,0.0,25.0,97.0,62.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,all,66741,45,0.0006742482132422349,45,0,{},43,7591,20352,0,,0.0,65454.0,1393.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,unknown,66741,45,0.0006742482132422349,45,0,{},43,7591,20352,0,,0.0,65454.0,1393.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,all,66741,135,0.0020227446397267047,135,0,{},47,300,5,0,,0.0,99.9,47.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,unknown,66741,135,0.0020227446397267047,135,0,{},47,300,5,0,,0.0,99.9,47.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,all,66741,135,0.0020227446397267047,135,0,{},47,78,11,0,0.0,0.0,98.0,47.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,unknown,66741,135,0.0020227446397267047,135,0,{},47,78,11,0,0.0,0.0,98.0,47.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,all,66741,135,0.0020227446397267047,135,0,{},47,4554,21230,0,,0.0,60805.0,1379.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,unknown,66741,135,0.0020227446397267047,135,0,{},47,4554,21230,0,,0.0,60805.0,1379.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,all,66741,1217,0.018234668344795552,1217,0,{},1080,258,2,0,,0.0,45.8,36.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,unknown,66741,1217,0.018234668344795552,1217,0,{},1080,258,2,0,,0.0,45.8,36.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,all,66741,1217,0.018234668344795552,1217,0,{},1080,78,6,0,3.0,0.0,184.0,42.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,unknown,66741,1217,0.018234668344795552,1217,0,{},1080,78,6,0,3.0,0.0,184.0,42.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,all,66741,1217,0.018234668344795552,1217,0,{},1080,3159,22488,0,,0.0,54640.0,1379.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,unknown,66741,1217,0.018234668344795552,1217,0,{},1080,3159,22488,0,,0.0,54640.0,1379.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,all,66741,1222,0.01830958481293358,1222,0,{},1081,252,0,0,,13.8,48.3,23.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,unknown,66741,1222,0.01830958481293358,1222,0,{},1081,252,0,0,,13.8,48.3,23.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,all,66741,1222,0.01830958481293358,1222,0,{},1081,71,0,0,0.0,25.0,95.0,47.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,unknown,66741,1222,0.01830958481293358,1222,0,{},1081,71,0,0,0.0,25.0,95.0,47.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,all,66741,1222,0.01830958481293358,1222,0,{},1081,2786,24183,0,,0.0,34037.0,124.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,unknown,66741,1222,0.01830958481293358,1222,0,{},1081,2786,24183,0,,0.0,34037.0,124.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 14),,all,66741,66740,0.9999850167063724,66740,0,{},37417,1,1,0,,0.0,0.0,1.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 14),,unknown,66741,66740,0.9999850167063724,66740,0,{},37417,1,1,0,,0.0,0.0,1.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 15),,all,66741,66740,0.9999850167063724,66740,0,{},37417,1,1,0,,0.0,0.0,1.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 15),,unknown,66741,66740,0.9999850167063724,66740,0,{},37417,1,1,0,,0.0,0.0,1.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 16),,all,66741,66740,0.9999850167063724,66740,0,{},37417,1,1,0,,0.0,0.0,1.0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 16),,unknown,66741,66740,0.9999850167063724,66740,0,{},37417,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,67036,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,67036,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,all,67036,510,0.007607852497165702,510,0,{},468,320,2,0,,0.0,47.5,44.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,unknown,67036,510,0.007607852497165702,510,0,{},468,320,2,0,,0.0,47.5,44.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,all,67036,510,0.007607852497165702,510,0,{},468,73,2,0,0.0,0.0,97.0,107.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,unknown,67036,510,0.007607852497165702,510,0,{},468,73,2,0,0.0,0.0,97.0,107.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,all,67036,510,0.007607852497165702,510,0,{},468,6489,18671,0,,0.0,64860.0,2883.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,unknown,67036,510,0.007607852497165702,510,0,{},468,6489,18671,0,,0.0,64860.0,2883.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,all,67036,1952,0.029118682498955786,1952,0,{},1391,293,3,0,,0.0,45.0,47.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,unknown,67036,1952,0.029118682498955786,1952,0,{},1391,293,3,0,,0.0,45.0,47.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,all,67036,1952,0.029118682498955786,1952,0,{},1391,71,5,0,0.0,0.0,98.0,98.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,unknown,67036,1952,0.029118682498955786,1952,0,{},1391,71,5,0,0.0,0.0,98.0,98.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,all,67036,1952,0.029118682498955786,1952,0,{},1391,4295,19302,0,,0.0,57384.0,703.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,unknown,67036,1952,0.029118682498955786,1952,0,{},1391,4295,19302,0,,0.0,57384.0,703.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,all,67036,2777,0.04142550271495913,2777,0,{},1391,279,1,0,,0.0,45.4,54.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,unknown,67036,2777,0.04142550271495913,2777,0,{},1391,279,1,0,,0.0,45.4,54.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,all,67036,2777,0.04142550271495913,2777,0,{},1391,70,1,0,0.0,0.0,96.0,93.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,unknown,67036,2777,0.04142550271495913,2777,0,{},1391,70,1,0,0.0,0.0,96.0,93.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,all,67036,2777,0.04142550271495913,2777,0,{},1391,2860,19362,0,,0.0,51875.0,351.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,unknown,67036,2777,0.04142550271495913,2777,0,{},1391,2860,19362,0,,0.0,51875.0,351.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,all,67036,2855,0.04258905662629035,2855,0,{},1391,237,1,0,,0.0,38.1,37.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,unknown,67036,2855,0.04258905662629035,2855,0,{},1391,237,1,0,,0.0,38.1,37.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,all,67036,2855,0.04258905662629035,2855,0,{},1391,67,1,0,0.0,0.0,95.0,103.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,unknown,67036,2855,0.04258905662629035,2855,0,{},1391,67,1,0,0.0,0.0,95.0,103.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,all,67036,2855,0.04258905662629035,2855,0,{},1391,2421,19764,0,,0.0,29132.0,1079.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,unknown,67036,2855,0.04258905662629035,2855,0,{},1391,2421,19764,0,,0.0,29132.0,1079.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 14),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 14),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 15),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 15),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 16),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 16),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 17),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 17),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 18),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 18),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 19),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 19),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 20),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 20),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 21),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 21),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 22),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 22),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 23),,all,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,(unnamed 23),,unknown,67036,67035,0.9999850826421625,67035,0,{},39451,1,1,0,,0.0,0.0,1.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,99804,0,0.0,0,0,{},0,99803,0,0,,,,
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,2019,44011,0,0.0,0,0,{},0,44010,0,0,,,,
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,2020,55793,0,0.0,0,0,{},0,55793,0,0,,,,
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,all,99804,4,4.007855396577292e-05,4,0,{},2,371,0,0,,11.4,49.5,176.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,2019,44011,4,9.088636931676171e-05,4,0,{},2,358,0,0,,11.4,49.5,85.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,2020,55793,0,0.0,0,0,{},0,330,0,0,,11.4,46.2,176.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,all,99804,4,4.007855396577292e-05,4,0,{},2,158,209,0,80.0,0.0,251.0,344.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,2019,44011,4,9.088636931676171e-05,4,0,{},2,85,0,0,0.0,15.0,99.0,210.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,2020,55793,0,0.0,0,0,{},0,152,209,0,80.0,0.0,251.0,344.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,all,99804,4,4.007855396577292e-05,4,0,{},2,8100,30455,0,,0.0,65187.0,1616.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,2019,44011,4,9.088636931676171e-05,4,0,{},2,6724,11017,0,,0.0,65187.0,163.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,2020,55793,0,0.0,0,0,{},0,6913,19438,0,,0.0,65146.0,1616.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,all,99804,9,9.017674642298906e-05,9,0,{},5,383,0,0,,11.4,50.7,140.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,2019,44011,4,9.088636931676171e-05,4,0,{},2,365,0,0,,12.2,50.7,102.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,2020,55793,5,8.961697704013049e-05,5,0,{},5,280,0,0,,11.4,40.3,140.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,all,99804,9,9.017674642298906e-05,9,0,{},5,79,0,0,0.0,19.0,99.0,230.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,2019,44011,4,9.088636931676171e-05,4,0,{},2,78,0,0,0.0,19.0,97.0,181.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,2020,55793,5,8.961697704013049e-05,5,0,{},5,61,0,0,0.0,36.0,99.0,230.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,all,99804,9,9.017674642298906e-05,9,0,{},5,7149,29461,0,,0.0,65290.0,248.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,2019,44011,4,9.088636931676171e-05,4,0,{},2,6188,10788,0,,0.0,62320.0,248.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,2020,55793,5,8.961697704013049e-05,5,0,{},5,5117,18673,0,,0.0,65290.0,191.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,all,99804,9995,0.10014628672197508,9995,0,{},9771,350,0,0,,11.4,47.2,161.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,2019,44011,9990,0.2269887073686124,9990,0,{},9771,315,0,0,,14.7,47.2,27.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,2020,55793,5,8.961697704013049e-05,5,0,{},5,246,0,0,,11.4,36.7,161.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,all,99804,9995,0.10014628672197508,9995,0,{},9771,75,0,0,0.0,21.0,95.0,252.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,2019,44011,9990,0.2269887073686124,9990,0,{},9771,75,0,0,0.0,21.0,95.0,252.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,2020,55793,5,8.961697704013049e-05,5,0,{},5,59,0,0,0.0,35.0,93.0,227.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,all,99804,9995,0.10014628672197508,9995,0,{},9771,5294,27295,0,,0.0,59310.0,2143.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,2019,44011,9990,0.2269887073686124,9990,0,{},9771,4568,8619,0,,0.0,53923.0,148.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,2020,55793,5,8.961697704013049e-05,5,0,{},5,3773,18676,0,,0.0,59310.0,2143.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,all,99804,10526,0.10546671476093143,10526,0,{},9772,354,0,0,,11.6,99.9,151.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,2019,44011,10520,0.23903115130308333,10520,0,{},9772,318,0,0,,15.2,99.9,61.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,2020,55793,6,0.00010754037244815658,6,0,{},5,237,0,0,,11.6,36.8,151.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,all,99804,10526,0.10546671476093143,10526,0,{},9772,79,1,0,0.0,0.0,97.0,205.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,2019,44011,10520,0.23903115130308333,10520,0,{},9772,79,1,0,0.0,0.0,97.0,145.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,2020,55793,6,0.00010754037244815658,6,0,{},5,63,0,0,0.0,33.0,95.0,205.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,all,99804,10526,0.10546671476093143,10526,0,{},9772,4035,28664,0,,0.0,34463.0,472.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,2019,44011,10520,0.23903115130308333,10520,0,{},9772,3775,8949,0,,0.0,34463.0,472.0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,2020,55793,6,0.00010754037244815658,6,0,{},5,2762,19715,0,,0.0,14586.0,178.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,97569,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,97569,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,all,97569,2,2.0498314013672377e-05,2,0,{},2,376,3,0,,0.0,50.0,47.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,unknown,97569,2,2.0498314013672377e-05,2,0,{},2,376,3,0,,0.0,50.0,47.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,all,97569,2,2.0498314013672377e-05,2,0,{},2,120,247,0,25.0,0.0,254.0,162.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,unknown,97569,2,2.0498314013672377e-05,2,0,{},2,120,247,0,25.0,0.0,254.0,162.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,all,97569,2,2.0498314013672377e-05,2,0,{},2,8445,30345,0,,0.0,65474.0,664.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,unknown,97569,2,2.0498314013672377e-05,2,0,{},2,8445,30345,0,,0.0,65474.0,664.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,all,97569,169,0.0017321075341553158,169,0,{},43,387,12,0,,0.0,99.9,46.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,unknown,97569,169,0.0017321075341553158,169,0,{},43,387,12,0,,0.0,99.9,46.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,all,97569,169,0.0017321075341553158,169,0,{},43,83,15,0,0.0,0.0,98.0,162.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,unknown,97569,169,0.0017321075341553158,169,0,{},43,83,15,0,0.0,0.0,98.0,162.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,all,97569,169,0.0017321075341553158,169,0,{},43,7599,32322,0,,0.0,65454.0,1011.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,unknown,97569,169,0.0017321075341553158,169,0,{},43,7599,32322,0,,0.0,65454.0,1011.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,all,97569,12581,0.1289446443030061,12581,0,{},7052,372,5,0,,0.0,53.3,42.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,unknown,97569,12581,0.1289446443030061,12581,0,{},7052,372,5,0,,0.0,53.3,42.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,all,97569,12581,0.1289446443030061,12581,0,{},7052,85,8,0,0.0,0.0,98.0,163.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,unknown,97569,12581,0.1289446443030061,12581,0,{},7052,85,8,0,0.0,0.0,98.0,163.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,all,97569,12581,0.1289446443030061,12581,0,{},7052,5940,27273,0,,0.0,57937.0,157.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,unknown,97569,12581,0.1289446443030061,12581,0,{},7052,5940,27273,0,,0.0,57937.0,157.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,all,97569,12588,0.12901638840205393,12588,0,{},12491,301,4,0,,0.0,42.7,43.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,unknown,97569,12588,0.12901638840205393,12588,0,{},12491,301,4,0,,0.0,42.7,43.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,all,97569,12588,0.12901638840205393,12588,0,{},12491,78,4,0,0.0,0.0,98.0,111.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,unknown,97569,12588,0.12901638840205393,12588,0,{},12491,78,4,0,0.0,0.0,98.0,111.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,all,97569,12588,0.12901638840205393,12588,0,{},12491,4018,29219,0,,0.0,31170.0,182.0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,unknown,97569,12588,0.12901638840205393,12588,0,{},12491,4018,29219,0,,0.0,31170.0,182.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,133724,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,133724,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,all,133724,3002,0.02244922377434118,3002,0,{},2985,384,1,0,,0.0,50.4,67.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,unknown,133724,3002,0.02244922377434118,3002,0,{},2985,384,1,0,,0.0,50.4,67.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,all,133724,3002,0.02244922377434118,3002,0,{},2985,213,1025,0,205.0,0.0,255.0,128.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,unknown,133724,3002,0.02244922377434118,3002,0,{},2985,213,1025,0,205.0,0.0,255.0,128.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,all,133724,3002,0.02244922377434118,3002,0,{},2985,9118,39287,0,,0.0,65535.0,1204.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,unknown,133724,3002,0.02244922377434118,3002,0,{},2985,9118,39287,0,,0.0,65535.0,1204.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,all,133724,30297,0.2265636684514373,30297,0,{},9477,333,0,0,,12.0,46.7,68.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,unknown,133724,30297,0.2265636684514373,30297,0,{},9477,333,0,0,,12.0,46.7,68.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,all,133724,30297,0.2265636684514373,30297,0,{},9477,81,0,0,0.0,19.0,99.0,130.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,unknown,133724,30297,0.2265636684514373,30297,0,{},9477,81,0,0,0.0,19.0,99.0,130.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,all,133724,30297,0.2265636684514373,30297,0,{},9477,5454,38231,0,,0.0,65187.0,744.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,unknown,133724,30297,0.2265636684514373,30297,0,{},9477,5454,38231,0,,0.0,65187.0,744.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,all,133724,50821,0.38004397116448807,50821,0,{},19351,335,0,0,,12.1,45.8,79.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,unknown,133724,50821,0.38004397116448807,50821,0,{},19351,335,0,0,,12.1,45.8,79.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,all,133724,50821,0.38004397116448807,50821,0,{},19351,67,0,0,0.0,28.0,97.0,134.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,unknown,133724,50821,0.38004397116448807,50821,0,{},19351,67,0,0,0.0,28.0,97.0,134.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,all,133724,50821,0.38004397116448807,50821,0,{},19351,4091,24360,0,,0.0,64122.0,622.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,unknown,133724,50821,0.38004397116448807,50821,0,{},19351,4091,24360,0,,0.0,64122.0,622.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,all,133724,56716,0.42412730699051776,56716,0,{},25292,354,0,0,,12.9,49.1,117.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,unknown,133724,56716,0.42412730699051776,56716,0,{},25292,354,0,0,,12.9,49.1,117.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,all,133724,56716,0.42412730699051776,56716,0,{},25292,70,0,0,0.0,23.0,94.0,116.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,unknown,133724,56716,0.42412730699051776,56716,0,{},25292,70,0,0,0.0,23.0,94.0,116.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,all,133724,56716,0.42412730699051776,56716,0,{},25292,3233,25516,0,,0.0,26511.0,621.0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,unknown,133724,56716,0.42412730699051776,56716,0,{},25292,3233,25516,0,,0.0,26511.0,621.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,all,66416,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Date,,unknown,66416,0,0.0,0,0,{},0,3600,0,0,,,,
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,all,66416,7872,0.11852565646832089,7872,0,{},7871,390,0,0,,11.9,52.9,44.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Temperature,,unknown,66416,7872,0.11852565646832089,7872,0,{},7871,390,0,0,,11.9,52.9,44.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,all,66416,7872,0.11852565646832089,7872,0,{},7871,80,0,0,0.0,20.0,99.0,73.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_RelativeHumidity,,unknown,66416,7872,0.11852565646832089,7872,0,{},7871,80,0,0,0.0,20.0,99.0,73.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,all,66416,7872,0.11852565646832089,7872,0,{},7871,7716,16240,0,,-30096.0,65331.0,155.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,base_Light,,unknown,66416,7872,0.11852565646832089,7872,0,{},7871,7716,16240,0,,-30096.0,65331.0,155.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,all,66416,12881,0.19394423030595037,12881,0,{},11531,385,0,0,,12.0,52.3,45.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Temperature,,unknown,66416,12881,0.19394423030595037,12881,0,{},11531,385,0,0,,12.0,52.3,45.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,all,66416,12881,0.19394423030595037,12881,0,{},11531,79,0,0,0.0,19.0,97.0,58.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_RelativeHumidity,,unknown,66416,12881,0.19394423030595037,12881,0,{},11531,79,0,0,0.0,19.0,97.0,58.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,all,66416,12881,0.19394423030595037,12881,0,{},11531,6726,16340,0,,0.0,64634.0,176.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,top_Light,,unknown,66416,12881,0.19394423030595037,12881,0,{},11531,6726,16340,0,,0.0,64634.0,176.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,all,66416,24839,0.3739912069380872,24839,0,{},11951,366,0,0,,12.1,51.2,22.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Temperature,,unknown,66416,24839,0.3739912069380872,24839,0,{},11951,366,0,0,,12.1,51.2,22.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,all,66416,24839,0.3739912069380872,24839,0,{},11951,79,0,0,0.0,18.0,96.0,31.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_RelativeHumidity,,unknown,66416,24839,0.3739912069380872,24839,0,{},11951,79,0,0,0.0,18.0,96.0,31.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,all,66416,24839,0.3739912069380872,24839,0,{},11951,5204,11832,0,,0.0,57692.0,99.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,middle_Light,,unknown,66416,24839,0.3739912069380872,24839,0,{},11951,5204,11832,0,,0.0,57692.0,99.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,all,66416,25187,0.379230908214888,25187,0,{},11951,351,0,0,,11.9,49.1,21.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Temperature,,unknown,66416,25187,0.379230908214888,25187,0,{},11951,351,0,0,,11.9,49.1,21.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,all,66416,25187,0.379230908214888,25187,0,{},11951,80,0,0,0.0,19.0,98.0,39.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_RelativeHumidity,,unknown,66416,25187,0.379230908214888,25187,0,{},11951,80,0,0,0.0,19.0,98.0,39.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,all,66416,25187,0.379230908214888,25187,0,{},11951,4185,12459,0,,0.0,32020.0,110.0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,bottom_Light,,unknown,66416,25187,0.379230908214888,25187,0,{},11951,4185,12459,0,,0.0,32020.0,110.0
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,Time,,all,2784,0,0.0,0,0,{},0,2784,0,0,,,,
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,Time,,2021,2784,0,0.0,0,0,{},0,2784,0,0,,,,
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,T,,all,2784,0,0.0,0,0,{},0,2363,0,0,,15.9,28.3825,2.0
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,T,,2021,2784,0,0.0,0,0,{},0,2363,0,0,,15.9,28.3825,2.0
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,RH,,all,2784,0,0.0,0,0,{},0,2356,0,0,0.0,47.3025,90.16333333,3.0
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,RH,,2021,2784,0,0.0,0,0,{},0,2356,0,0,0.0,47.3025,90.16333333,3.0
+Environment/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,Entry,,not applicable,10,0,0.0,0,0,{},0,10,0,0,,,,
+Environment/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,Description_or_Manufacturer,,not applicable,10,2,0.2,2,0,{},1,7,0,0,,,,
+Environment/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,Unit_or_Type,,not applicable,10,2,0.2,2,0,{},1,8,0,0,,,,
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,Time,,all,7261,0,0.0,0,0,{},0,7261,0,0,,,,
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,Time,,2021,7261,0,0.0,0,0,{},0,7261,0,0,,,,
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,TotalIradiation_top,,all,7261,0,0.0,0,0,{},0,120,3448,0,,0.0,1336.7,64.0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,TotalIradiation_top,,2021,7261,0,0.0,0,0,{},0,120,3448,0,,0.0,1336.7,64.0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,PAR_top,,all,7261,0,0.0,0,0,{},0,102,2840,0,,0.0,212.4,181.0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,PAR_top,,2021,7261,0,0.0,0,0,{},0,102,2840,0,,0.0,212.4,181.0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,PAR_middle,,all,7261,0,0.0,0,0,{},0,93,2514,0,,0.0,807.5,68.0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,PAR_middle,,2021,7261,0,0.0,0,0,{},0,93,2514,0,,0.0,807.5,68.0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,PAR_bottom,,all,7261,0,0.0,0,0,{},0,80,2930,0,,0.0,721.4,60.0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,PAR_bottom,,2021,7261,0,0.0,0,0,{},0,80,2930,0,,0.0,721.4,60.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,Time,,all,2927,0,0.0,0,0,{},0,2927,0,0,,,,
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,Time,,2021,2927,0,0.0,0,0,{},0,2927,0,0,,,,
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,temp,,all,2927,0,0.0,0,0,{},0,204,0,0,,6.4,29.3,3.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,temp,,2021,2927,0,0.0,0,0,{},0,204,0,0,,6.4,29.3,3.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,humidity_relative,,all,2927,0,0.0,0,0,{},0,594,0,0,0.0,25.2,97.2,3.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,humidity_relative,,2021,2927,0,0.0,0,0,{},0,594,0,0,0.0,25.2,97.2,3.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,pressure,,all,2927,0,0.0,0,0,{},0,293,0,0,,1000.1,1031.6,5.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,pressure,,2021,2927,0,0.0,0,0,{},0,293,0,0,,1000.1,1031.6,5.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,sun_duration_24hours,,all,2927,2805,0.9583190980526136,2805,0,{},23,102,17,0,,0.0,870.0,1.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,sun_duration_24hours,,2021,2927,2805,0.9583190980526136,2805,0,{},23,102,17,0,,0.0,870.0,1.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,short_wave_from_sky_24hours,,all,2927,2805,0.9583190980526136,2805,0,{},23,122,0,0,,1492100.0,28404600.0,1.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,short_wave_from_sky_24hours,,2021,2927,2805,0.9583190980526136,2805,0,{},23,122,0,0,,1492100.0,28404600.0,1.0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,Info,metadata,Entry,,not applicable,3,0,0.0,0,0,{},0,3,0,0,,,,
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,Info,metadata,Value,,not applicable,3,0,0.0,0,0,{},0,3,0,0,,6447.0,6447.0,
+Environment/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,Entry,,not applicable,9,0,0.0,0,0,{},0,9,0,0,,,,
+Environment/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,Description_or_Manufacturer,,not applicable,9,2,0.2222222222222222,2,0,{},1,7,0,0,,,,
+Environment/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,Unit_or_Type,,not applicable,9,2,0.2222222222222222,2,0,{},1,7,0,0,,,,
+Environment/2022/Light_2022.xlsx,KU Leuven (Heverlee),2022,Light,Environment,Time,,all,13079,0,0.0,0,0,{},0,13079,0,0,,,,
+Environment/2022/Light_2022.xlsx,KU Leuven (Heverlee),2022,Light,Environment,Time,,2022,13079,0,0.0,0,0,{},0,13079,0,0,,,,
+Environment/2022/Light_2022.xlsx,KU Leuven (Heverlee),2022,Light,Environment,G,,all,13079,0,0.0,0,0,{},0,120,4339,0,,0.0,276.5,48.0
+Environment/2022/Light_2022.xlsx,KU Leuven (Heverlee),2022,Light,Environment,G,,2022,13079,0,0.0,0,0,{},0,120,4339,0,,0.0,276.5,48.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,FID,6447,all,3624,0,0.0,0,0,{},0,3624,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,FID,6447,2021,745,0,0.0,0,0,{},0,745,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,FID,6447,2022,2879,0,0.0,0,0,{},0,2879,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,FID,6451,all,3616,0,0.0,0,0,{},0,3616,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,FID,6451,2021,737,0,0.0,0,0,{},0,737,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,FID,6451,2022,2879,0,0.0,0,0,{},0,2879,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,the_geom,6447,all,3624,0,0.0,0,0,{},0,1,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,the_geom,6447,2021,745,0,0.0,0,0,{},0,1,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,the_geom,6447,2022,2879,0,0.0,0,0,{},0,1,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,the_geom,6451,all,3616,0,0.0,0,0,{},0,1,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,the_geom,6451,2021,737,0,0.0,0,0,{},0,1,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,the_geom,6451,2022,2879,0,0.0,0,0,{},0,1,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,code,6447,all,3624,0,0.0,0,0,{},0,1,0,0,,6447.0,6447.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,code,6447,2021,745,0,0.0,0,0,{},0,1,0,0,,6447.0,6447.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,code,6447,2022,2879,0,0.0,0,0,{},0,1,0,0,,6447.0,6447.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,code,6451,all,3616,0,0.0,0,0,{},0,1,0,0,,6451.0,6451.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,code,6451,2021,737,0,0.0,0,0,{},0,1,0,0,,6451.0,6451.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,code,6451,2022,2879,0,0.0,0,0,{},0,1,0,0,,6451.0,6451.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,timestamp,6447,all,3624,0,0.0,0,0,{},0,3624,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,timestamp,6447,2021,745,0,0.0,0,0,{},0,745,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,timestamp,6447,2022,2879,0,0.0,0,0,{},0,2879,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,timestamp,6451,all,3616,0,0.0,0,0,{},0,3616,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,timestamp,6451,2021,737,0,0.0,0,0,{},0,737,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,timestamp,6451,2022,2879,0,0.0,0,0,{},0,2879,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_quantity,6447,all,3624,3022,0.8338852097130243,3022,0,{},17,59,408,0,,0.0,20.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_quantity,6447,2021,745,621,0.8335570469798658,621,0,{},5,30,59,0,,0.0,11.3,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_quantity,6447,2022,2879,2401,0.8339701285168462,2401,0,{},17,49,349,0,,0.0,20.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_quantity,6451,all,3616,3071,0.8492809734513275,3071,0,{},35,20,380,0,,0.0,15.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_quantity,6451,2021,737,626,0.8493894165535957,626,0,{},17,15,52,0,,0.0,15.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_quantity,6451,2022,2879,2445,0.8492532129211532,2445,0,{},35,19,328,0,,0.0,15.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_range,6447,all,3624,3020,0.8333333333333334,3020,0,{},5,2,0,0,,1.0,2.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_range,6447,2021,745,621,0.8335570469798658,621,0,{},5,2,0,0,,1.0,2.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_range,6447,2022,2879,2399,0.8332754428621049,2399,0,{},5,2,0,0,,1.0,2.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_range,6451,all,3616,3013,0.8332411504424779,3013,0,{},5,2,0,0,,1.0,2.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_range,6451,2021,737,614,0.8331071913161465,614,0,{},5,2,0,0,,1.0,2.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,precip_range,6451,2022,2879,2399,0.8332754428621049,2399,0,{},5,2,0,0,,1.0,2.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp,6447,all,3624,0,0.0,0,0,{},0,230,7,0,,-4.1,20.7,5.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp,6447,2021,745,0,0.0,0,0,{},0,155,0,0,,-4.1,14.1,5.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp,6447,2022,2879,0,0.0,0,0,{},0,219,7,0,,-2.8,20.7,5.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp,6451,all,3616,0,0.0,0,0,{},0,233,7,0,,-4.8,20.6,6.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp,6451,2021,737,0,0.0,0,0,{},0,157,2,0,,-4.8,14.4,6.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp,6451,2022,2879,0,0.0,0,0,{},0,223,5,0,,-3.0,20.6,5.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_min,6447,all,3624,3473,0.9583333333333334,3473,0,{},23,89,0,0,,-3.6,12.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_min,6447,2021,745,714,0.9583892617449664,714,0,{},23,28,0,0,,-3.6,12.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_min,6447,2022,2879,2759,0.9583188607155262,2759,0,{},23,77,0,0,,-3.3,10.8,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_min,6451,all,3616,3465,0.9582411504424779,3465,0,{},23,85,0,0,,-5.1,12.1,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_min,6451,2021,737,706,0.9579375848032564,706,0,{},23,27,0,0,,-5.1,12.1,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_min,6451,2022,2879,2759,0.9583188607155262,2759,0,{},23,73,0,0,,-3.3,10.9,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_max,6447,all,3624,3473,0.9583333333333334,3473,0,{},23,104,0,0,,0.8,21.3,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_max,6447,2021,745,714,0.9583892617449664,714,0,{},23,25,0,0,,2.5,14.2,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_max,6447,2022,2879,2759,0.9583188607155262,2759,0,{},23,93,0,0,,0.8,21.3,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_max,6451,all,3616,3465,0.9582411504424779,3465,0,{},23,98,0,0,,0.8,21.1,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_max,6451,2021,737,706,0.9579375848032564,706,0,{},23,29,0,0,,2.0,14.6,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_max,6451,2022,2879,2759,0.9583188607155262,2759,0,{},23,81,0,0,,0.8,21.1,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_grass_min,6447,all,3624,3322,0.9166666666666666,3322,0,{},20,117,6,0,,-12.9,10.2,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_grass_min,6447,2021,745,683,0.9167785234899329,683,0,{},20,35,4,0,,-11.1,10.2,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_grass_min,6447,2022,2879,2639,0.9166377214310525,2639,0,{},20,95,2,0,,-12.9,7.6,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_grass_min,6451,all,3616,3465,0.9582411504424779,3465,0,{},23,19,12,0,,-7.0,11.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_grass_min,6451,2021,737,706,0.9579375848032564,706,0,{},23,15,4,0,,-7.0,11.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,temp_grass_min,6451,2022,2879,2759,0.9583188607155262,2759,0,{},23,17,8,0,,-6.0,10.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed,6447,all,3624,0,0.0,0,0,{},0,2659,23,0,,0.0,12.429,6.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed,6447,2021,745,0,0.0,0,0,{},0,681,7,0,,0.0,9.789,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed,6447,2022,2879,0,0.0,0,0,{},0,2253,16,0,,0.0,12.429,6.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed,6451,all,3616,0,0.0,0,0,{},0,20,103,0,,0.0,20.0,14.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed,6451,2021,737,0,0.0,0,0,{},0,12,32,0,,0.0,11.0,14.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed,6451,2022,2879,0,0.0,0,0,{},0,20,71,0,,0.0,20.0,13.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed_unit,6447,all,3624,0,0.0,0,0,{},0,1,0,0,,1.0,1.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed_unit,6447,2021,745,0,0.0,0,0,{},0,1,0,0,,1.0,1.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed_unit,6447,2022,2879,0,0.0,0,0,{},0,1,0,0,,1.0,1.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed_unit,6451,all,3616,0,0.0,0,0,{},0,1,0,0,,1.0,1.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed_unit,6451,2021,737,0,0.0,0,0,{},0,1,0,0,,1.0,1.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_speed_unit,6451,2022,2879,0,0.0,0,0,{},0,1,0,0,,1.0,1.0,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_direction,6447,all,3624,23,0.0063465783664459164,23,0,{},2,2073,0,0,,0.8,359.7,2.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_direction,6447,2021,745,7,0.009395973154362415,7,0,{},2,631,0,0,,4.1,356.1,2.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_direction,6447,2022,2879,16,0.0055574852379298365,16,0,{},2,1836,0,0,,0.8,359.7,2.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_direction,6451,all,3616,121,0.03346238938053098,121,0,{},9,36,0,0,,10.0,360.0,11.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_direction,6451,2021,737,32,0.04341926729986431,32,0,{},9,36,0,0,,10.0,360.0,8.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_direction,6451,2022,2879,89,0.030913511635984717,89,0,{},4,36,0,0,,10.0,360.0,11.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_peak_speed,6447,all,3624,0,0.0,0,0,{},0,214,0,0,,1.0,29.1,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_peak_speed,6447,2021,745,0,0.0,0,0,{},0,141,0,0,,1.0,22.3,3.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_peak_speed,6447,2022,2879,0,0.0,0,0,{},0,211,0,0,,1.1,29.1,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_peak_speed,6451,all,3616,3,0.000829646017699115,3,0,{},2,28,4,0,,0.0,32.0,12.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_peak_speed,6451,2021,737,2,0.0027137042062415195,2,0,{},2,19,2,0,,0.0,18.0,10.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,wind_peak_speed,6451,2022,2879,1,0.0003473428273706148,1,0,{},1,28,2,0,,0.0,32.0,12.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,humidity_relative,6447,all,3624,0,0.0,0,0,{},0,675,0,0,0.0,20.8,100.0,13.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,humidity_relative,6447,2021,745,0,0.0,0,0,{},0,220,0,0,0.0,52.4,98.7,3.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,humidity_relative,6447,2022,2879,0,0.0,0,0,{},0,674,0,0,0.0,20.8,100.0,13.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,humidity_relative,6451,all,3616,3616,1.0,3616,0,{},3616,0,0,0,0.0,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,humidity_relative,6451,2021,737,737,1.0,737,0,{},737,0,0,0,0.0,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,humidity_relative,6451,2022,2879,2879,1.0,2879,0,{},2879,0,0,0,0.0,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,weather_current,6447,all,3624,3624,1.0,3624,0,{},3624,0,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,weather_current,6447,2021,745,745,1.0,745,0,{},745,0,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,weather_current,6447,2022,2879,2879,1.0,2879,0,{},2879,0,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,weather_current,6451,all,3616,2452,0.6780973451327433,2452,0,{},243,46,0,0,,1.0,95.0,31.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,weather_current,6451,2021,737,391,0.5305291723202171,391,0,{},50,32,0,0,,1.0,86.0,8.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,weather_current,6451,2022,2879,2061,0.7158735672108371,2061,0,{},243,44,0,0,,1.0,95.0,31.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure,6447,all,3624,2,0.0005518763796909492,2,0,{},2,523,0,0,,984.9,1043.2,5.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure,6447,2021,745,0,0.0,0,0,{},0,366,0,0,,989.2,1040.7,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure,6447,2022,2879,2,0.0006946856547412296,2,0,{},2,484,0,0,,984.9,1043.2,5.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure,6451,all,3616,1,0.0002765486725663717,1,0,{},1,525,0,0,,984.5,1043.6,6.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure,6451,2021,737,0,0.0,0,0,{},0,359,0,0,,989.4,1040.9,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure,6451,2022,2879,1,0.0003473428273706148,1,0,{},1,486,0,0,,984.5,1043.6,6.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure_station_level,6447,all,3624,0,0.0,0,0,{},0,503,0,0,,972.9,1030.5,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure_station_level,6447,2021,745,0,0.0,0,0,{},0,355,0,0,,976.8,1027.8,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure_station_level,6447,2022,2879,0,0.0,0,0,{},0,466,0,0,,972.9,1030.5,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure_station_level,6451,all,3616,0,0.0,0,0,{},0,522,0,0,,978.1,1036.7,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure_station_level,6451,2021,737,0,0.0,0,0,{},0,356,0,0,,982.7,1033.9,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,pressure_station_level,6451,2022,2879,0,0.0,0,0,{},0,484,0,0,,978.1,1036.7,4.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,sun_duration_24hours,6447,all,3624,3473,0.9583333333333334,3473,0,{},23,66,62,0,,0.0,613.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,sun_duration_24hours,6447,2021,745,714,0.9583892617449664,714,0,{},23,14,18,0,,0.0,415.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,sun_duration_24hours,6447,2022,2879,2759,0.9583188607155262,2759,0,{},23,58,44,0,,0.0,613.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,sun_duration_24hours,6451,all,3616,3616,1.0,3616,0,{},3616,0,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,sun_duration_24hours,6451,2021,737,737,1.0,737,0,{},737,0,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,sun_duration_24hours,6451,2022,2879,2879,1.0,2879,0,{},2879,0,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,short_wave_from_sky_24hours,6447,all,3624,3473,0.9583333333333334,3473,0,{},23,151,0,0,,285800.0,22524400.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,short_wave_from_sky_24hours,6447,2021,745,714,0.9583892617449664,714,0,{},23,31,0,0,,285800.0,3736600.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,short_wave_from_sky_24hours,6447,2022,2879,2759,0.9583188607155262,2759,0,{},23,120,0,0,,509500.0,22524400.0,1.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,short_wave_from_sky_24hours,6451,all,3616,3616,1.0,3616,0,{},3616,0,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,short_wave_from_sky_24hours,6451,2021,737,737,1.0,737,0,{},737,0,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,short_wave_from_sky_24hours,6451,2022,2879,2879,1.0,2879,0,{},2879,0,0,0,,,,
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,cloudiness,6447,all,3624,205,0.05656732891832229,205,0,{},52,9,787,0,,0.0,8.0,93.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,cloudiness,6447,2021,745,21,0.028187919463087248,21,0,{},16,9,50,0,,0.0,8.0,93.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,cloudiness,6447,2022,2879,184,0.06391108023619312,184,0,{},52,9,737,0,,0.0,8.0,80.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,cloudiness,6451,all,3616,3,0.000829646017699115,3,0,{},2,9,409,0,,0.0,8.0,67.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,cloudiness,6451,2021,737,1,0.0013568521031207597,1,0,{},1,9,35,0,,0.0,8.0,45.0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,cloudiness,6451,2022,2879,2,0.0006946856547412296,2,0,{},2,9,374,0,,0.0,8.0,67.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,Time,,all,23006,0,0.0,0,0,{},0,23006,0,0,,,,
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,Time,,2021,2448,0,0.0,0,0,{},0,2448,0,0,,,,
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,Time,,2022,20558,0,0.0,0,0,{},0,20558,0,0,,,,
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,T,,all,23006,0,0.0,0,0,{},0,2988,0,0,,16.199,27.991,3.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,T,,2021,2448,0,0.0,0,0,{},0,957,0,0,,16.199,25.016,3.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,T,,2022,20558,0,0.0,0,0,{},0,2816,0,0,,17.523,27.991,3.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,RH,,all,23006,0,0.0,0,0,{},0,11902,0,0,0.0,30.652,86.441,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,RH,,2021,2448,0,0.0,0,0,{},0,2250,0,0,0.0,38.551,82.376,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,RH,,2022,20558,0,0.0,0,0,{},0,11193,0,0,0.0,30.652,86.441,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,Time,,all,23142,0,0.0,0,0,{},0,23142,0,0,,,,
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,Time,,2021,2448,0,0.0,0,0,{},0,2448,0,0,,,,
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,Time,,2022,20694,0,0.0,0,0,{},0,20694,0,0,,,,
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,T,,all,23142,0,0.0,0,0,{},0,3420,0,0,,16.575,30.618,4.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,T,,2021,2448,0,0.0,0,0,{},0,1005,0,0,,16.575,25.147,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,T,,2022,20694,0,0.0,0,0,{},0,3262,0,0,,17.128,30.618,4.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,RH,,all,23142,0,0.0,0,0,{},0,12358,0,0,0.0,27.835,89.033,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,RH,,2021,2448,0,0.0,0,0,{},0,2242,0,0,0.0,39.233,83.446,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,RH,,2022,20694,0,0.0,0,0,{},0,11669,0,0,0.0,27.835,89.033,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,Time,,all,22658,0,0.0,0,0,{},0,22658,0,0,,,,
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,Time,,2021,2448,0,0.0,0,0,{},0,2448,0,0,,,,
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,Time,,2022,20210,0,0.0,0,0,{},0,20210,0,0,,,,
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,T,,all,22658,0,0.0,0,0,{},0,3708,0,0,,15.9,34.864,3.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,T,,2021,2448,0,0.0,0,0,{},0,1099,0,0,,15.9,25.769,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,T,,2022,20210,0,0.0,0,0,{},0,3556,0,0,,16.167,34.864,3.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,RH,,all,22658,0,0.0,0,0,{},0,12060,0,0,0.0,24.117,91.402,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,RH,,2021,2448,0,0.0,0,0,{},0,2262,0,0,0.0,41.408,90.284,2.0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,RH,,2022,20210,0,0.0,0,0,{},0,11331,0,0,0.0,24.117,91.402,2.0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,Time,,all,44236,0,0.0,0,0,{},0,44236,0,0,,,,
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,Time,,2023,35136,0,0.0,0,0,{},0,35136,0,0,,,,
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,Time,,2024,9100,0,0.0,0,0,{},0,9100,0,0,,,,
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,T,,all,44236,104,0.002351026313409892,104,0,{},24,2377,0,0,,5.6,32.72,23.0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,T,,2023,35136,104,0.002959927140255009,104,0,{},24,2366,0,0,,5.6,32.72,21.0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,T,,2024,9100,0,0.0,0,0,{},0,1251,0,0,,12.3,27.1,23.0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,RH,,all,44236,104,0.002351026313409892,104,0,{},24,2689,0,0,0.0,48.0,96.83,75.0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,RH,,2023,35136,104,0.002959927140255009,104,0,{},24,2651,0,0,0.0,48.0,96.83,75.0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,RH,,2024,9100,0,0.0,0,0,{},0,935,0,0,0.0,61.0,92.0,47.0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,G,,all,44236,104,0.002351026313409892,104,0,{},24,12624,16286,0,,0.0,719.48,184.0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,G,,2023,35136,104,0.002959927140255009,104,0,{},24,11095,12595,0,,0.0,719.48,158.0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,G,,2024,9100,0,0.0,0,0,{},0,2791,3691,0,,0.0,402.03,184.0
+Environment/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,Entry,,not applicable,7,0,0.0,0,0,{},0,7,0,0,,,,
+Environment/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,Description_or_Manufacturer,,not applicable,7,2,0.2857142857142857,2,0,{},1,5,0,0,,,,
+Environment/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,Unit_or_Type,,not applicable,7,2,0.2857142857142857,2,0,{},1,5,0,0,,,,
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,Time,,all,28513,0,0.0,0,0,{},0,28513,0,0,,,,
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,Time,,2024,28513,0,0.0,0,0,{},0,28513,0,0,,,,
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,T,,all,28513,131,0.004594395538877003,131,0,{},112,1394,0,0,,12.3,27.1,23.0
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,T,,2024,28513,131,0.004594395538877003,131,0,{},112,1394,0,0,,12.3,27.1,23.0
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,RH,,all,28513,131,0.004594395538877003,131,0,{},112,1875,0,0,0.0,48.0,93.0,52.0
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,RH,,2024,28513,131,0.004594395538877003,131,0,{},112,1875,0,0,0.0,48.0,93.0,52.0
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,G,,all,28513,5584,0.19584049380984112,5584,0,{},5579,7279,8475,0,,0.0,685.94,184.0
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,G,,2024,28513,5584,0.19584049380984112,5584,0,{},5579,7279,8475,0,,0.0,685.94,184.0
+Environment/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,Entry,,not applicable,7,0,0.0,0,0,{},0,7,0,0,,,,
+Environment/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,Description_or_Manufacturer,,not applicable,7,2,0.2857142857142857,2,0,{},1,5,0,0,,,,
+Environment/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,Unit_or_Type,,not applicable,7,2,0.2857142857142857,2,0,{},1,5,0,0,,,,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Week,,all,216,0,0.0,0,0,{},0,9,0,0,,3.0,11.0,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Week,,2020,216,0,0.0,0,0,{},0,9,0,0,,3.0,11.0,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Date,,all,216,0,0.0,0,0,{},0,9,0,0,,,,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Date,,2020,216,0,0.0,0,0,{},0,9,0,0,,,,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Days,,all,216,0,0.0,0,0,{},0,9,0,0,,14.0,70.0,24.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Days,,2020,216,0,0.0,0,0,{},0,9,0,0,,14.0,70.0,24.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Side,,all,216,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Side,,2020,216,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Fruit,,all,216,0,0.0,0,0,{},0,4,0,0,,,,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Fruit,,2020,216,0,0.0,0,0,{},0,4,0,0,,,,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Position,,all,216,0,0.0,0,0,{},0,3,0,0,,1.0,3.0,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Position,,2020,216,0,0.0,0,0,{},0,3,0,0,,1.0,3.0,
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Diameter,,all,216,16,0.07407407407407407,16,0,{},4,186,0,0,,15.0,77.94,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Diameter,,2020,216,16,0.07407407407407407,16,0,{},4,186,0,0,,15.0,77.94,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Fresh weight,,all,216,16,0.07407407407407407,16,0,{},4,200,0,0,,1.8,222.68,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Fresh weight,,2020,216,16,0.07407407407407407,16,0,{},4,200,0,0,,1.8,222.68,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Dry weight,,all,216,134,0.6203703703703703,134,0,{},27,80,0,0,,2.11,8.58,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Dry weight,,2020,216,134,0.6203703703703703,134,0,{},27,80,0,0,,2.11,8.58,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,FW,,all,216,134,0.6203703703703703,134,0,{},27,82,0,0,,0.921574152,0.976345178,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,FW,,2020,216,134,0.6203703703703703,134,0,{},27,82,0,0,,0.921574152,0.976345178,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,DW,,all,216,134,0.6203703703703703,134,0,{},27,82,0,0,,0.023654822,0.078425848,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,DW,,2020,216,134,0.6203703703703703,134,0,{},27,82,0,0,,0.023654822,0.078425848,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Firmness,,all,216,134,0.6203703703703703,134,0,{},51,82,0,0,,3.274,19.573,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Firmness,,2020,216,134,0.6203703703703703,134,0,{},51,82,0,0,,3.274,19.573,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Brix,,all,216,122,0.5648148148148148,122,0,{},24,16,0,0,,3.2,4.8,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Brix,,2020,216,122,0.5648148148148148,122,0,{},24,16,0,0,,3.2,4.8,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Osmotic p.1,,all,216,134,0.6203703703703703,134,0,{},24,58,0,0,,198.0,479.0,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Osmotic p.1,,2020,216,134,0.6203703703703703,134,0,{},24,58,0,0,,198.0,479.0,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Osmotic p.2,,all,216,152,0.7037037037037037,152,0,{},24,48,0,0,,119.0,429.0,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Osmotic p.2,,2020,216,152,0.7037037037037037,152,0,{},24,48,0,0,,119.0,429.0,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,OP,,all,216,134,0.6203703703703703,134,0,{},24,63,0,0,,158.5,479.0,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,OP,,2020,216,134,0.6203703703703703,134,0,{},24,63,0,0,,158.5,479.0,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,OP_Mpa,,all,216,134,0.6203703703703703,134,0,{},24,63,0,0,,-1.166844958,-0.386106317,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,OP_Mpa,,2020,216,134,0.6203703703703703,134,0,{},24,63,0,0,,-1.166844958,-0.386106317,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Ethylene,,all,216,146,0.6759259259259259,146,0,{},75,47,22,0,,0.0,0.605,3.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Ethylene,,2020,216,146,0.6759259259259259,146,0,{},75,47,22,0,,0.0,0.605,3.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,CO2,,all,216,148,0.6851851851851852,148,0,{},75,60,0,0,,0.062,0.658,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,CO2,,2020,216,148,0.6851851851851852,148,0,{},75,60,0,0,,0.062,0.658,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O2,,all,216,148,0.6851851851851852,148,0,{},75,64,0,0,,20.415,24.348,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O2,,2020,216,148,0.6851851851851852,148,0,{},75,64,0,0,,20.415,24.348,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,L,,all,216,78,0.3611111111111111,78,0,{},73,131,0,0,,19.38,55.91,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,L,,2020,216,78,0.3611111111111111,78,0,{},73,131,0,0,,19.38,55.91,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,a*,,all,216,78,0.3611111111111111,78,0,{},73,135,0,0,,-10.15,39.58,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,a*,,2020,216,78,0.3611111111111111,78,0,{},73,135,0,0,,-10.15,39.58,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,WP,,all,216,145,0.6712962962962963,145,0,{},28,18,0,0,,-0.827370875,-0.206842719,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,WP,,2020,216,145,0.6712962962962963,145,0,{},28,18,0,0,,-0.827370875,-0.206842719,2.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,EthyleneRate,,all,216,146,0.6759259259259259,146,0,{},75,49,22,0,,0.0,6.469820849,3.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,EthyleneRate,,2020,216,146,0.6759259259259259,146,0,{},75,49,22,0,,0.0,6.469820849,3.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,CO2Rate,,all,216,148,0.6851851851851852,148,0,{},75,68,0,0,,-0.193728105,2.138783752,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,CO2Rate,,2020,216,148,0.6851851851851852,148,0,{},75,68,0,0,,-0.193728105,2.138783752,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O2Rate,,all,216,148,0.6851851851851852,148,0,{},75,68,0,0,,2.810846733,10.33586344,1.0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O2Rate,,2020,216,148,0.6851851851851852,148,0,{},75,68,0,0,,2.810846733,10.33586344,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Week,,all,213,0,0.0,0,0,{},0,9,0,0,,3.0,11.0,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Week,,2020,213,0,0.0,0,0,{},0,9,0,0,,3.0,11.0,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Date,,all,213,0,0.0,0,0,{},0,9,0,0,,,,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Date,,2020,213,0,0.0,0,0,{},0,9,0,0,,,,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Days,,all,213,0,0.0,0,0,{},0,9,0,0,,17.0,72.0,24.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Days,,2020,213,0,0.0,0,0,{},0,9,0,0,,17.0,72.0,24.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Side,,all,213,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Side,,2020,213,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Fruit,,all,213,0,0.0,0,0,{},0,3,0,0,,1.0,3.0,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Fruit,,2020,213,0,0.0,0,0,{},0,3,0,0,,1.0,3.0,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Position,,all,213,0,0.0,0,0,{},0,4,0,0,,,,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Position,,2020,213,0,0.0,0,0,{},0,4,0,0,,,,
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Diameter,,all,213,48,0.22535211267605634,48,0,{},48,160,0,0,,33.06,76.61,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Diameter,,2020,213,48,0.22535211267605634,48,0,{},48,160,0,0,,33.06,76.61,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Fresh weight,,all,213,48,0.22535211267605634,48,0,{},48,163,0,0,,20.76,201.36,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Fresh weight,,2020,213,48,0.22535211267605634,48,0,{},48,163,0,0,,20.76,201.36,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Dry weight,,all,213,129,0.6056338028169014,129,0,{},49,84,0,0,,1.8733,10.3047,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Dry weight,,2020,213,129,0.6056338028169014,129,0,{},49,84,0,0,,1.8733,10.3047,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,FW,,all,213,129,0.6056338028169014,129,0,{},49,84,0,0,,0.927523562,0.978762671,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,FW,,2020,213,129,0.6056338028169014,129,0,{},49,84,0,0,,0.927523562,0.978762671,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,DW,,all,213,129,0.6056338028169014,129,0,{},49,84,0,0,,0.021237329,0.072476438,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,DW,,2020,213,129,0.6056338028169014,129,0,{},49,84,0,0,,0.021237329,0.072476438,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Firmness,,all,213,120,0.5633802816901409,120,0,{},3,93,0,0,,3.618,22.764,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Firmness,,2020,213,120,0.5633802816901409,120,0,{},3,93,0,0,,3.618,22.764,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Brix 1,,all,213,132,0.6197183098591549,132,0,{},48,16,0,0,,3.6,5.4,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Brix 1,,2020,213,132,0.6197183098591549,132,0,{},48,16,0,0,,3.6,5.4,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Brix 2,,all,213,132,0.6197183098591549,132,0,{},48,16,0,0,,3.3,5.0,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Brix 2,,2020,213,132,0.6197183098591549,132,0,{},48,16,0,0,,3.3,5.0,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Brix,,all,213,132,0.6197183098591549,132,0,{},48,28,0,0,,3.45,5.2,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Brix,,2020,213,132,0.6197183098591549,132,0,{},48,28,0,0,,3.45,5.2,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Osmotic p.1,,all,213,132,0.6197183098591549,132,0,{},48,53,0,0,,202.0,323.0,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Osmotic p.1,,2020,213,132,0.6197183098591549,132,0,{},48,53,0,0,,202.0,323.0,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Osmotic p.2,,all,213,135,0.6338028169014085,135,0,{},48,50,0,0,,203.0,330.0,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Osmotic p.2,,2020,213,135,0.6338028169014085,135,0,{},48,50,0,0,,203.0,330.0,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,OP,,all,213,132,0.6197183098591549,132,0,{},48,66,0,0,,202.5,326.5,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,OP,,2020,213,132,0.6197183098591549,132,0,{},48,66,0,0,,202.5,326.5,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,OP_Mpa,,all,213,132,0.6197183098591549,132,0,{},48,66,0,0,,-0.795354653,-0.493290405,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,OP_Mpa,,2020,213,132,0.6197183098591549,132,0,{},48,66,0,0,,-0.795354653,-0.493290405,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Ethylene,,all,213,153,0.7183098591549296,153,0,{},49,39,20,0,,0.0,0.348,2.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Ethylene,,2020,213,153,0.7183098591549296,153,0,{},49,39,20,0,,0.0,0.348,2.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,CO2,,all,213,153,0.7183098591549296,153,0,{},49,56,0,0,,0.058,0.693,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,CO2,,2020,213,153,0.7183098591549296,153,0,{},49,56,0,0,,0.058,0.693,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O2,,all,213,153,0.7183098591549296,153,0,{},49,55,0,0,,20.326,20.909,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O2,,2020,213,153,0.7183098591549296,153,0,{},49,55,0,0,,20.326,20.909,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,L,,all,213,48,0.22535211267605634,48,0,{},48,162,0,0,,36.68,56.765,2.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,L,,2020,213,48,0.22535211267605634,48,0,{},48,162,0,0,,36.68,56.765,2.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,a*,,all,213,48,0.22535211267605634,48,0,{},48,161,0,0,,-7.8225,28.0,2.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,a*,,2020,213,48,0.22535211267605634,48,0,{},48,161,0,0,,-7.8225,28.0,2.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,EthyleneRate,,all,213,153,0.7183098591549296,153,0,{},49,41,20,0,,0.0,1.770323578,2.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,EthyleneRate,,2020,213,153,0.7183098591549296,153,0,{},49,41,20,0,,0.0,1.770323578,2.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,CO2Rate,,all,213,153,0.7183098591549296,153,0,{},49,60,0,0,,-0.165925914,1.369556231,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,CO2Rate,,2020,213,153,0.7183098591549296,153,0,{},49,60,0,0,,-0.165925914,1.369556231,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O2Rate,,all,213,153,0.7183098591549296,153,0,{},49,60,0,0,,3.776609352,17.28848394,1.0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O2Rate,,2020,213,153,0.7183098591549296,153,0,{},49,60,0,0,,3.776609352,17.28848394,1.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Date,,all,429,0,0.0,0,0,{},0,18,0,0,,,,
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Date,,2020,429,0,0.0,0,0,{},0,18,0,0,,,,
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,DAA,,all,429,0,0.0,0,0,{},0,17,0,0,,14.0,72.0,24.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,DAA,,2020,429,0,0.0,0,0,{},0,17,0,0,,14.0,72.0,24.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Zone,,all,429,0,0.0,0,0,{},0,2,0,0,,1.0,2.0,
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Zone,,2020,429,0,0.0,0,0,{},0,2,0,0,,1.0,2.0,
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Fruit,,all,429,0,0.0,0,0,{},0,4,0,0,,,,
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Fruit,,2020,429,0,0.0,0,0,{},0,4,0,0,,,,
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Measurement,,all,429,0,0.0,0,0,{},0,3,0,0,,1.0,3.0,
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Measurement,,2020,429,0,0.0,0,0,{},0,3,0,0,,1.0,3.0,
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Diameter,,all,429,64,0.14918414918414918,64,0,{},48,338,0,0,,15.0,77.94,2.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Diameter,,2020,429,64,0.14918414918414918,64,0,{},48,338,0,0,,15.0,77.94,2.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Fresh weight,,all,429,64,0.14918414918414918,64,0,{},48,363,0,0,,1.8,222.68,1.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Fresh weight,,2020,429,64,0.14918414918414918,64,0,{},48,363,0,0,,1.8,222.68,1.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Dry weight,,all,429,263,0.6130536130536131,263,0,{},49,164,0,0,,1.8733,10.3047,1.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,Dry weight,,2020,429,263,0.6130536130536131,263,0,{},49,164,0,0,,1.8733,10.3047,1.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,FW,,all,429,263,0.6130536130536131,263,0,{},49,166,0,0,,0.921574152,0.978762671,1.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,FW,,2020,429,263,0.6130536130536131,263,0,{},49,166,0,0,,0.921574152,0.978762671,1.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,DW,,all,429,263,0.6130536130536131,263,0,{},49,166,0,0,,0.021237329,0.078425848,1.0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,DW,,2020,429,263,0.6130536130536131,263,0,{},49,166,0,0,,0.021237329,0.078425848,1.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Date,,all,408,0,0.0,0,0,{},0,34,0,0,,,,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Date,,2020,408,0,0.0,0,0,{},0,34,0,0,,,,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Week,,all,408,0,0.0,0,0,{},0,34,0,0,,3.0,36.0,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Week,,2020,408,0,0.0,0,0,{},0,34,0,0,,3.0,36.0,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Row,,all,408,0,0.0,0,0,{},0,2,0,0,,7.0,9.0,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Row,,2020,408,0,0.0,0,0,{},0,2,0,0,,7.0,9.0,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Zone,,all,408,0,0.0,0,0,{},0,2,0,0,,1.0,2.0,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Zone,,2020,408,0,0.0,0,0,{},0,2,0,0,,1.0,2.0,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Plant ID,,all,408,0,0.0,0,0,{},0,6,0,0,,10.0,60.0,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Plant ID,,2020,408,0,0.0,0,0,{},0,6,0,0,,10.0,60.0,
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Stem growth,,all,408,17,0.041666666666666664,17,0,{},12,32,1,0,,0.0,35.0,4.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Stem growth,,2020,408,17,0.041666666666666664,17,0,{},12,32,1,0,,0.0,35.0,4.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Total stem length,,all,408,5,0.012254901960784314,5,0,{},1,321,0,0,,47.0,918.0,3.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Total stem length,,2020,408,5,0.012254901960784314,5,0,{},1,321,0,0,,47.0,918.0,3.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Stem diameter,,all,408,16,0.0392156862745098,16,0,{},12,265,0,0,,3.8,15.5,1.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Stem diameter,,2020,408,16,0.0392156862745098,16,0,{},12,265,0,0,,3.8,15.5,1.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Highest truss,,all,408,3,0.007352941176470588,3,0,{},1,30,28,0,,0.0,29.0,25.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Highest truss,,2020,408,3,0.007352941176470588,3,0,{},1,30,28,0,,0.0,29.0,25.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Initialized number of nodes (estimate),,all,408,24,0.058823529411764705,24,0,{},24,30,0,0,,10.0,126.0,10.0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,Initialized number of nodes (estimate),,2020,408,24,0.058823529411764705,24,0,{},24,30,0,0,,10.0,126.0,10.0
+Plant/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,Entry,,not applicable,29,0,0.0,0,0,{},0,29,0,0,,,,
+Plant/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,Description_or_Manufacturer,,not applicable,29,1,0.034482758620689655,1,0,{},1,28,0,0,,,,
+Plant/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,Unit_or_Type,,not applicable,29,1,0.034482758620689655,1,0,{},1,13,0,0,,,,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Date,,all,28,0,0.0,0,0,{},0,7,0,0,,,,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Date,,2020,28,0,0.0,0,0,{},0,7,0,0,,,,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Week,,all,28,0,0.0,0,0,{},0,7,0,0,,10.0,16.0,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Week,,2020,28,0,0.0,0,0,{},0,7,0,0,,10.0,16.0,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Row,,all,28,0,0.0,0,0,{},0,2,0,0,,7.0,9.0,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Row,,2020,28,0,0.0,0,0,{},0,2,0,0,,7.0,9.0,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Zone,,all,28,0,0.0,0,0,{},0,2,0,0,,1.0,2.0,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Zone,,2020,28,0,0.0,0,0,{},0,2,0,0,,1.0,2.0,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,LAI,,all,28,0,0.0,0,0,{},0,26,0,0,,3.92,6.28,1.0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,LAI,,2020,28,0,0.0,0,0,{},0,26,0,0,,3.92,6.28,1.0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Prunning,,all,28,24,0.8571428571428571,24,0,{},16,1,0,0,,,,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Prunning,,2020,28,24,0.8571428571428571,24,0,{},16,1,0,0,,,,
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Number of leaves,,all,28,12,0.42857142857142855,12,0,{},12,9,0,0,,15.0,20.5,3.0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Number of leaves,,2020,28,12,0.42857142857142855,12,0,{},12,9,0,0,,15.0,20.5,3.0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Number of trusses,,all,28,12,0.42857142857142855,12,0,{},12,6,0,0,,6.0,9.0,2.0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,Number of trusses,,2020,28,12,0.42857142857142855,12,0,{},12,6,0,0,,6.0,9.0,2.0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Date,,all,446,0,0.0,0,0,{},0,3,0,0,,,,
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Date,,2019,446,0,0.0,0,0,{},0,3,0,0,,,,
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Side,,all,446,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Side,,2019,446,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Plant,,all,446,0,0.0,0,0,{},0,20,0,0,,1.0,22.0,
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Plant,,2019,446,0,0.0,0,0,{},0,20,0,0,,1.0,22.0,
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Leaf,,all,446,0,0.0,0,0,{},0,23,0,0,,1.0,23.0,
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Leaf,,2019,446,0,0.0,0,0,{},0,23,0,0,,1.0,23.0,
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Length,,all,446,0,0.0,0,0,{},0,62,0,0,,14.0,62.0,3.0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Length,,2019,446,0,0.0,0,0,{},0,62,0,0,,14.0,62.0,3.0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Width,,all,446,0,0.0,0,0,{},0,99,0,0,,9.0,76.0,3.0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Width,,2019,446,0,0.0,0,0,{},0,99,0,0,,9.0,76.0,3.0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Area,,all,446,0,0.0,0,0,{},0,445,0,0,,35.9,2092.73,1.0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Area,,2019,446,0,0.0,0,0,{},0,445,0,0,,35.9,2092.73,1.0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Mass,,all,446,107,0.2399103139013453,107,0,{},107,228,1,0,,0.0,106.0,2.0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,Mass,,2019,446,107,0.2399103139013453,107,0,{},107,228,1,0,,0.0,106.0,2.0
+Plant/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,Entry,,not applicable,16,0,0.0,0,0,{},0,16,0,0,,,,
+Plant/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,Description_or_Manufacturer,,not applicable,16,1,0.0625,1,0,{},1,15,0,0,,,,
+Plant/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,Unit_or_Type,,not applicable,16,1,0.0625,1,0,{},1,7,0,0,,,,
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,Days after planting,,all,51,0,0.0,0,0,{},0,4,0,0,,46.0,85.0,16.0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,Plant,,all,51,0,0.0,0,0,{},0,13,0,0,,,,
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,Leaf,,all,51,0,0.0,0,0,{},0,6,0,0,,,,
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,Fresh weight,,all,51,0,0.0,0,0,{},0,50,0,0,,1.81,75.04,1.0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,Dry weight,,all,51,0,0.0,0,0,{},0,47,0,0,,0.02,6.46,2.0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,FW,,all,51,0,0.0,0,0,{},0,51,0,0,,85.294,99.31,1.0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,DW,,all,51,0,0.0,0,0,{},0,51,0,0,,0.69,14.706,1.0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,Area,,all,51,0,0.0,0,0,{},0,51,0,0,,0.006555,0.219432,1.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Date,,all,124,0,0.0,0,0,{},0,7,0,0,,,,
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Date,,2021,124,0,0.0,0,0,{},0,7,0,0,,,,
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Weeks after planting,,all,124,0,0.0,0,0,{},0,7,0,0,,7.0,19.0,48.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Weeks after planting,,2021,124,0,0.0,0,0,{},0,7,0,0,,7.0,19.0,48.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Days after planting,,all,124,0,0.0,0,0,{},0,7,0,0,,46.0,132.0,48.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Days after planting,,2021,124,0,0.0,0,0,{},0,7,0,0,,46.0,132.0,48.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Plant,,all,124,0,0.0,0,0,{},0,22,0,0,,,,
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Plant,,2021,124,0,0.0,0,0,{},0,22,0,0,,,,
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Leaf,,all,124,0,0.0,0,0,{},0,23,0,0,,,,
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Leaf,,2021,124,0,0.0,0,0,{},0,23,0,0,,,,
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Fresh weight,,all,124,0,0.0,0,0,{},0,122,0,0,,1.81,96.76,1.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Fresh weight,,2021,124,0,0.0,0,0,{},0,122,0,0,,1.81,96.76,1.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Dry weight,,all,124,0,0.0,0,0,{},0,102,0,0,,-7.9,9.99,12.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,Dry weight,,2021,124,0,0.0,0,0,{},0,102,0,0,,-7.9,9.99,12.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,FW,,all,124,0,0.0,0,0,{},0,122,0,0,,83.679,137.799,1.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,FW,,2021,124,0,0.0,0,0,{},0,122,0,0,,83.679,137.799,1.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,DW,,all,124,0,0.0,0,0,{},0,122,0,0,,-37.799,16.321,1.0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,DW,,2021,124,0,0.0,0,0,{},0,122,0,0,,-37.799,16.321,1.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Date,,all,420,0,0.0,0,0,{},0,7,0,0,,,,
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Date,,2021,420,0,0.0,0,0,{},0,7,0,0,,,,
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Plant,,all,420,0,0.0,0,0,{},0,60,0,0,,,,
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Plant,,2021,420,0,0.0,0,0,{},0,60,0,0,,,,
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Weeks after planting,,all,420,0,0.0,0,0,{},0,7,0,0,,6.0,12.0,62.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Weeks after planting,,2021,420,0,0.0,0,0,{},0,7,0,0,,6.0,12.0,62.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Days after planting,,all,420,0,0.0,0,0,{},0,7,0,0,,43.0,85.0,60.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Days after planting,,2021,420,0,0.0,0,0,{},0,7,0,0,,43.0,85.0,60.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Leaves,,all,420,66,0.15714285714285714,66,0,{},9,16,0,0,,7.0,22.0,8.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Leaves,,2021,420,66,0.15714285714285714,66,0,{},9,16,0,0,,7.0,22.0,8.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Flowers,,all,420,66,0.15714285714285714,66,0,{},9,5,74,0,,0.0,4.0,60.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Flowers,,2021,420,66,0.15714285714285714,66,0,{},9,5,74,0,,0.0,4.0,60.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Trusses,,all,420,66,0.15714285714285714,66,0,{},9,5,196,0,,0.0,4.0,180.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Trusses,,2021,420,66,0.15714285714285714,66,0,{},9,5,196,0,,0.0,4.0,180.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Stem length,,all,420,18,0.04285714285714286,18,0,{},2,177,0,0,,44.0,280.0,3.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Stem length,,2021,420,18,0.04285714285714286,18,0,{},2,177,0,0,,44.0,280.0,3.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Stem diameter,,all,420,378,0.9,378,0,{},9,39,0,0,,5.26,16.56,1.0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,Stem diameter,,2021,420,378,0.9,378,0,{},9,39,0,0,,5.26,16.56,1.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Date,,all,22,0,0.0,0,0,{},0,6,0,0,,,,
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Date,,2021,22,0,0.0,0,0,{},0,6,0,0,,,,
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Weeks after planting,,all,22,0,0.0,0,0,{},0,6,0,0,,7.0,17.0,6.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Weeks after planting,,2021,22,0,0.0,0,0,{},0,6,0,0,,7.0,17.0,6.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Days after planting,,all,22,0,0.0,0,0,{},0,6,0,0,,46.0,120.0,6.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Days after planting,,2021,22,0,0.0,0,0,{},0,6,0,0,,46.0,120.0,6.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Plant,,all,22,0,0.0,0,0,{},0,21,0,0,,,,
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Plant,,2021,22,0,0.0,0,0,{},0,21,0,0,,,,
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Fresh weight,,all,22,0,0.0,0,0,{},0,22,0,0,,14.58,759.9,1.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Fresh weight,,2021,22,0,0.0,0,0,{},0,22,0,0,,14.58,759.9,1.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Dry weight,,all,22,0,0.0,0,0,{},0,22,0,0,,1.17,69.9,1.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,Dry weight,,2021,22,0,0.0,0,0,{},0,22,0,0,,1.17,69.9,1.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,FW,,all,22,0,0.0,0,0,{},0,22,0,0,,89.662,93.967,1.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,FW,,2021,22,0,0.0,0,0,{},0,22,0,0,,89.662,93.967,1.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,DW,,all,22,0,0.0,0,0,{},0,22,0,0,,6.033,10.338,1.0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,DW,,2021,22,0,0.0,0,0,{},0,22,0,0,,6.033,10.338,1.0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Days after planting,,all,56,0,0.0,0,0,{},0,7,8,0,,0.0,60.0,8.0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Plant,,all,56,0,0.0,0,0,{},0,16,0,0,,,,
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Leaves,,all,56,0,0.0,0,0,{},0,19,0,0,,7.0,35.0,4.0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Flowers,,all,56,0,0.0,0,0,{},0,8,0,0,,1.0,8.0,7.0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,New leaves,,all,56,16,0.2857142857142857,16,0,{},16,10,8,0,,0.0,13.0,8.0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,New flowers,,all,56,16,0.2857142857142857,16,0,{},16,5,16,0,,0.0,4.0,16.0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,New stem,,all,56,0,0.0,0,0,{},0,30,8,0,,0.0,145.0,8.0
+Plant/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,Entry,,not applicable,16,0,0.0,0,0,{},0,15,0,0,,,,
+Plant/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,Description_or_Manufacturer,,not applicable,16,1,0.0625,1,0,{},1,15,0,0,,,,
+Plant/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,Unit_or_Type,,not applicable,16,1,0.0625,1,0,{},1,7,0,0,,,,
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Date,,all,48,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Date,,2022,48,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Plant,,all,48,0,0.0,0,0,{},0,2,0,0,,1.0,2.0,
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Plant,,2022,48,0,0.0,0,0,{},0,2,0,0,,1.0,2.0,
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Leaf,,all,48,0,0.0,0,0,{},0,19,0,0,,1.0,19.0,
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Leaf,,2022,48,0,0.0,0,0,{},0,19,0,0,,1.0,19.0,
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Area,,all,48,0,0.0,0,0,{},0,48,0,0,,0.00383575,0.147956,1.0
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Area,,2022,48,0,0.0,0,0,{},0,48,0,0,,0.00383575,0.147956,1.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Time,,all,432283,0,0.0,0,0,{},0,7206,0,0,,,,
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Time,,2022,432283,0,0.0,0,0,{},0,7206,0,0,,,,
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale1,,all,432283,13213,0.030565624833731608,13213,0,{},13213,28962,2,0,,-22971.57,1005.29,5.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale1,,2022,432283,13213,0.030565624833731608,13213,0,{},13213,28962,2,0,,-22971.57,1005.29,5.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale2,,all,432283,321892,0.7446325670914655,321892,0,{},321892,22127,3,0,,-22425.62,16.24,4.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale2,,2022,432283,321892,0.7446325670914655,321892,0,{},321892,22127,3,0,,-22425.62,16.24,4.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale3,,all,432283,4,9.253197558081164e-06,0,4,"{""nan"": 4}",1,41758,126,371,,-37280.04,3195.38,4.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale3,,2022,432283,4,9.253197558081164e-06,0,4,"{""nan"": 4}",1,41758,126,371,,-37280.04,3195.38,4.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale4,,all,432283,12840,0.029702764161440538,12840,0,{},12840,36983,0,0,,-22040.16,64.5,5.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale4,,2022,432283,12840,0.029702764161440538,12840,0,{},12840,36983,0,0,,-22040.16,64.5,5.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale5,,all,432283,325204,0.7522942146695567,325204,0,{},325204,4064,90988,0,,-20061.34,90.39,90985.0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Scale5,,2022,432283,325204,0.7522942146695567,325204,0,{},325204,4064,90988,0,,-20061.34,90.39,90985.0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,Time,,all,30,0,0.0,0,0,{},0,6,0,0,,,,
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,Time,,2022,30,0,0.0,0,0,{},0,6,0,0,,,,
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,Measurement,,all,30,0,0.0,0,0,{},0,6,0,0,,1.0,6.0,
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,Measurement,,2022,30,0,0.0,0,0,{},0,6,0,0,,1.0,6.0,
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,WP1,,all,30,0,0.0,0,0,{},0,16,0,0,,-0.65,-0.2,2.0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,WP1,,2022,30,0,0.0,0,0,{},0,16,0,0,,-0.65,-0.2,2.0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,WP2,,all,30,0,0.0,0,0,{},0,18,0,0,,-0.75,-0.1,2.0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,WP2,,2022,30,0,0.0,0,0,{},0,18,0,0,,-0.75,-0.1,2.0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,WP3,,all,30,0,0.0,0,0,{},0,17,0,0,,-0.75,-0.175,2.0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,WP3,,2022,30,0,0.0,0,0,{},0,17,0,0,,-0.75,-0.175,2.0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,WP4,,all,30,0,0.0,0,0,{},0,15,0,0,,-0.775,-0.2,4.0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,WP4,,2022,30,0,0.0,0,0,{},0,15,0,0,,-0.775,-0.2,4.0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Time,,all,30,0,0.0,0,0,{},0,6,0,0,,,,
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Time,,2022,30,0,0.0,0,0,{},0,6,0,0,,,,
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Measurement,,all,30,0,0.0,0,0,{},0,6,0,0,,1.0,6.0,
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,Measurement,,2022,30,0,0.0,0,0,{},0,6,0,0,,1.0,6.0,
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,WP1,,all,30,0,0.0,0,0,{},0,16,0,0,,-0.65,-0.2,2.0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,WP1,,2022,30,0,0.0,0,0,{},0,16,0,0,,-0.65,-0.2,2.0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,WP2,,all,30,0,0.0,0,0,{},0,18,0,0,,-0.75,-0.1,2.0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,WP2,,2022,30,0,0.0,0,0,{},0,18,0,0,,-0.75,-0.1,2.0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,WP3,,all,30,0,0.0,0,0,{},0,17,0,0,,-0.75,-0.175,2.0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,WP3,,2022,30,0,0.0,0,0,{},0,17,0,0,,-0.75,-0.175,2.0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,WP4,,all,30,0,0.0,0,0,{},0,15,0,0,,-0.775,-0.2,4.0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,WP4,,2022,30,0,0.0,0,0,{},0,15,0,0,,-0.775,-0.2,4.0
+Plant/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,Entry,,not applicable,11,0,0.0,0,0,{},0,11,0,0,,,,
+Plant/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,Description_or_Manufacturer,,not applicable,11,1,0.09090909090909091,1,0,{},1,10,0,0,,,,
+Plant/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,Unit_or_Type,,not applicable,11,1,0.09090909090909091,1,0,{},1,8,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Date,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Date,,2023,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Stem length,,all,2,0,0.0,0,0,{},0,2,0,0,,9.5,9.5,1.0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Stem length,,2023,2,0,0.0,0,0,{},0,2,0,0,,9.5,9.5,1.0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Number of leaves,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Number of leaves,,2023,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Length between 5 leaves,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Length between 5 leaves,,2023,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Diameter middle,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Diameter middle,,2023,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Diameter bottom,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Diameter bottom,,2023,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,LA_comp4,,all,2,0,0.0,0,0,{},0,2,1,0,,0.0,0.115,1.0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,LA_comp4,,2023,2,0,0.0,0,0,{},0,2,1,0,,0.0,0.115,1.0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,LA_comp3,,all,2,0,0.0,0,0,{},0,2,0,0,,0.09,0.33,1.0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,LA_comp3,,2023,2,0,0.0,0,0,{},0,2,0,0,,0.09,0.33,1.0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,LA_comp2,,all,2,0,0.0,0,0,{},0,1,0,0,,0.43,0.43,2.0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,LA_comp2,,2023,2,0,0.0,0,0,{},0,1,0,0,,0.43,0.43,2.0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,LA_comp1,,all,2,0,0.0,0,0,{},0,1,0,0,,0.47,0.47,2.0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,LA_comp1,,2023,2,0,0.0,0,0,{},0,1,0,0,,0.47,0.47,2.0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Time,,all,32,0,0.0,0,0,{},0,16,0,0,,,,
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Time,,2023,32,0,0.0,0,0,{},0,16,0,0,,,,
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Measurement,,all,32,0,0.0,0,0,{},0,6,0,0,,1.0,6.0,
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,Measurement,,2023,32,0,0.0,0,0,{},0,6,0,0,,1.0,6.0,
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,WP1,,all,32,0,0.0,0,0,{},0,11,0,0,,-0.4,-0.125,2.0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,WP1,,2023,32,0,0.0,0,0,{},0,11,0,0,,-0.4,-0.125,2.0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,WP2,,all,32,0,0.0,0,0,{},0,12,0,0,,-0.45,-0.15,2.0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,WP2,,2023,32,0,0.0,0,0,{},0,12,0,0,,-0.45,-0.15,2.0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,WP3,,all,32,18,0.5625,18,0,{},18,9,0,0,,-0.55,-0.15,2.0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,WP3,,2023,32,18,0.5625,18,0,{},18,9,0,0,,-0.55,-0.15,2.0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,WP4,,all,32,18,0.5625,18,0,{},18,10,0,0,,-0.625,-0.225,2.0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,WP4,,2023,32,18,0.5625,18,0,{},18,10,0,0,,-0.625,-0.225,2.0
+Plant/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,Entry,,not applicable,11,0,0.0,0,0,{},0,11,0,0,,,,
+Plant/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,Description_or_Manufacturer,,not applicable,11,1,0.09090909090909091,1,0,{},1,10,0,0,,,,
+Plant/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,Unit_or_Type,,not applicable,11,1,0.09090909090909091,1,0,{},1,8,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Date,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Date,,2024,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Stem length,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Stem length,,2024,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Number of leaves,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Number of leaves,,2024,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Length between 5 leaves,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Length between 5 leaves,,2024,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Diameter middle,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Diameter middle,,2024,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Diameter bottom,,all,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,Diameter bottom,,2024,2,0,0.0,0,0,{},0,2,0,0,,,,
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,LA_comp4,,all,2,0,0.0,0,0,{},0,2,1,0,,0.0,0.115,1.0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,LA_comp4,,2024,2,0,0.0,0,0,{},0,2,1,0,,0.0,0.115,1.0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,LA_comp3,,all,2,0,0.0,0,0,{},0,2,0,0,,0.09,0.33,1.0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,LA_comp3,,2024,2,0,0.0,0,0,{},0,2,0,0,,0.09,0.33,1.0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,LA_comp2,,all,2,0,0.0,0,0,{},0,2,0,0,,0.22,0.43,1.0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,LA_comp2,,2024,2,0,0.0,0,0,{},0,2,0,0,,0.22,0.43,1.0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,LA_comp1,,all,2,0,0.0,0,0,{},0,2,0,0,,0.232,0.47,1.0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,LA_comp1,,2024,2,0,0.0,0,0,{},0,2,0,0,,0.232,0.47,1.0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,Time,,all,32,0,0.0,0,0,{},0,16,0,0,,,,
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,Time,,2023,32,0,0.0,0,0,{},0,16,0,0,,,,
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,Measurement,,all,32,0,0.0,0,0,{},0,6,0,0,,1.0,6.0,
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,Measurement,,2023,32,0,0.0,0,0,{},0,6,0,0,,1.0,6.0,
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,WP1,,all,32,0,0.0,0,0,{},0,11,0,0,,-0.4,-0.125,2.0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,WP1,,2023,32,0,0.0,0,0,{},0,11,0,0,,-0.4,-0.125,2.0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,WP2,,all,32,0,0.0,0,0,{},0,12,0,0,,-0.45,-0.15,2.0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,WP2,,2023,32,0,0.0,0,0,{},0,12,0,0,,-0.45,-0.15,2.0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,WP3,,all,32,18,0.5625,18,0,{},18,9,0,0,,-0.55,-0.15,2.0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,WP3,,2023,32,18,0.5625,18,0,{},18,9,0,0,,-0.55,-0.15,2.0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,WP4,,all,32,18,0.5625,18,0,{},18,10,0,0,,-0.625,-0.225,2.0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,WP4,,2023,32,18,0.5625,18,0,{},18,10,0,0,,-0.625,-0.225,2.0

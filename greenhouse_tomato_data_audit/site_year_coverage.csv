@@ -1,0 +1,59 @@
+﻿file,site,campaign_year,sheet,role,sensor,calendar_year,records,n_times,first,last,n_dates,precision
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,,2019,77181,77181,2019-01-01 00:00:00,2019-10-01 23:55:00,269,absolute date-time where parseable
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,,2019,2,2,2019-01-01 00:00:00,2019-01-02 00:00:00,2,absolute date-time where parseable
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,,unknown,6448,0,,,0,absolute date-time where parseable
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,,2018,364,364,2018-12-31 11:53:22,2018-12-31 23:59:22,1,absolute date-time where parseable
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,,2019,58963,58963,2019-01-01 00:01:22,2019-09-27 13:26:09,258,absolute date-time where parseable
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,,2020,86530,86530,2020-01-07 00:00:00,2020-11-02 10:45:00,301,absolute date-time where parseable
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,29934,0,,,0,absolute date-time where parseable
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,52544,0,,,0,absolute date-time where parseable
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,30785,0,,,0,absolute date-time where parseable
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,20900,0,,,0,absolute date-time where parseable
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,52065,0,,,0,absolute date-time where parseable
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,56033,0,,,0,absolute date-time where parseable
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,51647,0,,,0,absolute date-time where parseable
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,24336,0,,,0,absolute date-time where parseable
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,,2020,6575,6575,2020-01-01 00:00:00,2020-09-30 22:00:00,274,absolute date-time where parseable
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,66741,0,,,0,absolute date-time where parseable
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,67036,0,,,0,absolute date-time where parseable
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,2019,44011,44010,2019-02-05 12:17:00,2019-10-14 06:55:00,181,absolute date-time where parseable
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,2020,55793,55793,2020-01-13 09:23:00,2020-11-18 03:10:00,220,absolute date-time where parseable
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,97569,0,,,0,absolute date-time where parseable
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,133724,0,,,0,absolute date-time where parseable
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,,unknown,66416,0,,,0,absolute date-time where parseable
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,,2021,2784,2784,2021-06-07 00:00:00,2021-09-30 22:59:00,116,absolute date-time where parseable
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,,2021,7261,7261,2021-07-17 00:00:00,2021-09-30 15:00:00,76,absolute date-time where parseable
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,,2021,2927,2927,2021-06-01 00:00:00,2021-09-30 22:00:00,122,absolute date-time where parseable
+Environment/2022/Light_2022.xlsx,KU Leuven (Heverlee),2022,Light,Environment,,2022,13079,13079,2022-02-03 15:50:00,2022-05-05 11:30:00,92,absolute date-time where parseable
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,6447,2021,745,745,2021-11-30 23:00:00,2021-12-31 23:00:00,32,absolute date-time where parseable
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,6447,2022,2879,2879,2022-01-01 00:00:00,2022-04-30 22:00:00,120,absolute date-time where parseable
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,6451,2021,737,737,2021-11-30 23:00:00,2021-12-31 23:00:00,32,absolute date-time where parseable
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,6451,2022,2879,2879,2022-01-01 00:00:00,2022-04-30 22:00:00,120,absolute date-time where parseable
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,,2021,2448,2448,2021-12-15 00:06:06.215000,2021-12-31 23:56:10.726000,17,absolute date-time where parseable
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,,2022,20558,20558,2022-01-01 00:06:10.726000,2022-05-23 19:15:35.412000,143,absolute date-time where parseable
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,,2021,2448,2448,2021-12-15 00:04:50.511000,2021-12-31 23:54:53.955000,17,absolute date-time where parseable
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,,2022,20694,20694,2022-01-01 00:04:53.956000,2022-05-24 14:03:47.774000,144,absolute date-time where parseable
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,,2021,2448,2448,2021-12-15 00:08:29.224000,2021-12-31 23:58:32.433000,17,absolute date-time where parseable
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,,2022,20210,20210,2022-01-01 00:08:32.434000,2022-05-21 09:18:31.560000,141,absolute date-time where parseable
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,,2023,35136,35136,2023-09-01 00:00:00,2023-12-31 23:55:00,122,absolute date-time where parseable
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,,2024,9100,9100,2024-01-01 00:00:00,2024-02-01 14:15:00,32,absolute date-time where parseable
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,,2024,28513,28513,2024-01-01 00:00:00,2024-04-09 00:00:00,100,absolute date-time where parseable
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,,2020,216,9,2020-06-22 00:00:00,2020-08-17 00:00:00,9,day only
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,,2020,213,9,2020-09-18 00:00:00,2020-11-12 00:00:00,9,day only
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,,2020,429,18,2020-06-22 00:00:00,2020-11-12 00:00:00,18,day only
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,,2020,408,34,2020-01-17 00:00:00,2020-09-04 00:00:00,34,day only
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,,2020,28,7,2020-03-06 00:00:00,2020-04-16 00:00:00,7,day only
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,,2019,446,3,2019-03-01 00:00:00,2019-07-17 00:00:00,3,day only
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,,unknown,51,0,,,0,days after planting only
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,,2021,124,7,2021-07-05 00:00:00,2021-09-29 00:00:00,7,day only
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,,2021,420,7,2021-07-02 00:00:00,2021-08-13 00:00:00,7,day only
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,,2021,22,6,2021-07-05 00:00:00,2021-09-17 00:00:00,6,day only
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,,unknown,56,0,,,0,days after planting only
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,,2022,48,2,2022-04-07 00:00:00,2022-04-27 00:00:00,2,day only
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,,2022,432283,7206,2022-09-01 12:01:00,2022-09-06 12:06:00,6,minute display/export; duplicate instants
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,,2022,30,6,2022-04-07 07:00:00,2022-04-07 23:00:00,1,absolute date-time where parseable
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,,2022,30,6,2022-04-07 07:00:00,2022-04-07 23:00:00,1,absolute date-time where parseable
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,,2023,2,2,2023-09-14 00:00:00,2023-10-12 00:00:00,2,day only
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,,2023,32,16,2023-09-14 07:45:00,2023-10-12 16:15:00,2,absolute date-time where parseable
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,,2024,2,2,2024-01-18 00:00:00,2024-03-14 00:00:00,2,day only
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,,2023,32,16,2023-09-14 07:45:00,2023-10-12 16:15:00,2,absolute date-time where parseable

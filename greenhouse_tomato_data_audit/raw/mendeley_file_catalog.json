@@ -1,0 +1,1091 @@
+[
+  {
+    "folder_id": "bd9615ff-0e0a-4210-8560-42795ada3a53",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=bd9615ff-0e0a-4210-8560-42795ada3a53&version=1",
+    "response": [
+      {
+        "filename": "2020a_fruit.csv",
+        "id": "097a4fea-805a-442c-86d1-5c5e29c79ccb",
+        "folder_id": "bd9615ff-0e0a-4210-8560-42795ada3a53",
+        "content_details": {
+          "id": "90e68b49-b13b-4360-9bb8-c3abcc38f111",
+          "sha256_hash": "e90ed6bae44c042c465d8556ec1bb9a3538ba615659337a7bc609cecca7617c1",
+          "content_type": "text/csv",
+          "size": 21148,
+          "created_date": "2024-05-06T11:59:24.608Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/097a4fea-805a-442c-86d1-5c5e29c79ccb/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/097a4fea-805a-442c-86d1-5c5e29c79ccb/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.052592085Z"
+        },
+        "size": 21148,
+        "last_modified_date": "2024-05-06T11:59:24.608Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "2020b_fruit.csv",
+        "id": "8630edbd-a536-4985-aba5-be9659eee118",
+        "folder_id": "bd9615ff-0e0a-4210-8560-42795ada3a53",
+        "content_details": {
+          "id": "3a769aee-f9ce-467d-8f61-731a8c0f701b",
+          "sha256_hash": "e51f9688276fa516fec86ceebb4a6d0b49c6298c7bfdb2789194d2aee9591d53",
+          "content_type": "text/csv",
+          "size": 21210,
+          "created_date": "2024-05-06T11:59:24.665Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/8630edbd-a536-4985-aba5-be9659eee118/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/8630edbd-a536-4985-aba5-be9659eee118/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.052596245Z"
+        },
+        "size": 21210,
+        "last_modified_date": "2024-05-06T11:59:24.665Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Fruit_2020.xlsx",
+        "id": "140208fd-6236-4248-8ebd-276796e027f3",
+        "folder_id": "bd9615ff-0e0a-4210-8560-42795ada3a53",
+        "content_details": {
+          "id": "a09fd64a-ad99-4b41-bd2a-f037e2cf709c",
+          "sha256_hash": "ecaa11bf575de436bffa23e2a3393e90f6c736ea2b562b691a0fe1a82062d129",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 30039,
+          "created_date": "2024-05-06T11:59:24.683Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/140208fd-6236-4248-8ebd-276796e027f3/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/140208fd-6236-4248-8ebd-276796e027f3/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.052599755Z"
+        },
+        "size": 30039,
+        "last_modified_date": "2024-05-06T11:59:24.683Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Growth_2020.xlsx",
+        "id": "0a9bc333-addf-49c4-8f4d-aeb7c5dd4a9f",
+        "folder_id": "bd9615ff-0e0a-4210-8560-42795ada3a53",
+        "content_details": {
+          "id": "259cda77-8832-4817-aeab-1d3e76d68371",
+          "sha256_hash": "4310c1356f1d84815aee03afa41a18f4a0812c02ef74e9bdf4a58c22bb16a83b",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 29433,
+          "created_date": "2024-05-06T11:59:24.782Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/0a9bc333-addf-49c4-8f4d-aeb7c5dd4a9f/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/0a9bc333-addf-49c4-8f4d-aeb7c5dd4a9f/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.052603235Z"
+        },
+        "size": 29433,
+        "last_modified_date": "2024-05-06T11:59:24.782Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Info.xlsx",
+        "id": "5fa697dd-1c74-43dd-a6c0-2b62e2cbf30f",
+        "folder_id": "bd9615ff-0e0a-4210-8560-42795ada3a53",
+        "content_details": {
+          "id": "5587e87e-38b1-406a-9604-a9cdad16b7aa",
+          "sha256_hash": "6ab5814e062477c73833ad4fc1e70d5d21d807f89619f0b7def333a5a2b62020",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 9386,
+          "created_date": "2024-05-06T11:59:24.801Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/5fa697dd-1c74-43dd-a6c0-2b62e2cbf30f/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/5fa697dd-1c74-43dd-a6c0-2b62e2cbf30f/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.052606855Z"
+        },
+        "size": 9386,
+        "last_modified_date": "2024-05-06T11:59:24.801Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "LA_2019.xlsx",
+        "id": "0d09ce1f-7598-4491-989b-7ec0f1b0de3a",
+        "folder_id": "bd9615ff-0e0a-4210-8560-42795ada3a53",
+        "content_details": {
+          "id": "6885383a-1e4e-47d0-99e0-9f74951bac8a",
+          "sha256_hash": "256cfa31a4c48768122670e3ccd04ac506be05c51e9c0f799bc3e37a359b1927",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 28683,
+          "created_date": "2024-05-06T11:59:24.878Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/0d09ce1f-7598-4491-989b-7ec0f1b0de3a/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/0d09ce1f-7598-4491-989b-7ec0f1b0de3a/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.052612016Z"
+        },
+        "size": 28683,
+        "last_modified_date": "2024-05-06T11:59:24.878Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "LAI_2020.xlsx",
+        "id": "8ca207d1-c6c9-4b4b-8e85-3e16645b38b7",
+        "folder_id": "bd9615ff-0e0a-4210-8560-42795ada3a53",
+        "content_details": {
+          "id": "d0d9e4bd-bd10-492e-8cb7-db20ebe8cec2",
+          "sha256_hash": "c51d26bfa574fe69172b71a058141371203004b20f361d8100a5e6713ae63577",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 10676,
+          "created_date": "2024-05-06T11:59:24.825Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/8ca207d1-c6c9-4b4b-8e85-3e16645b38b7/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/8ca207d1-c6c9-4b4b-8e85-3e16645b38b7/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.052617365Z"
+        },
+        "size": 10676,
+        "last_modified_date": "2024-05-06T11:59:24.825Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "root",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=root&version=1",
+    "response": []
+  },
+  {
+    "folder_id": "99fda6aa-98ab-43c2-896e-a3de83cf5904",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=99fda6aa-98ab-43c2-896e-a3de83cf5904&version=1",
+    "response": [
+      {
+        "filename": "Info.xlsx",
+        "id": "db5b2a0f-f229-4f37-adb0-063ec05777fe",
+        "folder_id": "99fda6aa-98ab-43c2-896e-a3de83cf5904",
+        "content_details": {
+          "id": "cbf86b88-ee23-46fe-8a7c-f3a815302009",
+          "sha256_hash": "e762ef90576847fcacd7e6cd073187f7a3099177118fd88ced6769edc4179e1b",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8764,
+          "created_date": "2024-05-06T11:59:24.859Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/db5b2a0f-f229-4f37-adb0-063ec05777fe/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/db5b2a0f-f229-4f37-adb0-063ec05777fe/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.268911379Z"
+        },
+        "size": 8764,
+        "last_modified_date": "2024-05-06T11:59:24.859Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "LA_2021.xlsx",
+        "id": "738ec60d-01e7-447b-b5e1-ba3402cce1fd",
+        "folder_id": "99fda6aa-98ab-43c2-896e-a3de83cf5904",
+        "content_details": {
+          "id": "9f31be35-b989-407a-9a39-8a2d3034515f",
+          "sha256_hash": "2324018abb816f911314b0c198eced9755d4b8cad7a1423f61121a25a50b56ed",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 12646,
+          "created_date": "2024-05-06T11:59:24.891Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/738ec60d-01e7-447b-b5e1-ba3402cce1fd/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/738ec60d-01e7-447b-b5e1-ba3402cce1fd/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.268915239Z"
+        },
+        "size": 12646,
+        "last_modified_date": "2024-05-06T11:59:24.891Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Leaves_2021.xlsx",
+        "id": "5f4f542c-5f0f-4749-8157-a0e4ac11b155",
+        "folder_id": "99fda6aa-98ab-43c2-896e-a3de83cf5904",
+        "content_details": {
+          "id": "11207f35-dec8-4e06-ba5a-9950398bc385",
+          "sha256_hash": "a3740019cd8e409f75d2313f653c2f14ab4013742829e2a4432cd1624faccaae",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 16990,
+          "created_date": "2024-05-06T11:59:24.921Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/5f4f542c-5f0f-4749-8157-a0e4ac11b155/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/5f4f542c-5f0f-4749-8157-a0e4ac11b155/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.268918069Z"
+        },
+        "size": 16990,
+        "last_modified_date": "2024-05-06T11:59:24.921Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "PlantGrowth_2021.xlsx",
+        "id": "a1ba031a-a35e-4f1c-b156-5d413f1c838e",
+        "folder_id": "99fda6aa-98ab-43c2-896e-a3de83cf5904",
+        "content_details": {
+          "id": "4029410e-d65f-4cd4-b647-3c96942cefc2",
+          "sha256_hash": "ed55497eb34c8d1a99d9b2863dfa6a5c7b394907cd115acf2f72af8755da1757",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 24493,
+          "created_date": "2024-05-06T11:59:24.906Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a1ba031a-a35e-4f1c-b156-5d413f1c838e/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a1ba031a-a35e-4f1c-b156-5d413f1c838e/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.268920879Z"
+        },
+        "size": 24493,
+        "last_modified_date": "2024-05-06T11:59:24.906Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Stem_2021.xlsx",
+        "id": "9eeaf053-fbfe-457e-86c2-b6a16716cfb8",
+        "folder_id": "99fda6aa-98ab-43c2-896e-a3de83cf5904",
+        "content_details": {
+          "id": "631ec2a6-bc1e-4ba1-9d80-89c65e61ad45",
+          "sha256_hash": "9110b60c3dd6fb080f49ab5e03342fbafadedfc6fba1ea0340160e4aa2758491",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 11097,
+          "created_date": "2024-05-06T11:59:24.958Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/9eeaf053-fbfe-457e-86c2-b6a16716cfb8/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/9eeaf053-fbfe-457e-86c2-b6a16716cfb8/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.268923509Z"
+        },
+        "size": 11097,
+        "last_modified_date": "2024-05-06T11:59:24.958Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "ba164175-c436-4858-8de8-b6393115a4f6",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=ba164175-c436-4858-8de8-b6393115a4f6&version=1",
+    "response": [
+      {
+        "filename": "Growth_2022.xlsx",
+        "id": "4e870845-ad54-4d12-a797-da5f9f7e3cea",
+        "folder_id": "ba164175-c436-4858-8de8-b6393115a4f6",
+        "content_details": {
+          "id": "fdfb57fd-122a-4f3c-8498-bad8cb66ab2d",
+          "sha256_hash": "addaf1387219d0050e4b8350a432441b6aecb997f987954a3b592943d14e6b05",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 11404,
+          "created_date": "2024-05-06T11:59:24.938Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/4e870845-ad54-4d12-a797-da5f9f7e3cea/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/4e870845-ad54-4d12-a797-da5f9f7e3cea/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.293516899Z"
+        },
+        "size": 11404,
+        "last_modified_date": "2024-05-06T11:59:24.938Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Info.xlsx",
+        "id": "ad2894c1-c68e-4a87-8738-ea26e5b4b4f9",
+        "folder_id": "ba164175-c436-4858-8de8-b6393115a4f6",
+        "content_details": {
+          "id": "c04cbc8f-67b0-46c4-9c21-705452e9ad25",
+          "sha256_hash": "b978859a82d1c4327142713fa2ab1afb2ac2a46cb6156477c6e472585507619e",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8854,
+          "created_date": "2024-05-06T11:59:24.988Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/ad2894c1-c68e-4a87-8738-ea26e5b4b4f9/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/ad2894c1-c68e-4a87-8738-ea26e5b4b4f9/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.293521549Z"
+        },
+        "size": 8854,
+        "last_modified_date": "2024-05-06T11:59:24.988Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "LA_2022.xlsx",
+        "id": "c9007baf-e106-4ba6-988a-92e9cf010c74",
+        "folder_id": "ba164175-c436-4858-8de8-b6393115a4f6",
+        "content_details": {
+          "id": "bf61ba47-a003-43ff-bdfe-ebea6408738e",
+          "sha256_hash": "7367e4b3f6d5db7dd931d44c6b77fd1851ade667c705af6708c8911398985caa",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 10860,
+          "created_date": "2024-05-06T11:59:24.974Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/c9007baf-e106-4ba6-988a-92e9cf010c74/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/c9007baf-e106-4ba6-988a-92e9cf010c74/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.293524969Z"
+        },
+        "size": 10860,
+        "last_modified_date": "2024-05-06T11:59:24.974Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Transpiration_2022.xlsx",
+        "id": "18b04895-1ad8-4e37-945f-24dbc6a50cb8",
+        "folder_id": "ba164175-c436-4858-8de8-b6393115a4f6",
+        "content_details": {
+          "id": "a490cfb3-6491-4998-a720-c5f282ee4798",
+          "sha256_hash": "9c3d0b1e02c429da80fd3b5ff155443d7b00caad62bcbf8b5a53fb22734e8410",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 11873328,
+          "created_date": "2024-05-06T11:59:25.379Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/18b04895-1ad8-4e37-945f-24dbc6a50cb8/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/18b04895-1ad8-4e37-945f-24dbc6a50cb8/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.293528339Z"
+        },
+        "size": 11873328,
+        "last_modified_date": "2024-05-06T11:59:25.379Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "WP_2022.csv",
+        "id": "29e62295-77a6-4458-8bf7-45f000bf3434",
+        "folder_id": "ba164175-c436-4858-8de8-b6393115a4f6",
+        "content_details": {
+          "id": "b73d0b5f-00fc-4625-a9d1-5e3f4a5e1723",
+          "sha256_hash": "db4cfee83b1f5ba9e4eb6cba6678aca843f4b992fc90f1e9eee3a5b32442406f",
+          "content_type": "text/csv",
+          "size": 1353,
+          "created_date": "2024-05-06T11:59:25.049Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/29e62295-77a6-4458-8bf7-45f000bf3434/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/29e62295-77a6-4458-8bf7-45f000bf3434/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.293531499Z"
+        },
+        "size": 1353,
+        "last_modified_date": "2024-05-06T11:59:25.049Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "WP_2022.xlsx",
+        "id": "082122a4-cb78-41f6-b9b5-9db015f90091",
+        "folder_id": "ba164175-c436-4858-8de8-b6393115a4f6",
+        "content_details": {
+          "id": "52c6e260-a3b2-487d-992c-0675994bf4f9",
+          "sha256_hash": "960c53f9a42efbe74fbbb21b30f743a49a45b8b0e4826835c63bb31caa34ea84",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 10677,
+          "created_date": "2024-05-06T11:59:25.099Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/082122a4-cb78-41f6-b9b5-9db015f90091/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/082122a4-cb78-41f6-b9b5-9db015f90091/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.293534739Z"
+        },
+        "size": 10677,
+        "last_modified_date": "2024-05-06T11:59:25.099Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "5121ed0b-05e9-41e9-a57f-28506bf0cc92",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=5121ed0b-05e9-41e9-a57f-28506bf0cc92&version=1",
+    "response": [
+      {
+        "filename": "Info.xlsx",
+        "id": "b72b15bc-bd79-4939-a6ec-e902a5b5100e",
+        "folder_id": "5121ed0b-05e9-41e9-a57f-28506bf0cc92",
+        "content_details": {
+          "id": "88ccfca4-80aa-4cc1-9bf6-2655cb8833f5",
+          "sha256_hash": "dd23fa64a17fb110364007baefc418881082ea1ea9c42ba8a6c5555bfb51f7d5",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8721,
+          "created_date": "2024-05-06T11:59:25.075Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/b72b15bc-bd79-4939-a6ec-e902a5b5100e/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/b72b15bc-bd79-4939-a6ec-e902a5b5100e/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.295536291Z"
+        },
+        "size": 8721,
+        "last_modified_date": "2024-05-06T11:59:25.075Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Plant_2023.xlsx",
+        "id": "d326da93-00f2-46b9-b72d-6e86b60ed67c",
+        "folder_id": "5121ed0b-05e9-41e9-a57f-28506bf0cc92",
+        "content_details": {
+          "id": "dccf213e-bfa8-4ce8-8ebf-77a94907a5ca",
+          "sha256_hash": "efdd454f89bfe02cfcb8b83237cef59806d9d5f239ef0622c2f535bb49098d99",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8619,
+          "created_date": "2024-05-06T11:59:25.133Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/d326da93-00f2-46b9-b72d-6e86b60ed67c/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/d326da93-00f2-46b9-b72d-6e86b60ed67c/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.295540041Z"
+        },
+        "size": 8619,
+        "last_modified_date": "2024-05-06T11:59:25.133Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "WP_2023.xlsx",
+        "id": "ffda190f-4d05-45f3-a83b-1ae065b12342",
+        "folder_id": "5121ed0b-05e9-41e9-a57f-28506bf0cc92",
+        "content_details": {
+          "id": "309ec832-d376-490d-b9b3-5ec2b42155fa",
+          "sha256_hash": "f1c92efcb53102fa8eafb923145fd5444359b8210480e8a7fad60d0cc75f2838",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 9336,
+          "created_date": "2024-05-06T11:59:25.117Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/ffda190f-4d05-45f3-a83b-1ae065b12342/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/ffda190f-4d05-45f3-a83b-1ae065b12342/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.295542721Z"
+        },
+        "size": 9336,
+        "last_modified_date": "2024-05-06T11:59:25.117Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "d4b575cd-047b-4cda-80da-5d2d7a6c7df9",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=d4b575cd-047b-4cda-80da-5d2d7a6c7df9&version=1",
+    "response": [
+      {
+        "filename": "Info.xlsx",
+        "id": "fe03556e-8195-4bad-9385-66d5bfc93e1b",
+        "folder_id": "d4b575cd-047b-4cda-80da-5d2d7a6c7df9",
+        "content_details": {
+          "id": "dbe26d13-1b9a-4122-8208-c3492234879f",
+          "sha256_hash": "dd23fa64a17fb110364007baefc418881082ea1ea9c42ba8a6c5555bfb51f7d5",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8721,
+          "created_date": "2024-05-06T11:59:25.148Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/fe03556e-8195-4bad-9385-66d5bfc93e1b/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/fe03556e-8195-4bad-9385-66d5bfc93e1b/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.30746941Z"
+        },
+        "size": 8721,
+        "last_modified_date": "2024-05-06T11:59:25.148Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Plant_2024.xlsx",
+        "id": "c54fa98b-9785-4401-8909-21d627a974fb",
+        "folder_id": "d4b575cd-047b-4cda-80da-5d2d7a6c7df9",
+        "content_details": {
+          "id": "79f0e22a-bfe8-4892-8281-d83ed524dfb1",
+          "sha256_hash": "5f702fc5e8a573ed607b4346ca0f2251fda9269111a19aeec880c9079868517c",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8690,
+          "created_date": "2024-05-06T11:59:25.163Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/c54fa98b-9785-4401-8909-21d627a974fb/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/c54fa98b-9785-4401-8909-21d627a974fb/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.30747332Z"
+        },
+        "size": 8690,
+        "last_modified_date": "2024-05-06T11:59:25.163Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "WP_2024.xlsx",
+        "id": "a616867a-0f29-4e18-a1fe-a92be3d3346c",
+        "folder_id": "d4b575cd-047b-4cda-80da-5d2d7a6c7df9",
+        "content_details": {
+          "id": "06ba05ff-f24f-4e48-90ea-8cf6dbe8a764",
+          "sha256_hash": "d135d5e24c5ba313e495c003960e2bb316c28b0ba3421645f4606af4e309c2b3",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 9354,
+          "created_date": "2024-05-06T11:59:25.176Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a616867a-0f29-4e18-a1fe-a92be3d3346c/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a616867a-0f29-4e18-a1fe-a92be3d3346c/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.30747861Z"
+        },
+        "size": 9354,
+        "last_modified_date": "2024-05-06T11:59:25.176Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "7f2c1f2e-5655-4a94-a158-331af1255130",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=7f2c1f2e-5655-4a94-a158-331af1255130&version=1",
+    "response": [
+      {
+        "filename": "Central_2019.xlsx",
+        "id": "a7fb9f91-a8b7-4706-9f4e-095033c72937",
+        "folder_id": "7f2c1f2e-5655-4a94-a158-331af1255130",
+        "content_details": {
+          "id": "becf5127-c82e-4535-a494-783bca600f87",
+          "sha256_hash": "e2aa26579e070b7197f7cd15880d82546e8a257c9eee40d0479118a842dd41c1",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 1802443,
+          "created_date": "2024-05-06T11:59:23.72Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a7fb9f91-a8b7-4706-9f4e-095033c72937/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a7fb9f91-a8b7-4706-9f4e-095033c72937/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.609152568Z"
+        },
+        "size": 1802443,
+        "last_modified_date": "2024-05-06T11:59:23.72Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Info.xlsx",
+        "id": "a02fa21c-4c8b-4803-a104-e754c243238c",
+        "folder_id": "7f2c1f2e-5655-4a94-a158-331af1255130",
+        "content_details": {
+          "id": "68d8c933-6017-4e58-9f37-b292b6b30bf1",
+          "sha256_hash": "0c0eb94b428afa3a2593156ea377995bb2fb513b7c1b09beb66ca7f4f14f9560",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8572,
+          "created_date": "2024-05-06T11:59:23.344Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a02fa21c-4c8b-4803-a104-e754c243238c/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a02fa21c-4c8b-4803-a104-e754c243238c/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.609157888Z"
+        },
+        "size": 8572,
+        "last_modified_date": "2024-05-06T11:59:23.344Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Light_2019.xlsx",
+        "id": "58dc97e9-cda5-473e-861e-9152f47cdf70",
+        "folder_id": "7f2c1f2e-5655-4a94-a158-331af1255130",
+        "content_details": {
+          "id": "a9f38f8d-31eb-4186-9b6f-1f9940b02ec1",
+          "sha256_hash": "7892af2753611a62f5c87e75982a78f7d2b0aca5254351867aad473e7babf466",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 1104384,
+          "created_date": "2024-05-06T11:59:23.591Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/58dc97e9-cda5-473e-861e-9152f47cdf70/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/58dc97e9-cda5-473e-861e-9152f47cdf70/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.609161228Z"
+        },
+        "size": 1104384,
+        "last_modified_date": "2024-05-06T11:59:23.591Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "a987b3a6-8921-4907-a6cd-4e6e3169bd97",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=a987b3a6-8921-4907-a6cd-4e6e3169bd97&version=1",
+    "response": [
+      {
+        "filename": "Central_2024.xlsx",
+        "id": "534bacd1-c74b-4d73-8b92-c43b75f498de",
+        "folder_id": "a987b3a6-8921-4907-a6cd-4e6e3169bd97",
+        "content_details": {
+          "id": "ea9c2b75-64f6-472c-b713-e39ec9fa2bf3",
+          "sha256_hash": "81b321e2baf842ae3f359edb4f84074ab20ce3aa70ff610a3308c3a9b4d4ed4b",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 780839,
+          "created_date": "2024-05-06T11:59:24.7Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/534bacd1-c74b-4d73-8b92-c43b75f498de/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/534bacd1-c74b-4d73-8b92-c43b75f498de/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.852414312Z"
+        },
+        "size": 780839,
+        "last_modified_date": "2024-05-06T11:59:24.7Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Info.xlsx",
+        "id": "379da54b-e93e-4e39-a19c-195ab07641c3",
+        "folder_id": "a987b3a6-8921-4907-a6cd-4e6e3169bd97",
+        "content_details": {
+          "id": "87227407-7f0c-40dd-8b40-29f35791dec2",
+          "sha256_hash": "7449e7a4af49b0d9128b3988d60fb64f552d09ff7ec1f73a44c919289eb999a6",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8517,
+          "created_date": "2024-05-06T11:59:24.627Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/379da54b-e93e-4e39-a19c-195ab07641c3/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/379da54b-e93e-4e39-a19c-195ab07641c3/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:25.852418072Z"
+        },
+        "size": 8517,
+        "last_modified_date": "2024-05-06T11:59:24.627Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "23e596e3-cc2a-4b9e-afab-73fd84b4e6fc",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=23e596e3-cc2a-4b9e-afab-73fd84b4e6fc&version=1",
+    "response": [
+      {
+        "filename": "Central_2021.xlsx",
+        "id": "6426fb77-9dec-438e-9ca1-0a410e535a1c",
+        "folder_id": "23e596e3-cc2a-4b9e-afab-73fd84b4e6fc",
+        "content_details": {
+          "id": "b2d6c43e-521a-4104-a48e-bd25421e1c5f",
+          "sha256_hash": "1d9760a116dc1eb02e185e0750589efe4c0d7a0d284b79815e2e3bacaab6a210",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 89283,
+          "created_date": "2024-05-06T11:59:23.974Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/6426fb77-9dec-438e-9ca1-0a410e535a1c/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/6426fb77-9dec-438e-9ca1-0a410e535a1c/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.483324962Z"
+        },
+        "size": 89283,
+        "last_modified_date": "2024-05-06T11:59:23.974Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Info.xlsx",
+        "id": "7ecf6805-d994-410f-86fd-fd503dfe9c48",
+        "folder_id": "23e596e3-cc2a-4b9e-afab-73fd84b4e6fc",
+        "content_details": {
+          "id": "da994091-d06f-4c0f-afa5-7a45527f868d",
+          "sha256_hash": "6730397ea76cc0443c09c8d43978990943e187b3c22eed1603b5c29dcc5a6d8a",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8679,
+          "created_date": "2024-05-06T11:59:24.01Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/7ecf6805-d994-410f-86fd-fd503dfe9c48/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/7ecf6805-d994-410f-86fd-fd503dfe9c48/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.483329352Z"
+        },
+        "size": 8679,
+        "last_modified_date": "2024-05-06T11:59:24.01Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Light_2021.xlsx",
+        "id": "cd31f163-e178-49d9-a0b2-819ec51276d8",
+        "folder_id": "23e596e3-cc2a-4b9e-afab-73fd84b4e6fc",
+        "content_details": {
+          "id": "ee970a3b-58d0-44c2-96e5-8cd19c1278e8",
+          "sha256_hash": "3d692368e2475696321f624ef8bca6d7b3d8d8e7be537ac44d6c3a643bfddbe9",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 213396,
+          "created_date": "2024-05-06T11:59:24.043Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/cd31f163-e178-49d9-a0b2-819ec51276d8/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/cd31f163-e178-49d9-a0b2-819ec51276d8/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.483332192Z"
+        },
+        "size": 213396,
+        "last_modified_date": "2024-05-06T11:59:24.043Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "RMI_2021.xlsx",
+        "id": "a52cc18c-ea9d-489e-849f-79645340271c",
+        "folder_id": "23e596e3-cc2a-4b9e-afab-73fd84b4e6fc",
+        "content_details": {
+          "id": "69ac8aed-862c-4457-ad9e-3e0ba7b06127",
+          "sha256_hash": "6fd44b381cc046f996cbf5e255d12ebaf1f70035a75cfdef4fdce1ff85a5ea42",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 97500,
+          "created_date": "2024-05-06T11:59:24.026Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a52cc18c-ea9d-489e-849f-79645340271c/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a52cc18c-ea9d-489e-849f-79645340271c/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.483334912Z"
+        },
+        "size": 97500,
+        "last_modified_date": "2024-05-06T11:59:24.026Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "4c81c50c-7312-47ab-842a-2e1481c20b26",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=4c81c50c-7312-47ab-842a-2e1481c20b26&version=1",
+    "response": [
+      {
+        "filename": "Info.xlsx",
+        "id": "c828c6d1-a4db-43dc-a174-86b3dcb6e77f",
+        "folder_id": "4c81c50c-7312-47ab-842a-2e1481c20b26",
+        "content_details": {
+          "id": "ee1fe5f8-851b-4860-9d87-fd58e78a53ad",
+          "sha256_hash": "cb888f8b4970df31796dec29cfb4be33173a68efb27cc46a30dd617eb7b3ad5a",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 10064,
+          "created_date": "2024-05-06T11:59:24.192Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/c828c6d1-a4db-43dc-a174-86b3dcb6e77f/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/c828c6d1-a4db-43dc-a174-86b3dcb6e77f/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.570536576Z"
+        },
+        "size": 10064,
+        "last_modified_date": "2024-05-06T11:59:24.192Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Light_2022.xlsx",
+        "id": "7423719d-6ace-4bca-a3dd-b9a62e073e92",
+        "folder_id": "4c81c50c-7312-47ab-842a-2e1481c20b26",
+        "content_details": {
+          "id": "33f5ab44-a21f-45bb-bcfd-9cb0188d785f",
+          "sha256_hash": "e2547b334859d7593b6e308bbdee3b37f807dd66102d50a7e10117b02f99b6ce",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 209275,
+          "created_date": "2024-05-06T11:59:24.325Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/7423719d-6ace-4bca-a3dd-b9a62e073e92/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/7423719d-6ace-4bca-a3dd-b9a62e073e92/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.570541866Z"
+        },
+        "size": 209275,
+        "last_modified_date": "2024-05-06T11:59:24.325Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "RMI_2022.xlsx",
+        "id": "e922887e-ec3a-42f3-a2bb-746409767bfd",
+        "folder_id": "4c81c50c-7312-47ab-842a-2e1481c20b26",
+        "content_details": {
+          "id": "ba454097-52fa-4971-b5d0-3a258e3d7c72",
+          "sha256_hash": "376616368be6c7a57044aae3f6478045f46bc7dc05f6217335ab101d3ce039d8",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 568296,
+          "created_date": "2024-05-06T11:59:24.394Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/e922887e-ec3a-42f3-a2bb-746409767bfd/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/e922887e-ec3a-42f3-a2bb-746409767bfd/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.570545236Z"
+        },
+        "size": 568296,
+        "last_modified_date": "2024-05-06T11:59:24.394Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "S_2022.xlsx",
+        "id": "72395096-0e2d-4605-a272-d328f51784be",
+        "folder_id": "4c81c50c-7312-47ab-842a-2e1481c20b26",
+        "content_details": {
+          "id": "02c18ce2-f3b5-46fc-b7d8-546ec2ca6062",
+          "sha256_hash": "65abb822e981d8e2568c8913b6ca2b8242a67ae64b6d0728eeb213e48000b726",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 2334384,
+          "created_date": "2024-05-06T11:59:24.646Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/72395096-0e2d-4605-a272-d328f51784be/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/72395096-0e2d-4605-a272-d328f51784be/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.570548666Z"
+        },
+        "size": 2334384,
+        "last_modified_date": "2024-05-06T11:59:24.646Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "e9172027-73ec-4f85-8ae9-1bf8951ed2b8",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=e9172027-73ec-4f85-8ae9-1bf8951ed2b8&version=1",
+    "response": [
+      {
+        "filename": "Central_2023.xlsx",
+        "id": "4d94740f-5509-402f-b626-293c9d8018a5",
+        "folder_id": "e9172027-73ec-4f85-8ae9-1bf8951ed2b8",
+        "content_details": {
+          "id": "4ee3a816-9a03-4364-a924-4d61723f520c",
+          "sha256_hash": "d441ca326a4e0ac1e068624535c694cddc9fe72afc4e2fac01a9875d6a147b9b",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 1238389,
+          "created_date": "2024-05-06T11:59:24.592Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/4d94740f-5509-402f-b626-293c9d8018a5/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/4d94740f-5509-402f-b626-293c9d8018a5/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.60048811Z"
+        },
+        "size": 1238389,
+        "last_modified_date": "2024-05-06T11:59:24.592Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Info.xlsx",
+        "id": "a077818d-870e-45cc-956a-2e93e41a7ede",
+        "folder_id": "e9172027-73ec-4f85-8ae9-1bf8951ed2b8",
+        "content_details": {
+          "id": "f7d5b500-0fa3-458c-93c2-7c318d9d3cce",
+          "sha256_hash": "a20e747f9fe3f662535cf87582c95a447d49d7583ad599bf4d520a2c29707def",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 8518,
+          "created_date": "2024-05-06T11:59:24.426Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a077818d-870e-45cc-956a-2e93e41a7ede/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a077818d-870e-45cc-956a-2e93e41a7ede/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.600492931Z"
+        },
+        "size": 8518,
+        "last_modified_date": "2024-05-06T11:59:24.426Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=365079c1-e95b-44e1-be61-9d06d702ceb7&version=1",
+    "response": [
+      {
+        "filename": "Central_2020.xlsx",
+        "id": "cdafeb22-2bcc-436e-8eba-7988eb2deebf",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "2f146ccb-5ca0-4fb4-94ac-fc2946b6de0a",
+          "sha256_hash": "d6c820d2101f43ca732b1611871ef818cd2b6c3137b02b7efec80325561dfe63",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 2027530,
+          "created_date": "2024-05-06T11:59:23.685Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/cdafeb22-2bcc-436e-8eba-7988eb2deebf/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/cdafeb22-2bcc-436e-8eba-7988eb2deebf/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.37106514Z"
+        },
+        "size": 2027530,
+        "last_modified_date": "2024-05-06T11:59:23.685Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "GB10_2020.csv",
+        "id": "d576058c-8fd3-4958-a8e1-59fa576de4ee",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "1a5cd736-afc8-444b-8a7f-c56a820c8c36",
+          "sha256_hash": "2c044c3f19297e6336e7e5e9cfb907aff1e9727da18a644db67b84e7a3e675b3",
+          "content_type": "text/csv",
+          "size": 681335,
+          "created_date": "2024-05-06T11:59:23.646Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/d576058c-8fd3-4958-a8e1-59fa576de4ee/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/d576058c-8fd3-4958-a8e1-59fa576de4ee/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.37106994Z"
+        },
+        "size": 681335,
+        "last_modified_date": "2024-05-06T11:59:23.646Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "GB3_2020.csv",
+        "id": "936bcdfe-3ac2-4f12-af7f-0aaea1d53ddb",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "6224ae68-87ef-4065-a0cb-a384e1a601c0",
+          "sha256_hash": "d55201d5ac6e4191affa9afa2e6ceddeef6520f7a1878b76d60e4637445b2e46",
+          "content_type": "text/csv",
+          "size": 1195959,
+          "created_date": "2024-05-06T11:59:23.608Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/936bcdfe-3ac2-4f12-af7f-0aaea1d53ddb/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/936bcdfe-3ac2-4f12-af7f-0aaea1d53ddb/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.37107387Z"
+        },
+        "size": 1195959,
+        "last_modified_date": "2024-05-06T11:59:23.608Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "GB4_2020.csv",
+        "id": "bec75ecd-d1e4-4a85-8c05-cf527126f301",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "2ebe1235-90ea-4869-ae63-e244a45dcc65",
+          "sha256_hash": "13d29b8b42ab28ecbb624b04601df4dc31b1e0836c4c9c866a7751ecd3b00ede",
+          "content_type": "text/csv",
+          "size": 701354,
+          "created_date": "2024-05-06T11:59:23.628Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/bec75ecd-d1e4-4a85-8c05-cf527126f301/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/bec75ecd-d1e4-4a85-8c05-cf527126f301/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.37107709Z"
+        },
+        "size": 701354,
+        "last_modified_date": "2024-05-06T11:59:23.628Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "GB5_2020.csv",
+        "id": "6424971d-ab4a-438f-bcba-2ae930ddd504",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "64fb6f1d-8c93-420a-be83-d30396f38c52",
+          "sha256_hash": "2f3be391955155f1a8077fa7556c88ebac25285fdddeaa20090ad1d6338fd6b7",
+          "content_type": "text/csv",
+          "size": 475968,
+          "created_date": "2024-05-06T11:59:23.405Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/6424971d-ab4a-438f-bcba-2ae930ddd504/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/6424971d-ab4a-438f-bcba-2ae930ddd504/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371080521Z"
+        },
+        "size": 475968,
+        "last_modified_date": "2024-05-06T11:59:23.405Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "GB6_2020.csv",
+        "id": "0e84b9d3-7cb1-4c5d-8afe-4adaab3c72de",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "6aef517b-00c2-40ea-bc03-35db1256d81a",
+          "sha256_hash": "321c85c8d59391a8e171c2637ed2a112c03ab546a572ef3c2d3d8bdb874a2a79",
+          "content_type": "text/csv",
+          "size": 1186168,
+          "created_date": "2024-05-06T11:59:23.668Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/0e84b9d3-7cb1-4c5d-8afe-4adaab3c72de/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/0e84b9d3-7cb1-4c5d-8afe-4adaab3c72de/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371083791Z"
+        },
+        "size": 1186168,
+        "last_modified_date": "2024-05-06T11:59:23.668Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "GB7_2020.csv",
+        "id": "220ca1c0-572e-407d-b6c6-80b973b0000c",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "22defa9b-b090-4f4f-aa69-56ec97f29bcc",
+          "sha256_hash": "b5ad461105b99aa0a59eec74766e4cb7311706c2e3e9d1aa22b731fb7f1045ad",
+          "content_type": "text/csv",
+          "size": 1276815,
+          "created_date": "2024-05-06T11:59:23.701Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/220ca1c0-572e-407d-b6c6-80b973b0000c/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/220ca1c0-572e-407d-b6c6-80b973b0000c/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371086831Z"
+        },
+        "size": 1276815,
+        "last_modified_date": "2024-05-06T11:59:23.701Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "GB8_2020.csv",
+        "id": "d1b16b63-14fe-49fb-bbac-9c45e1f54947",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "af16b97c-64bb-4231-a89d-43be8c813979",
+          "sha256_hash": "9859f81c7e2417307c70c4221d17b0eb996c9d4c7af807e758ffaa5bdd3a0ac8",
+          "content_type": "text/csv",
+          "size": 1176434,
+          "created_date": "2024-05-06T11:59:23.737Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/d1b16b63-14fe-49fb-bbac-9c45e1f54947/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/d1b16b63-14fe-49fb-bbac-9c45e1f54947/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371090131Z"
+        },
+        "size": 1176434,
+        "last_modified_date": "2024-05-06T11:59:23.737Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "GB9_2020.csv",
+        "id": "5ff4a893-5ba1-4aa2-9937-4d4ddee1d038",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "1b6be325-be26-43d3-8b64-1269b11ac2fa",
+          "sha256_hash": "5db0d56cbdd91d194ea836683376ec80fca117ba436e58ef97961dd6e04ff737",
+          "content_type": "text/csv",
+          "size": 554291,
+          "created_date": "2024-05-06T11:59:23.752Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/5ff4a893-5ba1-4aa2-9937-4d4ddee1d038/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/5ff4a893-5ba1-4aa2-9937-4d4ddee1d038/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371093261Z"
+        },
+        "size": 554291,
+        "last_modified_date": "2024-05-06T11:59:23.752Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "Info.xlsx",
+        "id": "dbb16b78-2ab1-41f7-bbaa-f36a97d435e8",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "10e7f2a4-4ccc-4ef6-9d23-32c0f4b76039",
+          "sha256_hash": "f64f9d67f01199eea65f9f310c1d03d5431df2e5d87c99501165ad9a47440566",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 9766,
+          "created_date": "2024-05-06T11:59:23.768Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/dbb16b78-2ab1-41f7-bbaa-f36a97d435e8/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/dbb16b78-2ab1-41f7-bbaa-f36a97d435e8/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371096501Z"
+        },
+        "size": 9766,
+        "last_modified_date": "2024-05-06T11:59:23.768Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "RMI_2020.xlsx",
+        "id": "d8a13fd1-cdc1-4052-b556-5995ca2b6fe3",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "b1a58351-f794-400f-96a8-8776cb8a6f13",
+          "sha256_hash": "695e58ef08b127850fd84aa4f90b1a265fba7ee4e14567cfc8b98ca4fb355a44",
+          "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 207304,
+          "created_date": "2024-05-06T11:59:23.823Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/d8a13fd1-cdc1-4052-b556-5995ca2b6fe3/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/d8a13fd1-cdc1-4052-b556-5995ca2b6fe3/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371099761Z"
+        },
+        "size": 207304,
+        "last_modified_date": "2024-05-06T11:59:23.823Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "S13_2020.csv",
+        "id": "cb90a2c4-545e-4b3c-9136-cda1a0e42a9d",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "b71a94ab-399c-46c3-9e69-591420c0b19e",
+          "sha256_hash": "a341917b8c3da24eb4e5930f9c05f01e8988f180f2fdd91bd364f12610030391",
+          "content_type": "text/csv",
+          "size": 3770142,
+          "created_date": "2024-05-06T11:59:24.248Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/cb90a2c4-545e-4b3c-9136-cda1a0e42a9d/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/cb90a2c4-545e-4b3c-9136-cda1a0e42a9d/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371103191Z"
+        },
+        "size": 3770142,
+        "last_modified_date": "2024-05-06T11:59:24.248Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "S15_2020.csv",
+        "id": "e1e50bae-db83-41ab-8fee-21c47520a2dc",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "6ac3e6d7-da22-4151-823d-392ef675d978",
+          "sha256_hash": "c37744f06b4694979331ed2602840dd4c7ce8a0e387b78871a641af5577d3e00",
+          "content_type": "text/csv",
+          "size": 4220556,
+          "created_date": "2024-05-06T11:59:24.488Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/e1e50bae-db83-41ab-8fee-21c47520a2dc/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/e1e50bae-db83-41ab-8fee-21c47520a2dc/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371106381Z"
+        },
+        "size": 4220556,
+        "last_modified_date": "2024-05-06T11:59:24.488Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "S3_2020.csv",
+        "id": "5612682f-ca65-47c1-9b50-2480133afcd8",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "5a364292-d0a5-45a1-af38-50ed799544cc",
+          "sha256_hash": "b0a00298c2ea803eda5c1380e1ab66b8236d5da3b67bc33ac0042f2666068f09",
+          "content_type": "text/csv",
+          "size": 6073904,
+          "created_date": "2024-05-06T11:59:24.745Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/5612682f-ca65-47c1-9b50-2480133afcd8/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/5612682f-ca65-47c1-9b50-2480133afcd8/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371111081Z"
+        },
+        "size": 6073904,
+        "last_modified_date": "2024-05-06T11:59:24.745Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "S4_2020.csv",
+        "id": "6494a37a-ec7c-46ed-9972-3b9d5a96821d",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "778cfc02-e64a-414c-ae85-5507c5a1f937",
+          "sha256_hash": "b2cb3d841241c30fb5c9db109d35c53698c6fe0931e08e6ba32a298a24416cf1",
+          "content_type": "text/csv",
+          "size": 5041056,
+          "created_date": "2024-05-06T11:59:24.721Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/6494a37a-ec7c-46ed-9972-3b9d5a96821d/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/6494a37a-ec7c-46ed-9972-3b9d5a96821d/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371114421Z"
+        },
+        "size": 5041056,
+        "last_modified_date": "2024-05-06T11:59:24.721Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "S6_2020.csv",
+        "id": "a5ee9aa1-0785-4f36-b019-e7aef0ec855b",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "6d79d6ab-93ac-4908-be72-bc59ce96c988",
+          "sha256_hash": "0000d57da7e917b2cb4253d17b5f46bad10aceb6f93f740267d45a6ff79cfc80",
+          "content_type": "text/csv",
+          "size": 5981916,
+          "created_date": "2024-05-06T11:59:24.765Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a5ee9aa1-0785-4f36-b019-e7aef0ec855b/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/a5ee9aa1-0785-4f36-b019-e7aef0ec855b/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371117621Z"
+        },
+        "size": 5981916,
+        "last_modified_date": "2024-05-06T11:59:24.765Z",
+        "status": "COMPLETED"
+      },
+      {
+        "filename": "S7_2020.csv",
+        "id": "9bf924d2-6ed2-489b-91e2-748078af4eda",
+        "folder_id": "365079c1-e95b-44e1-be61-9d06d702ceb7",
+        "content_details": {
+          "id": "f426d388-4984-42ae-9e6a-6137908f2dd0",
+          "sha256_hash": "9e76e966548ff991f108d38a4ffe68e51a88c131a25fd97eb751c770f9233170",
+          "content_type": "text/csv",
+          "size": 3018858,
+          "created_date": "2024-05-06T11:59:24.448Z",
+          "download_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/9bf924d2-6ed2-489b-91e2-748078af4eda/file_downloaded",
+          "view_url": "https://data.mendeley.com/public-files/datasets/9hyv69sm82/files/9bf924d2-6ed2-489b-91e2-748078af4eda/file_viewed",
+          "download_expiry_time": "2126-11-06T18:24:26.371121181Z"
+        },
+        "size": 3018858,
+        "last_modified_date": "2024-05-06T11:59:24.448Z",
+        "status": "COMPLETED"
+      }
+    ]
+  },
+  {
+    "folder_id": "fc5463c4-ddbd-434d-9999-3023d742fccb",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=fc5463c4-ddbd-434d-9999-3023d742fccb&version=1",
+    "response": []
+  },
+  {
+    "folder_id": "0c0ff4d8-6d49-4334-acbd-161abec0f799",
+    "endpoint": "https://data.mendeley.com/public-api/datasets/9hyv69sm82/files?folder_id=0c0ff4d8-6d49-4334-acbd-161abec0f799&version=1",
+    "response": []
+  }
+]

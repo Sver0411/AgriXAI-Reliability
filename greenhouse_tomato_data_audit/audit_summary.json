@@ -1,0 +1,28 @@
+{
+  "archive_members": 56,
+  "observation_files": 45,
+  "data_rows": 1695315,
+  "metadata_rows": 154,
+  "data_columns": 369,
+  "named_nonempty_data_columns": 356,
+  "unique_named_nonempty_raw_headers": 118,
+  "unparsed_nonblank_times": 756178,
+  "identical_target_table_pairs": [
+    [
+      "WP_2022.csv",
+      "WP_2022.xlsx"
+    ],
+    [
+      "WP_2024.xlsx",
+      "WP_2023.xlsx"
+    ]
+  ],
+  "target_values": 212,
+  "target_rows": 62,
+  "target_times": 22,
+  "target_days": 3,
+  "fruit_rows_matching_by_position_date_diameter_weights": 429,
+  "la_2021_rows_matching_leaves_2021": 39,
+  "central_2023_2024_shared_times": 9100,
+  "central_2023_2024_shared_times_with_all_fields_matching_including_blanks": 8661
+}

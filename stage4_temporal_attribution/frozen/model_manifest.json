@@ -1,0 +1,68 @@
+{
+  "lightgbm": "4.6.0",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "models": [
+    {
+      "file": "lightgbm_60min.txt",
+      "sha256": "c388a7389a000396a4638338f2c7c9bcdeb07ef9adc9e3ca574222ac6b8c2e4e",
+      "horizon_min": 60,
+      "num_leaves": 15,
+      "n_train": 270290,
+      "trees": 220
+    },
+    {
+      "file": "lightgbm_120min.txt",
+      "sha256": "25cb8917ae5ee0f8fdfee23f065f0ce2c121ab84521ea85a41802718f634dbb1",
+      "horizon_min": 120,
+      "num_leaves": 31,
+      "n_train": 269744,
+      "trees": 220
+    }
+  ],
+  "feature_order_sha256": "072a997a722b2af1f1361ca7113edffaf6a61b676e647eb54af536e60e0cca77",
+  "preprocess": {
+    "slot_minutes": 5,
+    "history_minutes": 60,
+    "input_signals": [
+      "moisture",
+      "local_temp",
+      "air_temp",
+      "air_rh"
+    ],
+    "current_wc_index": 48,
+    "residual_formula": "forecast=current WC+Booster(delta)",
+    "missing": "native NaN; current WC protected",
+    "timestamp": "Excel serial converted to seconds per Stage 3",
+    "train": [
+      "AICU",
+      "Automatoes",
+      "Digilog"
+    ],
+    "validation": [
+      "IUACAAS"
+    ],
+    "test": [
+      "Reference",
+      "TheAutomators"
+    ]
+  },
+  "sample_seed": 20261108,
+  "stage3_seed": 20261107,
+  "random_repeats": 30,
+  "stage3_sources": {
+    "scripts/prepare_data.py": "5b5296f537a5e8550fe9743ae560ff49057bb7625b0a52516049f75aa858b04f",
+    "scripts/run_baselines.py": "163ea4504d01f72db1b6c08cd6c2d62f0a425af71b01169fde0dd030cc286fd2",
+    "scripts/missingness.py": "0c86015a10a4970e11be6b483a969f34bca149c176244cc430ed5c93bbc0b470",
+    "prediction_horizon_comparison.csv": "ff3eeae780876463c0db2f344d9f6c92c7d062150c05aa2ffa4301d1bb3b2a1f",
+    "per_group_metrics.csv": "a56e6b69f1055a8c052770c99ede63e6a6fa929796e78c2033144a1d3f4875fb"
+  },
+  "artifact_sha256": {
+    "sample_manifest.csv": "e57a62cdd8c1af536f7f4a581ed25f32eac8bcb5bdf0fce6e2c9598c24fb9ba5",
+    "windows_and_masks.npz": "49d6fa557551faedf99c322548931b5a68a16713899b240d4fa60600763e04c8",
+    "training_background_manifest.csv": "ff83d1808b9ebdd083d5477b5bf2d653ab224d21eabd55f42cbfb830ce8412f4",
+    "stage3_reproduction.csv": "97b07b9deafc9c7ba0b58d8bf3a126b6cdbe071d71225ae1ac294e939d717140"
+  },
+  "mask_manifest_sha256": "c57139827453dd32ed91bfab0c721ae80b111f8926f67827e39e2c8e4918e393"
+}

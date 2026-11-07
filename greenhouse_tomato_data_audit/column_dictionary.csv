@@ -1,0 +1,412 @@
+﻿file,site,campaign_year,sheet,role,column,original_field,standard_field,data_type,original_unit,meaning,provenance,n_records,n_missing,missing_fraction,notes,source_formula_cells
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,77181,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,B,T,air_temperature,numeric,°C,空气温度,环境传感器读数,77181,80,0.0010365245332400461,,0
+Environment/2019/Central_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Data,Environment,C,RH,relative_humidity,numeric,%,相对湿度,环境传感器读数,77181,80,0.0010365245332400461,,0
+Environment/2019/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,8,0,0.0,元数据行不计作观测,0
+Environment/2019/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,8,2,0.25,元数据行不计作观测,0
+Environment/2019/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,8,2,0.25,元数据行不计作观测,0
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,A,Time,timestamp,mixed valid and invalid time,日或日期时间,记录日期或时间戳,时间索引,6450,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,PAR_dec18_sep19,Environment,B,PYR,pyr,numeric,未确认,光传感器通道,环境传感器读数,6450,0,0.0,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,59327,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2019/Light_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Sheet1,Environment,B,G,global_irradiance,numeric,W/m²,总辐照度,辐照度传感器读数,59327,0,0.0,,0
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,86530,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,B,T,air_temperature,numeric,°C,空气温度,环境传感器读数,86530,168,0.001941523171154513,,0
+Environment/2020/Central_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Environment,C,RH,relative_humidity,numeric,%,相对湿度,环境传感器读数,86530,168,0.001941523171154513,,0
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,29934,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,Temperature,air_temperature,numeric,°C,空气温度,环境传感器读数,29934,0,0.0,,0
+Environment/2020/GB10_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,Relative humidity,relative_humidity,numeric,%,相对湿度,环境传感器读数,29934,0,0.0,,0
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,52544,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,Temperature,air_temperature,numeric,°C,空气温度,环境传感器读数,52544,0,0.0,,0
+Environment/2020/GB3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,Relative humidity,relative_humidity,numeric,%,相对湿度,环境传感器读数,52544,0,0.0,,0
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,30785,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,Temperature,air_temperature,numeric,°C,空气温度,环境传感器读数,30785,0,0.0,,0
+Environment/2020/GB4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,Relative humidity,relative_humidity,numeric,%,相对湿度,环境传感器读数,30785,0,0.0,,0
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,20900,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,Temperature,air_temperature,numeric,°C,空气温度,环境传感器读数,20900,0,0.0,,0
+Environment/2020/GB5_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,Relative humidity,relative_humidity,numeric,%,相对湿度,环境传感器读数,20900,0,0.0,,0
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,52065,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,Temperature,air_temperature,numeric,°C,空气温度,环境传感器读数,52065,0,0.0,,0
+Environment/2020/GB6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,Relative Humidity,relative_humidity,numeric,%,相对湿度,环境传感器读数,52065,0,0.0,,0
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,56033,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,Temperature,air_temperature,numeric,°C,空气温度,环境传感器读数,56033,0,0.0,,0
+Environment/2020/GB7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,Relative Humidity,relative_humidity,numeric,%,相对湿度,环境传感器读数,56033,0,0.0,,0
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,51647,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,Temperature,air_temperature,numeric,°C,空气温度,环境传感器读数,51647,0,0.0,,0
+Environment/2020/GB8_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,Relative Humidity,relative_humidity,numeric,%,相对湿度,环境传感器读数,51647,0,0.0,,0
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,24336,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,Temperature,air_temperature,numeric,°C,空气温度,环境传感器读数,24336,0,0.0,,0
+Environment/2020/GB9_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,Relative Humidity,relative_humidity,numeric,%,相对湿度,环境传感器读数,24336,0,0.0,,0
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,9,0,0.0,元数据行不计作观测,0
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,9,2,0.2222222222222222,元数据行不计作观测,0
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,9,2,0.2222222222222222,元数据行不计作观测,0
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,A,ID_sensor,id_sensor,text,依条目,ID_sensor,说明/传感器布置元数据,15,0,0.0,元数据行不计作观测,0
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,B,Row,row,numeric,依条目,Row,说明/传感器布置元数据,15,0,0.0,元数据行不计作观测,0
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,C,Column,column,numeric,依条目,Column,说明/传感器布置元数据,15,0,0.0,元数据行不计作观测,0
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,D,Static,static,numeric,依条目,Static,说明/传感器布置元数据,15,14,0.9333333333333333,元数据行不计作观测,0
+Environment/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Position,metadata,E,Zone,zone,mixed numeric/text,依条目,Zone,说明/传感器布置元数据,15,0,0.0,元数据行不计作观测,0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,6575,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,B,temp,outdoor_temp,numeric,°C,室外空气温度,室外气象站观测/统计,6575,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,C,humidity_relative,outdoor_humidity_relative,numeric,%,室外相对湿度,室外气象站观测/统计,6575,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,D,pressure,outdoor_pressure,numeric,hPa,海平面气压,室外气象站观测/统计,6575,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,E,sun_duration_24hours,outdoor_sun_duration_24hours,numeric,min,24 小时日照时长,室外衍生统计,6575,6301,0.9583269961977187,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,RMI_2020,Environment,F,short_wave_from_sky_24hours,outdoor_short_wave_from_sky_24hours,numeric,J/m²,24 小时短波辐照量,室外衍生统计,6575,6301,0.9583269961977187,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,A,Entry,outdoor_entry,text,依条目,Entry,说明/传感器布置元数据,3,0,0.0,元数据行不计作观测,0
+Environment/2020/RMI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,B,Value,outdoor_value,mixed numeric/text,依条目,Value,说明/传感器布置元数据,3,0,0.0,元数据行不计作观测,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,66741,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,base_Temperature,base_air_temperature,numeric,°C,空气温度,环境传感器读数,66741,45,0.0006742482132422349,,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,base_RelativeHumidity,base_relative_humidity,numeric,%,相对湿度,环境传感器读数,66741,45,0.0006742482132422349,,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,D,base_Light,base_light,numeric,未确认,光传感器通道,环境传感器读数,66741,45,0.0006742482132422349,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,E,top_Temperature,top_air_temperature,numeric,°C,空气温度,环境传感器读数,66741,135,0.0020227446397267047,,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,F,top_RelativeHumidity,top_relative_humidity,numeric,%,相对湿度,环境传感器读数,66741,135,0.0020227446397267047,,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,G,top_Light,top_light,numeric,未确认,光传感器通道,环境传感器读数,66741,135,0.0020227446397267047,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,H,middle_Temperature,middle_air_temperature,numeric,°C,空气温度,环境传感器读数,66741,1217,0.018234668344795552,,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,I,middle_RelativeHumidity,middle_relative_humidity,numeric,%,相对湿度,环境传感器读数,66741,1217,0.018234668344795552,,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,J,middle_Light,middle_light,numeric,未确认,光传感器通道,环境传感器读数,66741,1217,0.018234668344795552,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,K,bottom_Temperature,bottom_air_temperature,numeric,°C,空气温度,环境传感器读数,66741,1222,0.01830958481293358,,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,L,bottom_RelativeHumidity,bottom_relative_humidity,numeric,%,相对湿度,环境传感器读数,66741,1222,0.01830958481293358,,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,M,bottom_Light,bottom_light,numeric,未确认,光传感器通道,环境传感器读数,66741,1222,0.01830958481293358,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,N,(unnamed 14),unnamed_14,numeric,未说明,无标题的额外源列,未知,66741,66740,0.9999850167063724,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,O,(unnamed 15),unnamed_15,numeric,未说明,无标题的额外源列,未知,66741,66740,0.9999850167063724,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S13_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,P,(unnamed 16),unnamed_16,numeric,未说明,无标题的额外源列,未知,66741,66740,0.9999850167063724,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,67036,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,base_Temperature,base_air_temperature,numeric,°C,空气温度,环境传感器读数,67036,510,0.007607852497165702,,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,base_RelativeHumidity,base_relative_humidity,numeric,%,相对湿度,环境传感器读数,67036,510,0.007607852497165702,,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,D,base_Light,base_light,numeric,未确认,光传感器通道,环境传感器读数,67036,510,0.007607852497165702,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,E,top_Temperature,top_air_temperature,numeric,°C,空气温度,环境传感器读数,67036,1952,0.029118682498955786,,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,F,top_RelativeHumidity,top_relative_humidity,numeric,%,相对湿度,环境传感器读数,67036,1952,0.029118682498955786,,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,G,top_Light,top_light,numeric,未确认,光传感器通道,环境传感器读数,67036,1952,0.029118682498955786,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,H,middle_Temperature,middle_air_temperature,numeric,°C,空气温度,环境传感器读数,67036,2777,0.04142550271495913,,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,I,middle_RelativeHumidity,middle_relative_humidity,numeric,%,相对湿度,环境传感器读数,67036,2777,0.04142550271495913,,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,J,middle_Light,middle_light,numeric,未确认,光传感器通道,环境传感器读数,67036,2777,0.04142550271495913,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,K,bottom_Temperature,bottom_air_temperature,numeric,°C,空气温度,环境传感器读数,67036,2855,0.04258905662629035,,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,L,bottom_RelativeHumidity,bottom_relative_humidity,numeric,%,相对湿度,环境传感器读数,67036,2855,0.04258905662629035,,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,M,bottom_Light,bottom_light,numeric,未确认,光传感器通道,环境传感器读数,67036,2855,0.04258905662629035,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,N,(unnamed 14),unnamed_14,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,O,(unnamed 15),unnamed_15,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,P,(unnamed 16),unnamed_16,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,Q,(unnamed 17),unnamed_17,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,R,(unnamed 18),unnamed_18,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,S,(unnamed 19),unnamed_19,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,T,(unnamed 20),unnamed_20,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,U,(unnamed 21),unnamed_21,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,V,(unnamed 22),unnamed_22,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S15_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,W,(unnamed 23),unnamed_23,numeric,未说明,无标题的额外源列,未知,67036,67035,0.9999850826421625,保留非空原始位置，不据其位置推定通道,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,99804,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,base_Temperature,base_air_temperature,numeric,°C,空气温度,环境传感器读数,99804,4,4.007855396577292e-05,,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,base_RelativeHumidity,base_relative_humidity,numeric,%,相对湿度,环境传感器读数,99804,4,4.007855396577292e-05,,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,D,base_Light,base_light,numeric,未确认,光传感器通道,环境传感器读数,99804,4,4.007855396577292e-05,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,E,top_Temperature,top_air_temperature,numeric,°C,空气温度,环境传感器读数,99804,9,9.017674642298906e-05,,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,F,top_RelativeHumidity,top_relative_humidity,numeric,%,相对湿度,环境传感器读数,99804,9,9.017674642298906e-05,,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,G,top_Light,top_light,numeric,未确认,光传感器通道,环境传感器读数,99804,9,9.017674642298906e-05,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,H,middle_Temperature,middle_air_temperature,numeric,°C,空气温度,环境传感器读数,99804,9995,0.10014628672197508,,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,I,middle_RelativeHumidity,middle_relative_humidity,numeric,%,相对湿度,环境传感器读数,99804,9995,0.10014628672197508,,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,J,middle_Light,middle_light,numeric,未确认,光传感器通道,环境传感器读数,99804,9995,0.10014628672197508,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,K,bottom_Temperature,bottom_air_temperature,numeric,°C,空气温度,环境传感器读数,99804,10526,0.10546671476093143,,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,L,bottom_RelativeHumidity,bottom_relative_humidity,numeric,%,相对湿度,环境传感器读数,99804,10526,0.10546671476093143,,0
+Environment/2020/S3_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,M,bottom_Light,bottom_light,numeric,未确认,光传感器通道,环境传感器读数,99804,10526,0.10546671476093143,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,97569,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,base_Temperature,base_air_temperature,numeric,°C,空气温度,环境传感器读数,97569,2,2.0498314013672377e-05,,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,base_RelativeHumidity,base_relative_humidity,numeric,%,相对湿度,环境传感器读数,97569,2,2.0498314013672377e-05,,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,D,base_Light,base_light,numeric,未确认,光传感器通道,环境传感器读数,97569,2,2.0498314013672377e-05,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,E,top_Temperature,top_air_temperature,numeric,°C,空气温度,环境传感器读数,97569,169,0.0017321075341553158,,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,F,top_RelativeHumidity,top_relative_humidity,numeric,%,相对湿度,环境传感器读数,97569,169,0.0017321075341553158,,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,G,top_Light,top_light,numeric,未确认,光传感器通道,环境传感器读数,97569,169,0.0017321075341553158,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,H,middle_Temperature,middle_air_temperature,numeric,°C,空气温度,环境传感器读数,97569,12581,0.1289446443030061,,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,I,middle_RelativeHumidity,middle_relative_humidity,numeric,%,相对湿度,环境传感器读数,97569,12581,0.1289446443030061,,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,J,middle_Light,middle_light,numeric,未确认,光传感器通道,环境传感器读数,97569,12581,0.1289446443030061,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,K,bottom_Temperature,bottom_air_temperature,numeric,°C,空气温度,环境传感器读数,97569,12588,0.12901638840205393,,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,L,bottom_RelativeHumidity,bottom_relative_humidity,numeric,%,相对湿度,环境传感器读数,97569,12588,0.12901638840205393,,0
+Environment/2020/S4_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,M,bottom_Light,bottom_light,numeric,未确认,光传感器通道,环境传感器读数,97569,12588,0.12901638840205393,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,133724,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,base_Temperature,base_air_temperature,numeric,°C,空气温度,环境传感器读数,133724,3002,0.02244922377434118,,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,base_RelativeHumidity,base_relative_humidity,numeric,%,相对湿度,环境传感器读数,133724,3002,0.02244922377434118,,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,D,base_Light,base_light,numeric,未确认,光传感器通道,环境传感器读数,133724,3002,0.02244922377434118,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,E,top_Temperature,top_air_temperature,numeric,°C,空气温度,环境传感器读数,133724,30297,0.2265636684514373,,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,F,top_RelativeHumidity,top_relative_humidity,numeric,%,相对湿度,环境传感器读数,133724,30297,0.2265636684514373,,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,G,top_Light,top_light,numeric,未确认,光传感器通道,环境传感器读数,133724,30297,0.2265636684514373,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,H,middle_Temperature,middle_air_temperature,numeric,°C,空气温度,环境传感器读数,133724,50821,0.38004397116448807,,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,I,middle_RelativeHumidity,middle_relative_humidity,numeric,%,相对湿度,环境传感器读数,133724,50821,0.38004397116448807,,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,J,middle_Light,middle_light,numeric,未确认,光传感器通道,环境传感器读数,133724,50821,0.38004397116448807,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,K,bottom_Temperature,bottom_air_temperature,numeric,°C,空气温度,环境传感器读数,133724,56716,0.42412730699051776,,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,L,bottom_RelativeHumidity,bottom_relative_humidity,numeric,%,相对湿度,环境传感器读数,133724,56716,0.42412730699051776,,0
+Environment/2020/S6_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,M,bottom_Light,bottom_light,numeric,未确认,光传感器通道,环境传感器读数,133724,56716,0.42412730699051776,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,A,Date,timestamp,unresolved time,日或日期时间,记录日期或时间戳,时间索引,66416,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,B,base_Temperature,base_air_temperature,numeric,°C,空气温度,环境传感器读数,66416,7872,0.11852565646832089,,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,C,base_RelativeHumidity,base_relative_humidity,numeric,%,相对湿度,环境传感器读数,66416,7872,0.11852565646832089,,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,D,base_Light,base_light,numeric,未确认,光传感器通道,环境传感器读数,66416,7872,0.11852565646832089,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,E,top_Temperature,top_air_temperature,numeric,°C,空气温度,环境传感器读数,66416,12881,0.19394423030595037,,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,F,top_RelativeHumidity,top_relative_humidity,numeric,%,相对湿度,环境传感器读数,66416,12881,0.19394423030595037,,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,G,top_Light,top_light,numeric,未确认,光传感器通道,环境传感器读数,66416,12881,0.19394423030595037,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,H,middle_Temperature,middle_air_temperature,numeric,°C,空气温度,环境传感器读数,66416,24839,0.3739912069380872,,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,I,middle_RelativeHumidity,middle_relative_humidity,numeric,%,相对湿度,环境传感器读数,66416,24839,0.3739912069380872,,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,J,middle_Light,middle_light,numeric,未确认,光传感器通道,环境传感器读数,66416,24839,0.3739912069380872,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,K,bottom_Temperature,bottom_air_temperature,numeric,°C,空气温度,环境传感器读数,66416,25187,0.379230908214888,,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,L,bottom_RelativeHumidity,bottom_relative_humidity,numeric,%,相对湿度,环境传感器读数,66416,25187,0.379230908214888,,0
+Environment/2020/S7_2020.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Environment,M,bottom_Light,bottom_light,numeric,未确认,光传感器通道,环境传感器读数,66416,25187,0.379230908214888,PYR 与工作表名 PAR 冲突，条带 Light 缺少列级单位；禁止等同 G 或 PAR,0
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,2784,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,B,T,air_temperature,numeric,°C,空气温度,小时聚合环境观测,2784,0,0.0,,0
+Environment/2021/Central_2021.xlsx,KU Leuven (Heverlee),2021,GreenhouseClimateHourly,Environment,C,RH,relative_humidity,numeric,%,相对湿度,小时聚合环境观测,2784,0,0.0,,0
+Environment/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,10,0,0.0,元数据行不计作观测,0
+Environment/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,10,2,0.2,元数据行不计作观测,0
+Environment/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,10,2,0.2,元数据行不计作观测,0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,7261,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,B,TotalIradiation_top,global_irradiance_top,numeric,W/m²,总辐照度,辐照度传感器读数,7261,0,0.0,,0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,C,PAR_top,par_top,numeric,µmol/(m²·s),光合有效辐射通量密度,PAR 传感器读数,7261,0,0.0,,0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,D,PAR_middle,par_middle,numeric,µmol/(m²·s),光合有效辐射通量密度,PAR 传感器读数,7261,0,0.0,,0
+Environment/2021/Light_2021.xlsx,KU Leuven (Heverlee),2021,2021_Light,Environment,E,PAR_bottom,par_bottom,numeric,µmol/(m²·s),光合有效辐射通量密度,PAR 传感器读数,7261,0,0.0,,0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,2927,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,B,temp,outdoor_temp,numeric,°C,室外空气温度,室外气象站观测/统计,2927,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,C,humidity_relative,outdoor_humidity_relative,numeric,%,室外相对湿度,室外气象站观测/统计,2927,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,D,pressure,outdoor_pressure,numeric,hPa,海平面气压,室外气象站观测/统计,2927,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,E,sun_duration_24hours,outdoor_sun_duration_24hours,numeric,min,24 小时日照时长,室外衍生统计,2927,2805,0.9583190980526136,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,RMI_2021,Environment,F,short_wave_from_sky_24hours,outdoor_short_wave_from_sky_24hours,numeric,J/m²,24 小时短波辐照量,室外衍生统计,2927,2805,0.9583190980526136,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,Info,metadata,A,Entry,outdoor_entry,text,依条目,Entry,说明/传感器布置元数据,3,0,0.0,元数据行不计作观测,0
+Environment/2021/RMI_2021.xlsx,KU Leuven (Heverlee),2021,Info,metadata,B,Value,outdoor_value,mixed numeric/text,依条目,Value,说明/传感器布置元数据,3,0,0.0,元数据行不计作观测,0
+Environment/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,9,0,0.0,元数据行不计作观测,0
+Environment/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,9,2,0.2222222222222222,元数据行不计作观测,0
+Environment/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,9,2,0.2222222222222222,元数据行不计作观测,0
+Environment/2022/Light_2022.xlsx,KU Leuven (Heverlee),2022,Light,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,13079,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2022/Light_2022.xlsx,KU Leuven (Heverlee),2022,Light,Environment,B,G,global_irradiance,numeric,W/m²,总辐照度,辐照度传感器读数,13079,0,0.0,,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,A,FID,outdoor_fid,text,标识符,站点与时间组成的记录键,记录元数据,7240,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,B,the_geom,outdoor_the_geom,text,度,气象站坐标 WKT,记录元数据,7240,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,C,code,outdoor_code,numeric,代码,气象站 ID,记录元数据,7240,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,D,timestamp,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,7240,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,E,precip_quantity,outdoor_precip_quantity,numeric,mm,降水量,室外气象站观测/统计,7240,6093,0.8415745856353591,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,F,precip_range,outdoor_precip_range,numeric,代码,降水统计时段；1/2/4 表示过去 6/12/24 h,室外气象站观测/统计,7240,6033,0.8332872928176795,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,G,temp,outdoor_temp,numeric,°C,室外空气温度,室外气象站观测/统计,7240,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,H,temp_min,outdoor_temp_min,numeric,°C,最低室外空气温度,室外衍生统计,7240,6938,0.9582872928176795,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,I,temp_max,outdoor_temp_max,numeric,°C,最高室外空气温度,室外衍生统计,7240,6938,0.9582872928176795,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,J,temp_grass_min,outdoor_temp_grass_min,numeric,°C,草面最低温度,室外气象站观测/统计,7240,6787,0.9374309392265193,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,K,wind_speed,outdoor_wind_speed,numeric,依单位码,风速,室外气象站观测/统计,7240,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,L,wind_speed_unit,outdoor_wind_speed_unit,numeric,代码,风速单位码,记录元数据,7240,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,M,wind_direction,outdoor_wind_direction,numeric,°,风向,室外气象站观测/统计,7240,144,0.019889502762430938,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,N,wind_peak_speed,outdoor_wind_peak_speed,numeric,m/s,峰值风速,室外气象站观测/统计,7240,3,0.0004143646408839779,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,O,humidity_relative,outdoor_humidity_relative,numeric,%,室外相对湿度,室外气象站观测/统计,7240,3616,0.4994475138121547,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,P,weather_current,outdoor_weather_current,numeric,代码,现时天气,室外气象站观测/统计,7240,6076,0.8392265193370165,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,Q,pressure,outdoor_pressure,numeric,hPa,海平面气压,室外气象站观测/统计,7240,3,0.0004143646408839779,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,R,pressure_station_level,outdoor_pressure_station_level,numeric,hPa,站点气压,室外气象站观测/统计,7240,0,0.0,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,S,sun_duration_24hours,outdoor_sun_duration_24hours,numeric,min,24 小时日照时长,室外衍生统计,7240,7089,0.9791436464088398,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,T,short_wave_from_sky_24hours,outdoor_short_wave_from_sky_24hours,numeric,J/m²,24 小时短波辐照量,室外衍生统计,7240,7089,0.9791436464088398,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/RMI_2022.xlsx,KU Leuven (Heverlee),2022,RMI_2022,Environment,U,cloudiness,outdoor_cloudiness,numeric,okta / 特殊码,云量,室外气象站观测/统计,7240,208,0.028729281767955802,RMI SYNOP；24h 字段按观测计划发布,0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,23006,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,B,T,air_temperature,numeric,°C,空气温度,环境传感器读数,23006,0,0.0,,0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Top,Environment,C,RH,relative_humidity,numeric,%,相对湿度,环境传感器读数,23006,0,0.0,,0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,23142,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,B,T,air_temperature,numeric,°C,空气温度,环境传感器读数,23142,0,0.0,,0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Middle,Environment,C,RH,relative_humidity,numeric,%,相对湿度,环境传感器读数,23142,0,0.0,,0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,22658,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,B,T,air_temperature,numeric,°C,空气温度,环境传感器读数,22658,0,0.0,,0
+Environment/2022/S_2022.xlsx,KU Leuven (Heverlee),2022,Bottom,Environment,C,RH,relative_humidity,numeric,%,相对湿度,环境传感器读数,22658,0,0.0,,0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,44236,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,B,T,air_temperature,numeric,°C,空气温度,环境传感器读数,44236,104,0.002351026313409892,,0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,C,RH,relative_humidity,numeric,%,相对湿度,环境传感器读数,44236,104,0.002351026313409892,,0
+Environment/2023/Central_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Central_2023csv,Environment,D,G,global_irradiance,numeric,W/m²,总辐照度,辐照度传感器读数,44236,104,0.002351026313409892,,0
+Environment/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,7,0,0.0,元数据行不计作观测,0
+Environment/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,7,2,0.2857142857142857,元数据行不计作观测,0
+Environment/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,7,2,0.2857142857142857,元数据行不计作观测,0
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,28513,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,B,T,air_temperature,numeric,°C,空气温度,环境传感器读数,28513,131,0.004594395538877003,,0
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,C,RH,relative_humidity,numeric,%,相对湿度,环境传感器读数,28513,131,0.004594395538877003,,0
+Environment/2024/Central_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Central_2024,Environment,D,G,global_irradiance,numeric,W/m²,总辐照度,辐照度传感器读数,28513,5584,0.19584049380984112,,0
+Environment/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,7,0,0.0,元数据行不计作观测,0
+Environment/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,7,2,0.2857142857142857,元数据行不计作观测,0
+Environment/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,7,2,0.2857142857142857,元数据行不计作观测,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,A,Week,week,numeric,编号/类别,周序号,采样设计元数据,216,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,B,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,216,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,C,Days,days,numeric,d（可能 DAA）,果实实验的日龄,衍生量/日龄,216,0,0.0,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,D,Side,side,text,编号/类别,采样侧；按各表原编码,采样设计元数据,216,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,E,Fruit,fruit,text,编号/类别,果位/果实编码,采样设计元数据,216,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,F,Position,position,numeric,编号/类别,果实采样位置,采样设计元数据,216,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,G,Diameter,diameter,numeric,mm,果实最大直径,植物性状观测,216,16,0.07407407407407407,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,H,Fresh weight,fresh_weight,numeric,g,鲜重,植物性状观测,216,16,0.07407407407407407,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,I,Dry weight,dry_weight,numeric,g,干重,植物性状观测,216,134,0.6203703703703703,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,J,FW,fw,numeric,%（见备注）,鲜重比例,衍生量/日龄,216,134,0.6203703703703703,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,K,DW,dw,numeric,%（见备注）,干重比例,衍生量/日龄,216,134,0.6203703703703703,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,L,Firmness,firmness,numeric,未说明,果实硬度,测量/处理来源未确认,216,134,0.6203703703703703,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,M,Brix,brix,numeric,°Bx（字段推定）,Brix,植物性状观测,216,122,0.5648148148148148,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,N,Osmotic p.1,osmotic_p_1,numeric,未说明,果实渗透势相关第 1 次读数,测量/处理来源未确认,216,134,0.6203703703703703,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O,Osmotic p.2,osmotic_p_2,numeric,未说明,果实渗透势相关第 2 次读数,测量/处理来源未确认,216,152,0.7037037037037037,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,P,OP,op,numeric,未说明,果实渗透势相关汇总,衍生量/日龄,216,134,0.6203703703703703,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Q,OP_Mpa,op_mpa,numeric,MPa（字段）,果实渗透势换算字段,衍生量/日龄,216,134,0.6203703703703703,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,R,Ethylene,ethylene,numeric,未说明,乙烯相关列,测量/处理来源未确认,216,146,0.6759259259259259,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,S,CO2,co2,numeric,未说明,二氧化碳相关列,测量/处理来源未确认,216,148,0.6851851851851852,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,T,O2,o2,numeric,未说明,氧气相关列,测量/处理来源未确认,216,148,0.6851851851851852,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,U,L,l,numeric,未说明,果实颜色 L 相关,测量/处理来源未确认,216,78,0.3611111111111111,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,V,a*,a,numeric,未说明,果实颜色 a* 相关,测量/处理来源未确认,216,78,0.3611111111111111,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,W,WP,wp,numeric,未说明,果实表中的 WP；协议未确认,测量/处理来源未确认,216,145,0.6712962962962963,不得归入茎水势标签,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,X,EthyleneRate,ethylenerate,numeric,未说明,乙烯速率列,衍生量/日龄,216,146,0.6759259259259259,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Y,CO2Rate,co2rate,numeric,未说明,二氧化碳速率列,衍生量/日龄,216,148,0.6851851851851852,,0
+Plant/2020/2020a_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Z,O2Rate,o2rate,numeric,未说明,氧气速率列,衍生量/日龄,216,148,0.6851851851851852,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,A,Week,week,numeric,编号/类别,周序号,采样设计元数据,213,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,B,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,213,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,C,Days,days,numeric,d（可能 DAA）,果实实验的日龄,衍生量/日龄,213,0,0.0,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,D,Side,side,text,编号/类别,采样侧；按各表原编码,采样设计元数据,213,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,E,Fruit,fruit,numeric,编号/类别,果位/果实编码,采样设计元数据,213,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,F,Position,position,text,编号/类别,果实采样位置,采样设计元数据,213,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,G,Diameter,diameter,numeric,mm,果实最大直径,植物性状观测,213,48,0.22535211267605634,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,H,Fresh weight,fresh_weight,numeric,g,鲜重,植物性状观测,213,48,0.22535211267605634,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,I,Dry weight,dry_weight,numeric,g,干重,植物性状观测,213,129,0.6056338028169014,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,J,FW,fw,numeric,%（见备注）,鲜重比例,衍生量/日龄,213,129,0.6056338028169014,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,K,DW,dw,numeric,%（见备注）,干重比例,衍生量/日龄,213,129,0.6056338028169014,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,L,Firmness,firmness,numeric,未说明,果实硬度,测量/处理来源未确认,213,120,0.5633802816901409,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,M,Brix 1,brix_1,numeric,°Bx（字段推定）,Brix 1,植物性状观测,213,132,0.6197183098591549,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,N,Brix 2,brix_2,numeric,°Bx（字段推定）,Brix 2,植物性状观测,213,132,0.6197183098591549,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,O,Brix,brix,numeric,°Bx（字段推定）,Brix,植物性状观测,213,132,0.6197183098591549,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,P,Osmotic p.1,osmotic_p_1,numeric,未说明,果实渗透势相关第 1 次读数,测量/处理来源未确认,213,132,0.6197183098591549,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Q,Osmotic p.2,osmotic_p_2,numeric,未说明,果实渗透势相关第 2 次读数,测量/处理来源未确认,213,135,0.6338028169014085,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,R,OP,op,numeric,未说明,果实渗透势相关汇总,衍生量/日龄,213,132,0.6197183098591549,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,S,OP_Mpa,op_mpa,numeric,MPa（字段）,果实渗透势换算字段,衍生量/日龄,213,132,0.6197183098591549,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,T,Ethylene,ethylene,numeric,未说明,乙烯相关列,测量/处理来源未确认,213,153,0.7183098591549296,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,U,CO2,co2,numeric,未说明,二氧化碳相关列,测量/处理来源未确认,213,153,0.7183098591549296,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,V,O2,o2,numeric,未说明,氧气相关列,测量/处理来源未确认,213,153,0.7183098591549296,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,W,L,l,numeric,未说明,果实颜色 L 相关,测量/处理来源未确认,213,48,0.22535211267605634,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,X,a*,a,numeric,未说明,果实颜色 a* 相关,测量/处理来源未确认,213,48,0.22535211267605634,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Y,EthyleneRate,ethylenerate,numeric,未说明,乙烯速率列,衍生量/日龄,213,153,0.7183098591549296,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,Z,CO2Rate,co2rate,numeric,未说明,二氧化碳速率列,衍生量/日龄,213,153,0.7183098591549296,,0
+Plant/2020/2020b_fruit.csv,Proefcentrum Hoogstraten (Meerle),2020,(CSV),Plant,AA,O2Rate,o2rate,numeric,未说明,氧气速率列,衍生量/日龄,213,153,0.7183098591549296,,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,429,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,B,DAA,daa,numeric,d,开花后天数,衍生量/日龄,429,0,0.0,,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,C,Zone,zone,numeric,编号/类别,温室内部区域,采样设计元数据,429,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,D,Fruit,fruit,text,编号/类别,果位/果实编码,采样设计元数据,429,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,E,Measurement,measurement,numeric,编号/类别,测量/重复编号,采样设计元数据,429,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,F,Diameter,diameter,numeric,mm,果实最大直径,植物性状观测,429,64,0.14918414918414918,,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,G,Fresh weight,fresh_weight,numeric,g,鲜重,植物性状观测,429,64,0.14918414918414918,,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,H,Dry weight,dry_weight,numeric,g,干重,植物性状观测,429,263,0.6130536130536131,,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,I,FW,fw,numeric,%（见备注）,鲜重比例,衍生量/日龄,429,263,0.6130536130536131,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2020/Fruit_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Data,Plant,J,DW,dw,numeric,%（见备注）,干重比例,衍生量/日龄,429,263,0.6130536130536131,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,408,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,B,Week,week,numeric,编号/类别,周序号,采样设计元数据,408,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,C,Row,row,numeric,编号/类别,栽培行内位置,采样设计元数据,408,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,D,Zone,zone,numeric,编号/类别,温室内部区域,采样设计元数据,408,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,E,Plant ID,plant_id,numeric,编号/类别,表内植物标识,采样设计元数据,408,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,F,Stem growth,stem_growth,numeric,cm,两次测量间主茎增量,植物性状观测,408,17,0.041666666666666664,,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,G,Total stem length,total_stem_length,numeric,cm,主茎全长,植物性状观测,408,5,0.012254901960784314,,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,H,Stem diameter,stem_diameter,numeric,mm,茎径,植物性状观测,408,16,0.0392156862745098,,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,I,Highest truss,highest_truss,numeric,计数,Highest truss,人工观测/计数,408,3,0.007352941176470588,,0
+Plant/2020/Growth_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_Growth,Plant,J,Initialized number of nodes (estimate),initialized_number_of_nodes_estimate,numeric,计数,Initialized number of nodes (estimate),估计量,408,24,0.058823529411764705,,0
+Plant/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,29,0,0.0,元数据行不计作观测,0
+Plant/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,29,1,0.034482758620689655,元数据行不计作观测,0
+Plant/2020/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2020,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,29,1,0.034482758620689655,元数据行不计作观测,0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,28,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,B,Week,week,numeric,编号/类别,周序号,采样设计元数据,28,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,C,Row,row,numeric,编号/类别,栽培行内位置,采样设计元数据,28,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,D,Zone,zone,numeric,编号/类别,温室内部区域,采样设计元数据,28,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,E,LAI,lai,numeric,无量纲,叶面积指数,衍生量/日龄,28,0,0.0,,0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,F,Prunning,prunning,text,类别,修剪状态,人工状态记录,28,24,0.8571428571428571,空白语义不明，不自动解释为 No,0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,G,Number of leaves,number_of_leaves,numeric,计数,Number of leaves,人工观测/计数,28,12,0.42857142857142855,,0
+Plant/2020/LAI_2020.xlsx,Proefcentrum Hoogstraten (Meerle),2020,2020_ LAI,Plant,H,Number of trusses,number_of_trusses,numeric,计数,Number of trusses,人工观测/计数,28,12,0.42857142857142855,,0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,446,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,B,Side,side,text,编号/类别,采样侧；按各表原编码,采样设计元数据,446,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,C,Plant,plant,numeric,编号/类别,表内植物标识,采样设计元数据,446,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,D,Leaf,leaf,numeric,编号/类别,表内叶标识,采样设计元数据,446,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,E,Length,length,numeric,cm,叶长,植物性状观测,446,0,0.0,,0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,F,Width,width,numeric,cm,叶宽,植物性状观测,446,0,0.0,,0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,G,Area,area,numeric,cm²,叶面积,植物性状观测,446,0,0.0,,0
+Plant/2020/LA_2019.xlsx,Proefcentrum Hoogstraten (Meerle),2019,Date,Plant,H,Mass,mass,numeric,g,叶鲜重,植物性状观测,446,107,0.2399103139013453,,0
+Plant/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,16,0,0.0,元数据行不计作观测,0
+Plant/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,16,1,0.0625,元数据行不计作观测,0
+Plant/2021/Info.xlsx,KU Leuven (Heverlee),2021,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,16,1,0.0625,元数据行不计作观测,0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,A,Days after planting,days_after_planting,numeric,d,定植后天数,衍生量/日龄,51,0,0.0,,0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,B,Plant,plant,text,编号/类别,表内植物标识,采样设计元数据,51,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,C,Leaf,leaf,text,编号/类别,表内叶标识,采样设计元数据,51,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,D,Fresh weight,fresh_weight,numeric,g,鲜重,植物性状观测,51,0,0.0,,0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,E,Dry weight,dry_weight,numeric,g,干重,植物性状观测,51,0,0.0,,0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,F,FW,fw,numeric,%（见备注）,鲜重比例,衍生量/日龄,51,0,0.0,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,G,DW,dw,numeric,%（见备注）,干重比例,衍生量/日龄,51,0,0.0,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2021/LA_2021.xlsx,KU Leuven (Heverlee),2021,2021_LA,Plant,H,Area,area,numeric,m²,叶面积,植物性状观测,51,0,0.0,,0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,124,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,B,Weeks after planting,weeks_after_planting,numeric,week,定植后周数,衍生量/日龄,124,0,0.0,,0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,C,Days after planting,days_after_planting,numeric,d,定植后天数,衍生量/日龄,124,0,0.0,,0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,D,Plant,plant,text,编号/类别,表内植物标识,采样设计元数据,124,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,E,Leaf,leaf,text,编号/类别,表内叶标识,采样设计元数据,124,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,F,Fresh weight,fresh_weight,numeric,g,鲜重,植物性状观测,124,0,0.0,,0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,G,Dry weight,dry_weight,numeric,g,干重,植物性状观测,124,0,0.0,,0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,H,FW,fw,numeric,%（见备注）,鲜重比例,衍生量/日龄,124,0,0.0,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2021/Leaves_2021.xlsx,KU Leuven (Heverlee),2021,2021_leaves,Plant,I,DW,dw,numeric,%（见备注）,干重比例,衍生量/日龄,124,0,0.0,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,420,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,B,Plant,plant,text,编号/类别,表内植物标识,采样设计元数据,420,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,C,Weeks after planting,weeks_after_planting,numeric,week,定植后周数,衍生量/日龄,420,0,0.0,,0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,D,Days after planting,days_after_planting,numeric,d,定植后天数,衍生量/日龄,420,0,0.0,,0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,E,Leaves,leaves,numeric,计数,Leaves,人工观测/计数,420,66,0.15714285714285714,,0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,F,Flowers,flowers,numeric,计数,Flowers,人工观测/计数,420,66,0.15714285714285714,,0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,G,Trusses,trusses,numeric,计数,Trusses,人工观测/计数,420,66,0.15714285714285714,,0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,H,Stem length,stem_length,numeric,cm,主茎长,植物性状观测,420,18,0.04285714285714286,,0
+Plant/2021/PlantGrowth_2021.xlsx,KU Leuven (Heverlee),2021,2021_PlantGrowth,Plant,I,Stem diameter,stem_diameter,numeric,mm,茎径,植物性状观测,420,378,0.9,,0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,22,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,B,Weeks after planting,weeks_after_planting,numeric,week,定植后周数,衍生量/日龄,22,0,0.0,,0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,C,Days after planting,days_after_planting,numeric,d,定植后天数,衍生量/日龄,22,0,0.0,,0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,D,Plant,plant,text,编号/类别,表内植物标识,采样设计元数据,22,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,E,Fresh weight,fresh_weight,numeric,g,鲜重,植物性状观测,22,0,0.0,,0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,F,Dry weight,dry_weight,numeric,g,干重,植物性状观测,22,0,0.0,,0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,G,FW,fw,numeric,%（见备注）,鲜重比例,衍生量/日龄,22,0,0.0,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2021/Stem_2021.xlsx,KU Leuven (Heverlee),2021,2021_Stem,Plant,H,DW,dw,numeric,%（见备注）,干重比例,衍生量/日龄,22,0,0.0,2020 果实表非空值为 0–1 比例，Info 标为百分比；2021 源表按 0–100 表示,0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,A,Days after planting,days_after_planting,numeric,d,定植后天数,衍生量/日龄,56,0,0.0,,0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,B,Plant,plant,text,编号/类别,表内植物标识,采样设计元数据,56,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,C,Leaves,leaves,numeric,计数,Leaves,人工观测/计数,56,0,0.0,,0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,D,Flowers,flowers,numeric,计数,Flowers,人工观测/计数,56,0,0.0,,0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,E,New leaves,new_leaves,numeric,计数,New leaves,人工观测/计数,56,16,0.2857142857142857,,0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,F,New flowers,new_flowers,numeric,计数,New flowers,人工观测/计数,56,16,0.2857142857142857,,0
+Plant/2022/Growth_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,G,New stem,new_stem,numeric,cm,新增长茎长,植物性状观测,56,0,0.0,,0
+Plant/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,16,0,0.0,元数据行不计作观测,0
+Plant/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,16,1,0.0625,元数据行不计作观测,0
+Plant/2022/Info.xlsx,KU Leuven (Heverlee),2022,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,16,1,0.0625,元数据行不计作观测,0
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,48,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,B,Plant,plant,numeric,编号/类别,表内植物标识,采样设计元数据,48,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,C,Leaf,leaf,numeric,编号/类别,表内叶标识,采样设计元数据,48,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2022/LA_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,D,Area,area,numeric,m²,叶面积,植物性状观测,48,0,0.0,,0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,A,Time,timestamp,minute display/export; duplicate instants,日或日期时间,记录日期或时间戳,时间索引,432283,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,B,Scale1,load_cell_mass_1,numeric,g,蒸腾试验称重通道的原始读数,称重传感器读数,432283,13213,0.030565624833731608,未换算为蒸腾速率；不得把零当缺失,0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,C,Scale2,load_cell_mass_2,numeric,g,蒸腾试验称重通道的原始读数,称重传感器读数,432283,321892,0.7446325670914655,未换算为蒸腾速率；不得把零当缺失,0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,D,Scale3,load_cell_mass_3,numeric,g,蒸腾试验称重通道的原始读数,称重传感器读数,432283,4,9.253197558081164e-06,未换算为蒸腾速率；不得把零当缺失,0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,E,Scale4,load_cell_mass_4,numeric,g,蒸腾试验称重通道的原始读数,称重传感器读数,432283,12840,0.029702764161440538,未换算为蒸腾速率；不得把零当缺失,0
+Plant/2022/Transpiration_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,F,Scale5,load_cell_mass_5,numeric,g,蒸腾试验称重通道的原始读数,称重传感器读数,432283,325204,0.7522942146695567,未换算为蒸腾速率；不得把零当缺失,0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,30,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,B,Measurement,measurement,numeric,编号/类别,测量/重复编号,采样设计元数据,30,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,C,WP1,stem_water_potential_compartment_1,numeric,MPa,对应冠层分层的茎水势,压力室实测,30,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,D,WP2,stem_water_potential_compartment_2,numeric,MPa,对应冠层分层的茎水势,压力室实测,30,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,E,WP3,stem_water_potential_compartment_3,numeric,MPa,对应冠层分层的茎水势,压力室实测,30,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2022/WP_2022.csv,KU Leuven (Heverlee),2022,(CSV),Plant,F,WP4,stem_water_potential_compartment_4,numeric,MPa,对应冠层分层的茎水势,压力室实测,30,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,30,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,B,Measurement,measurement,numeric,编号/类别,测量/重复编号,采样设计元数据,30,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,C,WP1,stem_water_potential_compartment_1,numeric,MPa,对应冠层分层的茎水势,压力室实测,30,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,D,WP2,stem_water_potential_compartment_2,numeric,MPa,对应冠层分层的茎水势,压力室实测,30,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,E,WP3,stem_water_potential_compartment_3,numeric,MPa,对应冠层分层的茎水势,压力室实测,30,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2022/WP_2022.xlsx,KU Leuven (Heverlee),2022,Data,Plant,F,WP4,stem_water_potential_compartment_4,numeric,MPa,对应冠层分层的茎水势,压力室实测,30,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,11,0,0.0,元数据行不计作观测,0
+Plant/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,11,1,0.09090909090909091,元数据行不计作观测,0
+Plant/2023/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,11,1,0.09090909090909091,元数据行不计作观测,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,2,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,B,Stem length,stem_length,list in cell / mixed,m,主茎长,植物性状观测,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,C,Number of leaves,number_of_leaves,list in cell / mixed,计数,Number of leaves,人工观测/计数,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,D,Length between 5 leaves,length_between_5_leaves,list in cell / mixed,cm,跨五片叶的茎段长度,植物性状观测,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,E,Diameter middle,diameter_middle,list in cell / mixed,mm,带叶段中部茎径,植物性状观测,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,F,Diameter bottom,diameter_bottom,list in cell / mixed,mm,带叶段底部茎径,植物性状观测,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,G,LA_comp4,leaf_area_compartment_4,numeric,m²,指定分层的叶面积,植物性状观测,2,0,0.0,,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,H,LA_comp3,leaf_area_compartment_3,numeric,m²,指定分层的叶面积,植物性状观测,2,0,0.0,,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,I,LA_comp2,leaf_area_compartment_2,numeric,m²,指定分层的叶面积,植物性状观测,2,0,0.0,,0
+Plant/2023/Plant_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,J,LA_comp1,leaf_area_compartment_1,numeric,m²,指定分层的叶面积,植物性状观测,2,0,0.0,,0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,32,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,B,Measurement,measurement,numeric,编号/类别,测量/重复编号,采样设计元数据,32,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,C,WP1,stem_water_potential_compartment_1,numeric,MPa,对应冠层分层的茎水势,压力室实测,32,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,D,WP2,stem_water_potential_compartment_2,numeric,MPa,对应冠层分层的茎水势,压力室实测,32,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,E,WP3,stem_water_potential_compartment_3,numeric,MPa,对应冠层分层的茎水势,压力室实测,32,18,0.5625,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2023/WP_2023.xlsx,Proefcentrum Hoogstraten (Meerle),2023,Data,Plant,F,WP4,stem_water_potential_compartment_4,numeric,MPa,对应冠层分层的茎水势,压力室实测,32,18,0.5625,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,A,Entry,entry,text,依条目,Entry,说明/传感器布置元数据,11,0,0.0,元数据行不计作观测,0
+Plant/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,B,Description_or_Manufacturer,description_or_manufacturer,text,依条目,Description_or_Manufacturer,说明/传感器布置元数据,11,1,0.09090909090909091,元数据行不计作观测,0
+Plant/2024/Info.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Info,metadata,C,Unit_or_Type,unit_or_type,text,依条目,Unit_or_Type,说明/传感器布置元数据,11,1,0.09090909090909091,元数据行不计作观测,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,A,Date,date,day only,日或日期时间,记录日期或时间戳,时间索引,2,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,B,Stem length,stem_length,list in cell / mixed,m,主茎长,植物性状观测,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,C,Number of leaves,number_of_leaves,list in cell / mixed,计数,Number of leaves,人工观测/计数,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,D,Length between 5 leaves,length_between_5_leaves,list in cell / mixed,cm,跨五片叶的茎段长度,植物性状观测,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,E,Diameter middle,diameter_middle,list in cell / mixed,mm,带叶段中部茎径,植物性状观测,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,F,Diameter bottom,diameter_bottom,list in cell / mixed,mm,带叶段底部茎径,植物性状观测,2,0,0.0,单元格内含逗号分隔多值；个体映射未给出,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,G,LA_comp4,leaf_area_compartment_4,numeric,m²,指定分层的叶面积,植物性状观测,2,0,0.0,,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,H,LA_comp3,leaf_area_compartment_3,numeric,m²,指定分层的叶面积,植物性状观测,2,0,0.0,,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,I,LA_comp2,leaf_area_compartment_2,numeric,m²,指定分层的叶面积,植物性状观测,2,0,0.0,,0
+Plant/2024/Plant_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Sheet1,Plant,J,LA_comp1,leaf_area_compartment_1,numeric,m²,指定分层的叶面积,植物性状观测,2,0,0.0,,0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,A,Time,timestamp,absolute date-time where parseable,日或日期时间,记录日期或时间戳,时间索引,32,0,0.0,原始时间保留；解析状态见 timestamp_quality.csv,0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,B,Measurement,measurement,numeric,编号/类别,测量/重复编号,采样设计元数据,32,0,0.0,标识作用域限本表/活动，需核对才可跨表追踪,0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,C,WP1,stem_water_potential_compartment_1,numeric,MPa,对应冠层分层的茎水势,压力室实测,32,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,D,WP2,stem_water_potential_compartment_2,numeric,MPa,对应冠层分层的茎水势,压力室实测,32,0,0.0,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,E,WP3,stem_water_potential_compartment_3,numeric,MPa,对应冠层分层的茎水势,压力室实测,32,18,0.5625,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0
+Plant/2024/WP_2024.xlsx,Proefcentrum Hoogstraten (Meerle),2024,Data,Plant,F,WP4,stem_water_potential_compartment_4,numeric,MPa,对应冠层分层的茎水势,压力室实测,32,18,0.5625,遮光包叶 30 min；Measurement 为测量编号，个体/叶片 ID 未发布,0

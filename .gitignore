@@ -1,0 +1,27 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv*/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Local credentials and tooling
+.env
+.env.*
+*.pem
+*.key
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
+
+# Third-party downloads stay local. Keep the public provenance and selection metadata.
+/greenhouse_tomato_data_audit/raw/*
+!/greenhouse_tomato_data_audit/raw/mendeley_*.json
+/dataset_scouting_round2/raw/*
+!/dataset_scouting_round2/raw/catalog/
+/dataset_scouting_round2/raw/catalog/*
+!/dataset_scouting_round2/raw/catalog/*.json
+!/dataset_scouting_round2/raw/catalog/*_selection.txt
+!/dataset_scouting_round2/raw/catalog/*_zip_members.csv

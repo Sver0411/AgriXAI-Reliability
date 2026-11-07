@@ -1,0 +1,2 @@
+# Retain the source and result bytes used for the reproducibility checks.
+* -text

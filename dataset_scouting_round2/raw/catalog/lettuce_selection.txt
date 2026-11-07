@@ -1,0 +1,3 @@
+Lettuce_growth/4_Biomass.xlsx
+Lettuce_growth/1_README_Lettuce_Dataset.txt
+Lettuce_growth/5_Environment_Solution.xlsx
